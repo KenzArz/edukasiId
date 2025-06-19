@@ -22,7 +22,7 @@ const teamMembers = [
 	{
 		name: "Bajang Riau Asqor",
 		npm: "2410631170061",
-		image: "",
+		image: "/images/member/bajang.png",
 	},
 	{
 		name: "Mediana Santosa",
@@ -32,7 +32,7 @@ const teamMembers = [
 	{
 		name: "Muhammad Abdul Halim",
 		npm: "2410631170153",
-		image: "",
+		image: "/images/member/halim.png",
 	},
 	{
 		name: "Muhammad Zidane Akbari",
