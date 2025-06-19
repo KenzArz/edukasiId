@@ -877,7 +877,146 @@ export const allBlogPosts = [
 		author: "Tim EdukasiID",
 		date: "12 Juni 2025",
 		image: "/images/blog/5.png",
-		content: [],
+		content: [
+			{
+				type: "heading",
+				level: 2,
+				text: "Pengertian Ilmu Pengetahuan Dan Teknologi",
+			},
+			{
+				type: "paragraph",
+				text: "Ilmu adalah kumpulan pengetahuan yang tersusun sistematis dan logis. Pengetahuan bisa berasal dari akal sehat dan belum tentu empiris. Ilmu pengetahuan merupakan integrasi dari keduanya dalam kerangka yang koheren. Teknologi mencakup alat, mesin, dan metode untuk menerapkan teori. Jadi, IPTEK adalah perpaduan teori, penerapan, dan alat untuk menciptakan perubahan ke arah lebih baik.",
+			},
+			{
+				type: "paragraph",
+				text: "Di negara maju, IPTEK terbukti meningkatkan produktivitas dan ekonomi. Namun, di banyak negara berkembang, termasuk berpenduduk Muslim, pemanfaatannya belum optimal. Islam sangat mendorong penguasaan IPTEK karena dengan ilmu, manusia dapat memahami sejarah, etika, dan menjalankan tugas sebagai khalifah secara bijak dan bertanggung jawab.",
+			},
+			{
+				type: "heading",
+				level: 2,
+				text: "Sejarah Perkembangan Ilmu Pengetahuan dan Teknologi dalam Peradaban Islam",
+			},
+			{
+				type: "paragraph",
+				text: "Empat belas abad lalu, wahyu pertama (QS. Al-Alaq 1-5) mendorong manusia untuk membaca dan menuntut ilmu selama tidak melanggar syariat. Islam sangat menghargai ilmu pengetahuan dan teknologi (IPTEK), seperti yang terlihat dari banyak ayat Al-Qur’an yang mengajak memanfaatkan nikmat Allah melalui pengembangan IPTEK."
+			},
+			{
+				type: "paragraph",
+				text: "Pada masa keemasan Dinasti Abbasiyah (abad ke-8 M), umat Islam berhasil mengembangkan ilmu melalui penerjemahan karya Yunani dan Persia. Tokoh-tokoh seperti Al-Khawarizmi, Ibnu Sina, dan AlBiruni membuat terobosan besar di bidang matematika, kedokteran, dan astronomi. Kemajuan IPTEK Islam juga terlihat dalam pertanian dengan sistem irigasi maju, serta karya arsitektur monumental seperti Masjid Agung Cordoba dan Istana Al-Hambra. Kesuksesan ini didasari oleh iman dan takwa, menjadikan sains sebagai perpaduan antara logika dan etika spiritual. Kini, generasi muda Islam dituntut untuk memahami ayat qauliyah (wahyu) dan kauniyah (alam semesta) agar mampu mengembangkan IPTEK yang beradab dan bermartabat.",
+			},
+			{
+				type: "heading",
+				level: 2,
+				text: "Tokoh-Tokoh Muslim dalam Perkembangan Ilmu Pengetahuan dan Teknologi",
+			},
+			{
+				type: "list",
+				items: [
+					"Muhammad ibn Musa Al-Khawarizmi: Bapak aljabar, perkenalkan konsep aljabar lewat bukunya Al-Kitab al-Mukhtasar fi Hisab al-Jabr wal-Muqabala. Istilah algorithm berasal dari namanya. Karyanya jadi dasar matematika modern di Eropa.",
+					"Ibn Sina (Avicenna): Tokoh besar kedokteran, penulis Al-Qanun fi al-Tibb yang jadi literatur standar selama 600 tahun. Pendekatan rasional dan sistematis dalam diagnosis dan pengobatan",
+					"Ibn al-Haytham (Alhazen): Pelopor metode ilmiah modern di optik dan fisika. Bukunya Kitab al-Manazir jelaskan cahaya dan penglihatan dengan eksperimen dan observasi.",
+					"Jabir ibn Hayyan: Bapak kimia modern, temukan teknik destilasi, kristalisasi, sublimasi. Menulis 100+ karya tentang kimia dan alkimia.",
+					"Al-Biruni : Ilmuwan multidisiplin di astronomi, geografi, dan sejarah. Menghitung diameter bumi dengan akurat."
+				]
+			},
+			{
+				type: "heading",
+				level: 2,
+				text: "Pandangan Islam terhadap Perkembangan Ilmu Pengetahuan dan Teknologi"
+			},
+			{
+				type: "paragraph",
+				text: "Islam memberikan perhatian yang besar terhadap ilmu pengetahuan dan teknologi. Banyak ayat dalam Al-Qur’an yang mendorong umat manusia untuk berpikir, merenungi ciptaan Allah, dan mencari ilmu. Bahkan wahyu pertama yang diturunkan kepada Nabi Muhammad SAW adalah perintah untuk membaca (QS. Al-‘Alaq: 1-5). Ini menegaskan bahwa menuntut ilmu adalah suatu kewajiban yang luhur dalam Islam, sebagaimana hadis Nabi SAW:"
+			},
+			{
+				type: "arabic",
+				text: "طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ وَمُسْلِمَةٍ",
+				translation: "Menuntut ilmu itu wajib bagi setiap Muslim dan Muslimah. (HR. Ibnu Majah)",
+			},
+			{
+				type: "paragraph",
+				text: "Islam memandang IPTEK bukan semata-mata alat untuk mencari nafkah atau kekuasaan, melainkan sarana untuk mengenal Allah dan memperbaiki kehidupan di dunia. Teknologi adalah amanah yang harus digunakan untuk kemaslahatan umat manusia, dengan penekanan pada akhlak dan etika agar tidak menimbulkan kerusakan atau penyalahgunaan.",
+			},
+			{
+				type: "paragraph",
+				text: "Para ulama dan cendekiawan Muslim sepanjang sejarah tidak pernah memisahkan antara ilmu agama dan ilmu dunia, menunjukkan bahwa Islam memandang ilmu pengetahuan secara holistik, tidak hanya intelektual tetapi juga spiritual.",
+			},
+			{
+				type: "paragraph",
+				text: "Namun, Islam juga mengingatkan akan bahaya penggunaan IPTEK tanpa disertai moral yang baik. Perkembangan teknologi seperti kecerdasan buatan, bioteknologi, atau senjata pemusnah massal harus dibatasi oleh prinsip-prinsip etika yang sesuai dengan ajaran Islam. Tujuan utama IPTEK dalam Islam adalah membangun kehidupan yang baik, adil, berkeadaban, dan tidak menindas, mengeksploitasi, atau merusak ciptaan Tuhan.",
+			},
+			{
+				type: "paragraph",
+				text: "Dengan demikian, Islam mengajarkan bahwa IPTEK harus dikembangkan dalam kerangka nilai-nilai ketuhanan, kemanusiaan, dan tanggung jawab sosial. Inilah bentuk integrasi antara iman dan akal yang menjadi ciri khas peradaban Islam yang beradab dan berilmu.",
+			},
+			{
+				type: "heading",
+				level: 2,
+				text: "Tantangan dan Strategi Umat Islam Indonesia dalam Menghadapi Perkembangan IPTEK di Era Society 5.0",
+			},
+			{
+				type: "parahraph",
+				text: "Era Society 5.0, sebuah konsep yang pertama kali diperkenalkan oleh pemerintah Jepang, menekankan integrasi ruang fisik dan digital untuk memecahkan berbagai permasalahan sosial dan ekonomi. Konsep ini bertujuan untuk menciptakan masyarakat yang berpusat pada manusia, di mana teknologi seperti AI, IoT, dan big data dimanfaatkan untuk peningkatan kualitas hidup. Namun, kemajuan teknologi ini juga menghadirkan tantangan kesenjangan digital yang signifikan, terutama di wilayah pedesaan. Di Indonesia, misalnya, akses internet masih belum merata, yang berpotensi memperlebar kesenjangan antarwilayah.",
+			},
+			{
+				type: "paragraph",
+				text: 'Pemerintah telah merespons tantangan ini dengan berbagai strategi, termasuk pengembangan infrastruktur digital di lebih dari 12.000 desa tertinggal dan program Digital Talent Scholarship untuk meningkatkan kompetensi SDM di bidang teknologi. Ini adalah langkah penting untuk memastikan bahwa manfaat teknologi dapat dirasakan oleh semua lapisan masyarakat, sejalan dengan filosofi "berat sama dipikul, ringan sama dijinjing."',
+			},
+			{
+				type: "paragraph",
+				text: "Dari perspektif Islam, penguasaan ilmu dan teknologi adalah bagian integral dari ibadah kepada Allah SWT. Al-Qur'an sendiri mendorong kita untuk terus belajar dan memahami ciptaan-Nya:",
+			},
+			{
+				type: "arabic",
+				text: "أَمَّنْ هُوَ قَانِتٌ ءَانَاۤءَ ٱلَّيْلِ سَاجِدًا وَقَا۟ئِمًا يَحْذَرُ ٱلْءَاخِرَةَ وَيَرْجُوا۟ رَحْمَةَ رَبِّهِۦۗ قُلْ هَلْ يَسْتَوِى ٱلَّذِينَ يَعْلَمُونَ وَٱلَّذِينَ لَا يَعْلَمُونَۗ إِنَّمَا يَتَذَكَّرُ أُو۟لُوا۟ ٱلْأَلْبَٰبِ",
+				translation: "(Apakah kamu orang musyrik yang lebih beruntung) ataukah orang yang beribadah pada waktu malam dengan sujud dan berdiri, karena takut kepada (azab) akhirat dan mengharapkan rahmat Tuhannya? Katakanlah, “Apakah sama orang-orang yang mengetahui dengan orang-orang yang tidak mengetahui?” Sebenarnya hanya orang yang berakal sehat yang dapat menerima pelajaran. (QS. Az-Zumar: 9)",
+			},
+			{
+				type: "paragraph",
+				text: "Selain itu, Nabi Muhammad SAW juga menekankan pentingnya ilmu pengetahuan, bahkan dalam konteks duniawi:",
+			},
+			{
+				type: "arabic",
+				text: "اَلْعُلَمَاءُ وَرَثَةُ الْأَنْبِيَاءِ وَإِنَّ الْأَنْبِيَاءَ لَمْ يُوَرِّثُوْا دِيْنَارًا وَلَا دِرْهَامًا، وَلَكِنْ وَرَّثُوْا الْعِلْمَ، فَمَنْ أَخَذَهُ أَخَذَ بِحَظٍّ وَافِرٍ",
+				translation: "Para ulama adalah pewaris para nabi, dan para nabi tidak mewariskan dinar atau dirham, tetapi mereka mewariskan ilmu. Barang siapa mengambilnya, maka dia telah mengambil bagian yang banyak. (HR. Abu Dawud)",
+			},
+			{
+				type: "paragraph",
+				text: "Dalam menghadapi Era Society 5.0, umat Islam memiliki tanggung jawab untuk tidak hanya menguasai teknologi, tetapi juga menggunakannya untuk membawa manfaat bagi sesama. Pendekatan yang seimbang antara penguasaan teknologi dan penguatan spiritual sangat esensial. Teknologi seharusnya bukan hanya alat untuk efisiensi, tetapi juga sarana membangun keadilan sosial, memperluas kesejahteraan, dan memperkokoh peradaban yang berlandaskan akhlak mulia. Dengan demikian, kita dapat memastikan bahwa kemajuan digital benar-benar memberdayakan seluruh umat manusia, mencerminkan nilai-nilai kebersamaan dan kebermanfaatan yang diajarkan dalam Islam.",
+			},
+			{
+				type: "heading",
+				level: 2,
+				text: "Strategi Umat Islam Indonesia dalam Menghadapi Society 5.0",
+			},
+			{
+				type: "list_number",
+				items: [
+					"Literasi Digital Berbasis Masjid dan Pesantren Mengembangkan pelatihan teknologi berbasis komunitas Muslim agar masyarakat dapat memanfaatkan teknologi secara produktif dan Islami.",
+					"Kurikulum Terpadu IPTEK dan Aqidah Menyusun modul pembelajaran yang menyatukan ilmu pengetahuan modern dengan prinsip-prinsip akidah dan akhlak.",
+					"Pelatihan Dai Digital dan Guru IPTEK Menyiapkan para dai, ustaz, dan guru agar fasih menggunakan platform digital untuk menyampaikan dakwah dan ilmu secara efektif.",
+					"Fatwa dan Etika Digital Islami Mendorong Majelis Ulama Indonesia (MUI) dan ormas Islam untuk merumuskan panduan etika digital Islami di tengah arus hoaks, konten negatif, dan eksploitasi data.",
+					"Kolaborasi Lintas Sektor Membangun sinergi antara lembaga dakwah, universitas Islam, dan kementerian terkait dalam mengembangkan riset-riset IPTEK berbasis maqashid syariah.",
+				],
+			},
+			{
+				type: "heading",
+				level: 2,
+				text: "Kesimpulan",
+			},
+			{
+				type: "paragraph",
+				text: "Ilmu Pengetahuan dan Teknologi (IPTEK) merupakan fondasi penting dalam membangun peradaban manusia. IPTEK tidak hanya mencakup penguasaan teori dan teknologi, tetapi juga penerapan nilai-nilai moral dan spiritual. Dalam Islam, IPTEK dipandang sebagai bagian dari amanah dan sarana untuk mengenal serta mendekatkan diri kepada Allah SWT.",
+			},
+			{
+				type: "paragraph",
+				text: "Perkembangan IPTEK dalam sejarah Islam menunjukkan bahwa umat Muslim memiliki kontribusi besar terhadap kemajuan sains dunia, dengan lahirnya banyak ilmuwan besar seperti Al-Khawarizmi, Ibn Sina, dan Al-Biruni. Mereka membuktikan bahwa ilmu dan agama dapat berjalan seiring, saling memperkuat, dan mendorong kemajuan umat.",
+			},
+			{
+				type: "paragraph",
+				text: "Islam menekankan pentingnya penguasaan ilmu pengetahuan dan teknologi dalam kerangka iman dan etika. Ilmu yang dikembangkan tanpa nilai moral dapat membawa kerusakan, sementara ilmu yang disertai akhlak akan menjadi berkah bagi umat manusia. Oleh karena itu, umat Islam masa kini, khususnya generasi muda, perlu mengintegrasikan nilai-nilai Al-Qur’an dan pengetahuan alam untuk menciptakan IPTEK yang beradab dan bermanfaat bagi dunia."
+			}
+		],
 	},
 	{
 		id: 6,
