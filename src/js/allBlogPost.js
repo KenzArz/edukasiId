@@ -1783,6 +1783,162 @@ export const allBlogPosts = [
 		author: "Tim EdukasiID",
 		date: "12 Juni 2025",
 		image: "/images/blog/12.png",
-		content: [],
+		content: [
+			{
+				type: "heading",
+				level: 2,
+				text: "Pengertian HAM",
+			},
+			{
+				type: "paragraph",
+				text: "Hak Asasi Manusia (HAM) secara fundamental adalah hak dasar yang melekat pada setiap individu sejak lahir, merupakan anugerah dari Tuhan Yang Maha Esa. Konsep ini tersusun dari tiga kata: 'hak' yang berarti kepemilikan atau kebenaran, 'asasi' yang merujuk pada sifat dasar atau pokok, serta 'manusia' yang mengacu pada orang atau makhluk berbudaya. Dengan demikian, HAM adalah hak fundamental yang menjadi dasar bagi setiap orang untuk hidup dan mendapatkan perlindungan yang layak, tanpa diskriminasi."
+			},
+			{
+				type: "paragraph",
+				text: "Secara terminologi, HAM dipandang sebagai seperangkat hak esensial yang melekat pada eksistensi manusia. Hak-hak ini wajib dihormati, dijunjung tinggi, dan dilindungi oleh negara, hukum, pemerintah, serta seluruh masyarakat demi menjamin kehormatan dan martabat manusia. HAM bersifat universal dan hakiki, artinya berlaku untuk semua orang, tidak dapat dicabut atau dihilangkan, serta tidak dapat dirampas oleh siapapun. Ini mencakup hak untuk hidup dan dilindungi tanpa memandang ras, agama, jenis kelamin, atau status sosial lainnya."
+			},
+			{
+				type: "paragraph",
+				text: "Berbagai definisi dari para ahli juga memperkuat pemahaman ini. Mahfudz M.D. mendefinisikan HAM sebagai hak yang melekat pada martabat setiap manusia sejak lahir dan bersifat kodrati. Sementara itu, A.J. Milne menyatakan bahwa HAM adalah hak yang dimiliki oleh semua umat manusia di dunia, di segala masa, dan di segala tempat, sebagai inti dari keberadaan manusia. Konsensus ini menegaskan bahwa HAM merupakan pilar utama dalam menjamin kehormatan dan keadilan bagi setiap individu di muka bumi."
+			},
+			{
+				type: "heading",
+				level: 2,
+				text: "Sejarah HAM"
+			},
+			{
+				type: "paragraph",
+				text: 'Hak Asasi Manusia (HAM) adalah fondasi fundamental yang melekat pada setiap individu sejak lahir, tidak peduli status sosial, ekonomi, ras, agama, atau kebangsaannya. Gagasan HAM berakar dari konsep "hak alamiah" yang sudah ada sejak Abad Pencerahan, sebagaimana dipelopori oleh filsuf John Locke. Pemikiran ini kemudian menginspirasi berbagai deklarasi bersejarah, seperti Deklarasi Kemerdekaan Amerika Serikat (1776) dan Deklarasi Hak-Hak Manusia dan Warga Negara Prancis (1789), yang menegaskan bahwa setiap manusia dilahirkan dengan kebebasan dan kesetaraan dalam martabat dan hak.',
+			},
+			{
+				type: "paragraph",
+				text: "Seiring berjalannya waktu, konsep HAM berkembang menjadi prinsip moral dan legal universal yang diakui secara internasional. Titik balik penting terjadi pada tahun 1948 dengan disahkannya Deklarasi Universal Hak-Hak Asasi Manusia (DUHAM) oleh Perserikatan Bangsa-Bangsa (PBB). Dokumen ini menjadi pedoman global yang menguraikan hak-hak dasar yang harus dimiliki setiap orang. Selanjutnya, Kovenan Internasional tentang Hak-Hak Sipil dan Politik, serta Kovenan Internasional tentang Hak-Hak Ekonomi, Sosial, dan Budaya yang disahkan pada tahun 1966, semakin memperkuat kerangka hukum internasional untuk melindungi HAM.",
+			},
+			{
+				type: "paragraph",
+				text: "Implementasi HAM di tingkat global, khususnya di negara-negara berkembang, seringkali dihadapkan pada tantangan yang kompleks. Adanya pandangan yang mengutamakan kepentingan nasional atau budaya lokal kadang-kadang dapat menjadi hambatan. Namun, penting untuk diingat bahwa HAM adalah nilai universal yang tidak bertentangan dengan identitas budaya, melainkan memperkaya dan melengkapi pembangunan suatu bangsa. Di Indonesia dan negara-negara ASEAN, upaya untuk mengintegrasikan nilai-nilai HAM dalam kebijakan publik terus dilakukan, sebagai bagian integral dari pembangunan berkelanjutan yang berpusat pada martabat manusia."
+			},
+			{
+				type: "heading",
+				level: 2,
+				text: "HAM Dalam Islam"
+			},
+			{
+				type: "paragraph",
+				text: "Berbeda dengan demokrasi yang masih diperdebatkan di kalangan ulama dan intelektual Muslim, konsep hak asasi manusia (HAM) umumnya diterima karena nilai-nilainya sejalan dengan ajaran Islam sejak awal. Islam mengakui martabat manusia sebagai khalifah Allah di bumi, sebagaimana ditegaskan dalam Q.S. Al-Isra': 70.",
+			},
+			{
+				type: "arabic",
+				text: "وَلَقَدْ كَرَّمْنَا بَنِيْٓ اٰدَمَ وَحَمَلْنٰهُمْ فِى الْبَرِّ وَالْبَحْرِ وَرَزَقْنٰهُمْ مِّنَ الطَّيِّبٰتِ وَفَضَّلْنٰهُمْ عَلٰى كَثِيْرٍ مِّمَّنْ خَلَقْنَا تَفْضِيْلًاࣖ",
+				translation: "Sungguh, Kami telah memuliakan anak cucu Adam dan Kami angkut mereka di darat dan di laut. Kami anugerahkan pula kepada mereka rezeki dari yang baik-baik dan Kami lebihkan mereka di atas banyak makhluk yang Kami ciptakan dengan kelebihan yang sempurna."
+			},
+			{
+				type: "paragraph",
+				text: "Hal ini mengandung pengertian bahwa manusia secara fitrah (natural) memiliki kemulian (karamah) dan oleh karenanya kemulian ini harus dilindungi."
+			},
+			{
+				type: "paragraph",
+				text: "Kebebasan, termasuk kebebasan beragama, merupakan nilai penting yang diakui Islam. Q.S. Al-Baqarah: 256 menegaskan bahwa tidak ada paksaan dalam beragama. Namun, dalam fiqh klasik terdapat ketentuan hukuman mati bagi murtad, yang bertentangan dengan prinsip HAM modern. Karena itu, beberapa ulama kontemporer mengusulkan reinterpretasi terhadap hadis-hadis yang mendasarinya"
+			},
+			{
+				type: "arabic",
+				text: "لَآ اِكْرَاهَ فِى الدِّيْنِۗ قَدْ تَّبَيَّنَ الرُّشْدُ مِنَ الْغَيِّۚ فَمَنْ يَّكْفُرْ بِالطَّاغُوْتِ وَيُؤْمِنْۢ بِاللّٰهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقٰى لَا انْفِصَامَ لَهَاۗ وَاللّٰهُ سَمِيْعٌ عَلِيْمٌ ",
+				translation: "Tidak ada paksaan dalam (menganut) agama (Islam). Sungguh, telah jelas jalan yang benar dari jalan yang sesat. Siapa yang ingkar kepada tagut dan beriman kepada Allah sungguh telah berpegang teguh pada tali yang sangat kuat yang tidak akan putus. Allah Maha Mendengar lagi Maha Mengetahui."
+			},
+			{
+				type: "paragraph",
+				text: "Dalam hal status non-Muslim, fiqh klasik membedakan antara dzimmî, harbî, dan musta'min. Meskipun mereka dilindungi dan memiliki kebebasan beragama, hak-hak politik mereka dibatasi, seperti larangan menjabat sebagai kepala negara. Hal ini menunjukkan perlunya penyesuaian terhadap prinsip kesetaraan dalam HAM modern, dengan tetap mempertimbangkan konteks syariat."
+			},
+			{
+				type: "heading",
+				level: 2,
+				text: "Hak-Hak Manusia Dalam Al-Qur'an",
+			},
+			{
+				type: "paragraph",
+				text: "Hak untuk hidup adalah hak dasar yang melekat pada setiap manusia. Tidak ada individu atau institusi mana pun yang berhak mencabut nyawa seseorang tanpa alasan yang sah. Dalam pandangan Islam, hak hidup merupakan anugerah Allah yang harus dijaga dan dihormati. Salah satu ayat yang menjelaskan prinsip dasar kehidupan terdapat dalam Surah al-A'rāf ayat 24:"
+			},
+			{
+				type: "arabic",
+				text: "قَالَ اهْبِطُوْا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّۗ وَلَكُمْ فِى الْاَرْضِ مُسْتَقَرٌّ وَّمَتَاعٌ اِلٰى حِيْنٍ",
+				translation: "Dia (Allah) berfirman, 'Turunlah kamu! Sebagian kamu menjadi musuh bagi sebagian yang lain. Di bumi itu kamu akan menetap dan menikmati kehidupan sampai waktu yang ditentukan.'"
+			},
+			{
+				type: "paragraph",
+				text: "Dalam ayat ini, terdapat dua kata kunci:"
+			},
+			{
+				type: "list",
+				items: [
+					"Mustaqarr: Tempat tinggal atau tempat menetap, yang diartikan sebagai ruang untuk hidup dan berkembang.",
+					"Matā': Kesenangan atau sarana hidup, mencakup pemanfaatan sumber daya alam untuk memenuhi kebutuhan manusia.",
+				]
+			},
+			{
+				type: "paragraph",
+				text: "Dari penafsiran para ulama seperti Syekh al-Nāwiy dan Wahbah alZuhailiy, kedua istilah ini menunjukkan bahwa Allah menyediakan bumi sebagai tempat hidup yang layak dan mendukung keberlangsungan hidup manusia."
+			},
+			{
+				type: "paragraph",
+				text: "Islam memandang nyawa manusia sebagai sesuatu yang sangat berharga. Hal ini ditegaskan dalam Surah al-Māidah ayat 32:"
+			},
+			{
+				type: "arabic",
+				text: "مِنْ اَجْلِ ذٰلِكَ كَتَبْنَا عَلٰى بَنِيْٓ اِسْرَاۤءِيْلَ اَنَّهٗ مَنْ قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ اَوْ فَسَادٍ فِي الْاَرْضِ فَكَاَنَّمَا قَتَلَ النَّاسَ جَمِيْعًاۗ وَمَنْ اَحْيَاَهَا فَكَاَنَّمَآ اَحْيَا النَّاسَ جَمِيْعًاۗ",
+				translation: "Barangsiapa membunuh seseorang tanpa alasan yang dibenarkan, maka seolah-olah dia telah membunuh seluruh manusia. Dan barangsiapa memelihara kehidupan seorang manusia, maka seolah-olah dia telah memelihara kehidupan seluruh umat manusia."
+			},
+			{
+				type: "paragraph",
+				text: "Ayat ini mengajarkan bahwa setiap nyawa memiliki nilai yang tak terhingga, dan menjaga kehidupan orang lain merupakan tindakan mulia yang setara dengan menjaga seluruh umat manusia."
+			},
+			{
+				type: "paragraph",
+				text: "Selain aspek fisik, hak hidup juga mencakup aspek spiritual. Dalam pemahaman Islam, manusia secara naluriah memiliki kebutuhan untuk terhubung dengan kekuatan yang lebih tinggi, yaitu Tuhan. Konsep ini dikenal dalam antropologi sebagai emosi keagamaan (religious emotion). Syekh al-Nāwiy mengaitkan kata mustaqarr dengan rentang waktu antara kelahiran dan kematian, yang menunjukkan bahwa selama manusia hidup, ia memerlukan pegangan spiritual. Karen Armstrong, dalam bukunya A History of God, juga menekankan pentingnya agama sebagai sarana dialog manusia dengan Tuhan."
+			},
+			{
+				type: "heading",
+				level: 2,
+				text: "Hak Memperoleh Kemerdekaan"
+			},
+			{
+				type: "paragraph",
+				text: "Hak kemerdekaan manusia dalam Islam berakar pada prinsip al-karāmah al-insāniyah, yaitu kemuliaan yang melekat pada setiap manusia tanpa memandang status sosial, ras, atau latar belakang lainnya. Dalil utamanya terdapat dalam Q.S. al-Isrā' (17): 70:"
+			},
+			{
+				type: "arabic",
+				text: "وَلَقَدْ كَرَّمْنَا بَنِيْٓ اٰدَمَ وَحَمَلْنٰهُمْ فِى الْبَرِّ وَالْبَحْرِ وَرَزَقْنٰهُمْ مِّنَ الطَّيِّبٰتِ وَفَضَّلْنٰهُمْ عَلٰى كَثِيْرٍ مِّمَّنْ خَلَقْنَا تَفْضِيْلًا",
+				translation: "Dan sesungguhnya telah Kami muliakan anak-anak Adam, Kami angkut mereka di daratan dan di lautan, Kami beri mereka rezeki dari yang baik-baik dan Kami lebihkan mereka dengan kelebihan yang sempurna atas kebanyakan makhluk yang telah Kami ciptakan."
+			},
+			{
+				type: "paragraph",
+				text: "Kemuliaan insani adalah hal yang sangat primordial dan sakral dalam diri manusia, karena itu, ia tidak boleh dinodai, dilecehkan apalagi dihinadinakan. Dalam dunia fikih, terdapat postulat tentang hukum muktaram atau hukum kemuliaan, bahwa setiap makhluk diakui eksistensinya. Jika seorang atau sesuatu makhluk yang terancam kelangsungan hidupnya lalu tidak ada orang lain menolongnya, maka ia melanggar hukum muktaram. Bahkan, dalam kondisi demikian wajib menunda shalat dari pada mengabaikan orang atau sesuatu tadi."
+			},
+			{
+				type: "paragraph",
+				text: "Konsekuensi dari kehormatan insani, sebagaimana dalam ayat 70 dari surah al-Isrā' , manusia diberikan oleh Allah hak mencari penghidupan di darat maupun di lautan. Tentu saja, dalam mencari penghidupan harus mempertimbangkan prinsip “perikemakhlukan” , bahwa tidak seorangpun berhak merusak makhluk lain untuk kepentingannya. Berkenaan dengan itu, maka praktik perbudakan harus dilenyapkan dari permukaan bumi. Meskipun Al-quran tidak tegas menghapuskan perbudakan, tetapi banyak nash yang lain yang menunjukkan bahwa praktek perbudakan merupakan sesuatu yang dibenci oleh Allah dan naluri manusia."
+			},
+			{
+				type: "heading",
+				level: 2,
+				text: "HAM yang Bersifat Sosial"
+			},
+			{
+				type: "paragraph",
+				text: "Salah satu persoalan HAM yang berimplikasi sosial adalah persamaan derajat kemanusiaan. Tema ini juga dapat ditarik ke dalam prinsip al-karāmah alinsāniyah sebagaimana pada Q.S. al-Isrā’ (17): 70. Kata karramnā yang diungkapkan dalam bentuk muta-’addiy artinya “Kami menjadikan anak cucu Adam terhormat. Kehormatan biasanya berhubungan dengan moralitas dan kharisma atau kewibawaan, bukan hubungannya dengan harta."
+			},
+			{
+				type: "paragraph",
+				text: "Hanya saja, bagian akhir dari ayat tersebut perlu mendapat penjelasan yang proporsional, sebab secara tekstual seolah bertentangan dengan prinsip persamaan derajat. Al-ZuHailiy menjelaskan bahwa al-tafÃīl hanya pada aspek fisik, sementara al-Qurtubiy memasukkan aspek fisik dan non-fisik sebagai kelebihan manusia dibanding makhluk lain. Dari aspek fisik, al-Qurtubiy memberi contoh dengan mengutip pandangan al-Tabariy bahwa kelebihan manusia karena ia makan dengan tangannya, sementara makhluk lain melalui mulutnya. Dari aspek non-fisik, ia menegaskan bahwa letak kelebihan manusia adalah akalnya sebab dengan akal manusia diberi tanggung jawab (taklīf), dapat mengetahui Tuhannya dan membenarkan misi rasul-Nya. Jika dikaitkan dengan hak persamaan derajat, kelihatannya lebih tepat jika kehormatan manusia diletakkan di atas nilai moralitas, tanpa mengaitkannya dengan kelebihan material. Nilai moralitas yang dimaksud adalah akhlak, perilaku dan keharmonisan."
+			},
+			{
+				type: "heading",
+				level: 2,
+				text: "Kesimpulan",
+			},
+			{
+				type: "paragraph",
+				text: "Secara konseptual, formulasi HAM dalam hukum Islam sangat menekankan pada hak-hak individu dan komunal dalam menghargai harkat dan martabat manusia. Dalam pandangan Islam hak-hak manusia digunakan secara daulat. Namun, hak-hak tersebut diringi oleh kewajiban setiap individu maupun kelompok untuk selalu menghargai hak orang lain. Oleh sebab itu Islam melarang adanya aksi kekerasan baik dari invidu maupun kelompok. Sejalan dengan alasan tersebut, HAM dalam Al-quran diistilahkan dengan Huquq Insaniyah. Prinsip-Prinsip HAM dalam Alquran dapat dijabarkan dari tiga term, yaitu alistiqrār, yakni hak untuk hidup mendiami bumi hingga ajal menjemput. HAM dalam Alquran melahirkan gagasan bahwa hidup tidak dapat dipisahkan dengan agama atau kepercayaan dan karenanya ia juga asasi. Kemudian al-istimtā‘ , yakni hak mengeksplorasi daya dukung terhadap kehidupan. Jadi, term ini juga sangat terkait dengan hak hidup. Berikutnya adalah al-karāmah. Term ini mengandung makna kehormatan yang identik dengan setiap individu tetapi berimplikasi sosial, karena kehormatan diri hanya bisa berjalan jika ada orang lain yang menghormati martabat kemanusiaan seseorang, maka pengertian ini melahirkan hak persamaan derajat. Dari al-karāmah juga menurunkan hak kemerdekaan, di mana filsafat kosmopolitan menegaskan bahwa tidak seorangpun berhak merendahkan martabat orang lain."
+			}
+		],
 	},
 ];
