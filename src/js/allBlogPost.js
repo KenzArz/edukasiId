@@ -1651,7 +1651,129 @@ export const allBlogPosts = [
 		author: "Tim EdukasiID",
 		date: "12 Juni 2025",
 		image: "/images/blog/11.png",
-		content: [],
+		content: [
+			{
+				type: "heading",
+				level: 2,
+				text: "Akal Pikiran (al-Ra'yu atau Ijtihad)",
+			},
+			{
+				type: "paragraph",
+				text: "Akal pikiran manusia yang memenuhi syarat merupakan sumber hukum Islam ketiga, berperan dalam memahami kaidah-kaidah hukum fundamental dalam Al-Qur'an dan Sunnah Nabi, serta merumuskannya untuk kasus-kasus tertentu atau hal-hal yang belum diatur jelas dalam kedua sumber utama tersebut. Dalam bahasa Arab, (al-'aql) berarti pikiran, intelek, dan juga ikatan yang menghubungkan manusia dengan Tuhan. Al-Qur'an sendiri sering menggunakan kata (ya'qilun) mereka yang berakal dan (ta'qilun) kamu yang berakal, serta menyebut orang yang tidak dapat berpikir sebagai (la ya'qilun). Akal adalah kunci untuk memahami agama, ajaran, dan hukum Islam. Nabi Muhammad SAW bahkan menyatakan bahwa 'agama adalah akal, tidak ada agama bagi orang yang tidak berakal'. Akal memiliki kedudukan tinggi dalam Islam sebagai wadah akidah, syariah, dan akhlak."
+			},
+			{
+				type: "paragraph",
+				text: "Meskipun akal sangat penting, ia tidak boleh bergerak tanpa bimbingan wahyu dari Allah, yang berfungsi membetulkan akal jika menyimpang. Manusia membutuhkan petunjuk Tuhan karena sifatnya yang lemah, pelupa, dan acuh tak acuh. Wahyu membangunkan manusia dari kelalaiannya dan mengingatkan akan tugasnya sebagai khalifah Allah di bumi. Oleh karena itu, akal dan wahyu memiliki hubungan erat, namun wahyu memiliki kedudukan yang jauh lebih tinggi dari akal manusia. Hukum yang dihasilkan akal pikiran tidak boleh bertentangan dengan hukum yang disampaikan melalui wahyu.",
+			},
+			{
+				type: "paragraph",
+				text: "Ijtihad secara harfiah berarti bersungguh-sungguh atau mencurahkan segala daya. Dalam konteks hukum, ijtihad adalah usaha sungguh-sungguh ahli hukum yang memenuhi syarat untuk merumuskan garis hukum yang belum jelas atau tidak ada ketentuannya dalam Al-Qur'an dan Sunnah Rasulullah. Orang yang melakukan ijtihad disebut mujtahid. Ijtihad adalah dasar dan sarana pengembangan hukum Islam, serta merupakan kewajiban bagi umat Islam yang memenuhi syarat. Nabi Muhammad SAW menyatakan bahwa mujtahid yang benar akan mendapatkan dua pahala, dan jika salah, tetap mendapat satu pahala. Objek ijtihad adalah nas atau teks yang bersifat zhanni (tidak mutlak jelas) untuk mendapatkan arti yang paling tepat dalam konteks tertentu. Sementara ayat dan hadis hukum yang bersifat qath'i (mutlak jelas) bukanlah objek ijtihad."
+			},
+			{
+				type: "heading",
+				level: 2,
+				text: "Metode-Metode Berijtihad",
+			},
+			{
+				type: "paragraph",
+				text: "Beberapa metode yang digunakan dalam berijtihad antara lain:",
+			},
+			{
+				type: "heading",
+				level: 4,
+				text: "1.Ijmak"
+			},
+			{
+				type: "paragraph",
+				text: "Kesepakatan atau persetujuan para ahli mengenai suatu masalah pada suatu tempat dan waktu. Namun, saat ini sulit untuk mencapai ijmak yang hakiki karena luasnya wilayah umat Islam dan beragamnya latar belakang. Di Indonesia, contoh ijmak adalah mengenai kebolehan beristri lebih dari satu dengan syarat tertentu, seperti yang diatur dalam UU Perkawinan."
+			},
+			{
+				type: "heading",
+				level: 4,
+				text: "2. Qiyas",
+			},
+			{
+				type: "paragraph",
+				text: "Menyamakan hukum suatu hal yang tidak ada ketentuannya dalam Al-Qur'an dan As-Sunnah dengan hal lain yang hukumnya sudah ada, karena persamaan illat (penyebab atau alasan). Contohnya adalah pelarangan semua minuman yang memabukkan, disamakan dengan khamar yang dilarang dalam Al-Qur'an surat Al-Maidah ayat 90."
+			},
+			{
+				type: "arabic",
+				text: "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْٓا اِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالْاَنْصَابُ وَالْاَزْلَامُ رِجْسٌ مِّنْ عَمَلِ الشَّيْطٰنِ فَاجْتَنِبُوْهُ لَعَلَّكُمْ تُفْلِحُوْنَ",
+				translation: "Wahai orang-orang yang beriman, sesungguhnya minuman keras, berjudi, (berkurban untuk) berhala, dan mengundi nasib dengan anak panah adalah perbuatan keji (dan) termasuk perbuatan setan. Maka, jauhilah (perbuatan-perbuatan) itu agar kamu beruntung."
+			},
+			{
+				type: "heading",
+				level: 4,
+				text: "Istidal",
+			},
+			{
+				type: "paragraph",
+				text: "Menarik kesimpulan dari dua hal yang berbeda, seperti adat-istiadat yang tidak bertentangan dengan hukum Islam (contohnya gono-gini) dan hukum agama yang diwahyukan sebelum Islam tetapi tidak dihapuskan oleh syariat Islam."
+			},
+			{
+				type: "heading",
+				level: 4,
+				text: "Al-Masalih Al-Mursalah",
+			},
+			{
+				type: "paragraph",
+				text: "Menentukan hukum berdasarkan pertimbangan kemaslahatan masyarakat atau kepentingan umum, untuk hal yang tidak ada ketentuannya dalam Al-Qur'an dan hadis. Contohnya adalah pemungutan pajak penghasilan untuk kepentingan umum."
+			},
+			{
+				type: "heading",
+				level: 4,
+				text: "Istihsan"
+			},
+			{
+				type: "paragraph",
+				text: "Menentukan hukum sesuatu hal menurut keadaan yang terjadi sebelumnya, sampai ada dalil yang mengubahnya. Ini berarti melangsungkan berlakunya hukum yang telah ada selama belum ada ketentuan lain yang membatalkannya."
+			},
+			{
+				type: "heading",
+				level: 4,
+				text: "Istishab"
+			},
+			{
+				type: "paragraph",
+				text: "Menentukan hukum suatu hal berdasarkan keadaan sebelumnya hingga ada dalil yang mengubahnya. Contohnya adalah status seorang istri yang ditinggal suami tanpa perceraian, statusnya tetap istri selama tidak ada bukti perceraian. Contoh lain adalah perjanjian utang-piutang yang dianggap masih berlaku selama belum ada bukti pembayaran."
+			},
+			{
+				type: "heading",
+				level: 4,
+				text: "'Urf (Adat Istiadat)",
+			},
+			{
+				type: "paragraph",
+				text: "Adat-istiadat yang tidak bertentangan dengan hukum Islam dapat terus berlaku bagi masyarakat yang bersangkutan, terutama dalam bidang muamalah. Selama adat tersebut tidak bertentangan dengan Al-Qur'an dan As-Sunnah, serta didasarkan pada persetujuan kedua belah pihak dan tidak melanggar asas hukum perdata Islam, maka adat tersebut dapat dikukuhkan menjadi hukum, sesuai kaidah 'adat dapat dikukuhkan menjadi hukum' (al-'adatu muhakkamah)."
+			},
+			{
+				type: "heading",
+				level: 2,
+				text: "Hukum Islam dan Perkembangan Masyarakat"
+			},
+			{
+				type: "paragraph",
+				text: "Dengan pengembangan ijtihad, tidak ada masalah yang timbul dalam masyarakat yang tidak dapat dipecahkan dan ditentukan hukumnya, termasuk masalah-masalah baru akibat perkembangan ilmu dan teknologi seperti bayi tabung atau pencangkokan kornea mata. Hukum Islam mencakup semua ciptaan Allah, ada yang jelas (tersurat), ada yang tersirat, dan ada pula yang tersembunyi. Hukum yang tersirat dan tersembunyi inilah yang harus digali melalui penalaran manusia yang memenuhi syarat."
+			},
+			{
+				type: "paragraph",
+				text: "Ijtihad berperan tanpa batas dalam mengikuti dan mengarahkan perkembangan masyarakat, menentukan hukum, dan mengatasi berbagai masalah akibat perkembangan zaman, ilmu, dan teknologi. Tujuan utama Allah menetapkan hukum-Nya adalah untuk keselamatan dan kemaslahatan hidup manusia, baik berupa manfaat maupun menghindari kerugian. Hakikat tujuan hukum ilahi ini harus menjadi pedoman bagi para mujtahid dalam berijtihad. Dengan berpedoman pada kemaslahatan manusia, mujtahid dapat mengikuti perkembangan masyarakat, menemukan hukum untuk masalah baru, dan merumuskan kembali garis-garis hukum yang bersifat zhanni."
+			},
+			{
+				type: "heading",
+				level: 2,
+				text: "Kesimpulan",
+			},
+			{
+				type: "list_number",
+				items: [
+					"Ijtihad merupakan petunjuk hukum yang sangat penting dalam perumusan hukum Islam sebagai upaya menjawab persoalan-persoalan kemanusiaan yang konkret serta penjabaran konsepsi Islam dalam segala aspeknya. Selian itu, ijtihad adalah juga merupakan salah satu hal yang dalam menyelesaikan permasalahan dalam hal kejumudan Islam dan ketaqlidan penganutnya.",
+					"Ruang lingkup permasalahan yang boleh dijadikan lapangan ijtihad adalah mengenai hukum-hukum yang di dalamnya tidak ada nash yang qath'i.",
+					"Dasar penetapan ijtihad sebagai sumber hukum Islam adalah al-Qur’an dan al-Sunnah. Hal itu karena jika dalam berijtihad dan di dalamnya terjadi perselisihan diperintahkan kembali merujuk kepada al-Qur’an dan al-Sunnah.",
+					"Seorang faqih yang akan melakukan ijtihad harus memenuhi kriteria tertentu untuk dapat mencapai derajat mujtahid. Secara umum adalah: memahami ilmu al-Qur’an dan al-Sunnah serta nash-nash hukum di dalamnya, mengetahui metode penemuan hukum, menguasai bahasa Arab, dan beberapa syarat lainnya.",
+				]
+			}
+		],
 	},
 	{
 		id: 12,
