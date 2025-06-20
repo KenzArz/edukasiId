@@ -1025,7 +1025,445 @@ export const allBlogPosts = [
 		author: "Tim EdukasiID",
 		date: "12 Juni 2025",
 		image: "/images/blog/6.png",
-		content: [],
+		content: [
+			{
+				type: "heading",
+				level: 2,
+				text: "Ruang Lingkup Aqidah Islam",
+			},
+			{
+				type: "paragraph",
+				text: "Pendidikan akidah adalah fondasi utama bagi setiap Muslim, menjadi inti dari amal ibadah yang diterima Allah SWT. Ayat-ayat Al-Qur'an yang diturunkan di Mekkah banyak berfokus pada pembinaan akidah, menunjukkan betapa sentralnya hal ini."
+			},
+			{
+				type: "paragraph",
+				text: "Dengan akidah yang kuat, Nabi Muhammad SAW berhasil melahirkan para sahabat yang tangguh dalam mempertahankan dan menyebarkan Islam. Kisah Bilal bin Rabah dan keluarga Amar bin Yasir membuktikan bahwa keimanan yang kokoh dapat bertahan di tengah cobaan berat, bahkan ancaman maut sekalipun.",
+			},
+			{
+				type: "paragraph",
+				text: "Di era globalisasi dan perkembangan teknologi informasi yang pesat saat ini, pendidikan akidah menjadi semakin krusial. Akidah yang kuat akan membentengi diri dari berbagai tantangan dan memastikan keimanan serta agama Islam tetap teguh dalam jiwa setiap Muslim.",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Pengertian Aqidah",
+			}, 
+			{
+				type: "paragraph",
+				text: "Akidah, berasal dari kata 'aqada' yang berarti ikatan atau simpul, adalah pilar utama dalam Islam yang membahas keyakinan yang wajib diyakini oleh hati. Secara istilah, akidah adalah aspek kepercayaan yang terikat kuat dalam jiwa seseorang, tidak mungkin terguncang atau tercerai berai. Singkatnya, akidah adalah kebenaran yang diterima secara umum oleh manusia berdasarkan akal sehat, wahyu, dan fitrah.",
+			},
+			{
+				type: "paragraph",
+				text: "Akidah Islam berawal dari keyakinan pada keesaan Allah SWT (Tauhid). Ini mencakup iman kepada Allah, Malaikat, Rasul, Kitab, hari akhir, takdir baik dan buruk, serta segala sesuatu yang tidak terlihat (ghaib) yang telah disepakati oleh ulama Salafush Shalih.",
+			},
+			{
+				type: "paragraph",
+				text: "Pentingnya akidah juga ditekankan oleh Abu Bakar Jabir Al-Jazairy, menurutnya:",
+			},
+			{
+				type: "arabic",
+				translation: "aqidah adalah sejumlah kebenaran yang dapat diterima secara umum (axioma) oleh manusia berdasarkan akal, wahyu dan fithrah. Yakni kesahihan dan keberadaannya (secara pasti) dan ditolak segala sesuatu yang bertentangan dengan kebenaran itu. (Al-Jazairy, 1978)",
+			},
+			{
+				type: "paragraph",
+				text: "Sistematika Hasan Al-Banna tentang ruang lingkup akidah meliputi:",
+			},
+			{
+				type: "list_number",
+				items: [
+					"Ilahiyat: Pembahasan tentang ketuhanan, wujud, dan sifat-sifat Allah.",
+					"Nubuwat: Pembahasan mengenai Nabi dan Rasul.",
+					"Ruhaniyat: Pembahasan tentang alam metafisik seperti jin, iblis, dan roh.",
+					"Sam'iyyat: Pembahasan tentang hal-hal ghaib yang hanya diketahui lewat wahyu, seperti alam barzakh, akhirat, azab kubur, tanda-tanda kiamat, surga, dan neraka.",
+				],
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Tujuan Aqidah Islam",
+			},
+			{
+				type: "paragraph",
+				text: "Tujuan aqidah Islam bagi setiap muslim adalah:",
+			},
+			{
+				type: "list_number",
+				items: [
+					"Memupuk dan mengembangkan dasar ketuhanan yang ada sejak lahir. Hal ini karena manusia adalah makhluk yang berketuhanan sejak ia dilahirkan.",
+					"Untuk mencegah manusia dari kemusyrikan perlu adanya tuntutan yang jelas tentang kepercayaan terhadap Tuhan YME.",
+					"Menghindarkan diri dari pengaruh akal yang menyesatkan manusia. Manusia diberi kelebihan oleh Allah berupa akal pikiran. Pendapat atau faham ini semata-mata didasarkan akal manusia, kadang-kadang menyesatkan manusia itu sendiri.",
+					"Oleh karena itu, pikiran manusia perlu dibimbing oleh aqidah Islam, agar terhindar dari kehidupan yang sesat.",
+				],
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Perilaku yang Sesuai dengan Nilai-Nilai Aqidah"
+			},
+			{
+				type: "paragraph",
+				text: "Adapun perilaku yang sesuaai dengan nilai-nilai aqidah islam, yaitu antara lain:"
+			},
+			{
+				type: "heading",
+				level: 4,
+				text: "1. Taqwa Kepada Allah SWT",
+			},
+			{
+				type: "paragraph",
+				text: "Taqwa kepada Allah berarti menjalankan perintah-perintah-Nya dan menjauhi larangan-larangan-Nya. Taqwa juga berarti berhati-hati dalam hidup, yakin menjaga diri dari semua aturan yang diberikan Allah sebagai penciptanya. Taqwa kepada Allah menjadi kewajiban setiap muslim. Firman Allah:",
+			},
+			{
+				type: "arabic",
+				text: "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوا اتَّقُوا اللّٰهَ وَلْتَنْظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍۚ وَاتَّقُوا اللّٰهَۗ اِنَّ اللّٰهَ خَبِيْرٌۢ بِمَا تَعْمَلُوْنَ",
+				translation: "Wahai orang-orang yang beriman, bertakwalah kepada Allah dan hendaklah setiap orang memperhatikan apa yang telah diperbuatnya untuk hari esok (akhirat). Bertakwalah kepada Allah. Sesungguhnya Allah Mahateliti terhadap apa yang kamu kerjakan.(Q.S Al-Hasyr:18)",
+			},
+			{
+				type: "heading",
+				level: 4,
+				text: "2. Berbuat Baik Kepada Orang Tua",
+			},
+			{
+				type: "paragraph",
+				text: "Orang tua (ayah dan ibu) adalah orang yang menjadi perantara hidup manusia di dunia. Islam memberi tuntunan bahwa setiap anak wajib berbuat baik kepada kedua orang tuanya, walaupun berbeda agama dengan dirinya sendiri. Firman Allah:",
+			},
+			{
+				type: "arabic",
+				text: "وَاعْبُدُوا اللّٰهَ وَلَا تُشْرِكُوْا بِهٖ شَيْـًٔا وَّبِالْوَالِدَيْنِ اِحْسَانًا وَّبِذِى الْقُرْبٰى وَالْيَتٰمٰى وَالْمَسٰكِيْنِ وَالْجَارِ ذِى الْقُرْبٰى وَالْجَارِ الْجُنُبِ وَالصَّاحِبِ بِالْجَنْۢبِ وَابْنِ السَّبِيْلِۙ وَمَا مَلَكَتْ اَيْمَانُكُمْۗ اِنَّ اللّٰهَ لَا يُحِبُّ مَنْ كَانَ مُخْتَالًا فَخُوْرًاۙ",
+				translation: "Sembahlah Allah dan janganlah kamu mempersekutukan-Nya dengan sesuatupun. Dan berbuat baiklah kepada dua orang ibu-bapa, karib kerabat, anakanak yatim, orang-orang miskin, tetangga yang dekat dan tetangga yang jauh, dan teman sejawat, ibnu sabil dan hamba sahayamu. Sesungguhnya Allah tidak menyukai orang-orang yang sombong dan membangga-banggakan diri. ( Q.S An-nisa:36)."
+			},
+			{
+				type: "heading",
+				level: 4,
+				text: "3. Memurnikan Niat dalam Beribadah kepada Allah SWT.",
+			},
+			{
+				type: "paragraph",
+				text: "Ikhlas, atau memurnikan niat, adalah fondasi utama setiap ibadah seorang Muslim. Ini berarti seluruh amal perbuatan, baik salat, puasa, sedekah, maupun bentuk ibadah lainnya, harus dilakukan semata-mata untuk mencari keridaan Allah SWT, tanpa sedikit pun keinginan akan pujian, pengakuan, atau keuntungan duniawi dari manusia. Niat yang murni menjadi penentu diterima atau tidaknya suatu ibadah di sisi Allah, sebab Allah Maha Suci dan hanya menerima yang tulus dari hamba-Nya.",
+			},
+			{
+				type: "paragraph",
+				text: "Perjuangan untuk menjaga kemurnian niat adalah tantangan seumur hidup. Hati manusia mudah bergeser dan tergoda oleh bisikan syaitan atau nafsu duniawi. Oleh karena itu, seorang Muslim dituntut untuk senantiasa melakukan introspeksi diri (muhasabah), mengingat keagungan Allah yang Maha Melihat, serta menyadari bahwa akhirat adalah tujuan abadi. Dengan niat yang ikhlas, ibadah tidak hanya menjadi rutinitas, tetapi jembatan menuju kedekatan dengan Sang Pencipta.",
+			},
+			{
+				type: "heading",
+				level: 4,
+				text: "4. Menghindarkan Diri dari Segala Bentuk Kesesatan.",
+			},
+			{
+				type: "paragraph",
+				text: "Sebagai seorang Muslim, wajib hukumnya untuk selalu berusaha menjauhkan diri dari segala bentuk kesesatan, baik dalam akidah, ibadah, maupun dalam setiap tindakan sehari-hari. Kesesatan dapat muncul dari pemahaman agama yang salah, mengikuti hawa nafsu, atau terjerumus pada praktik-praktik yang tidak sesuai dengan tuntunan Al-Qur'an dan Sunnah Nabi Muhammad SAW. Ini termasuk menghindari bid'ah (inovasi dalam agama yang tidak ada dasarnya), khurafat (kepercayaan takhayul), dan pemikiran menyimpang yang bisa merusak iman.",
+			},
+			{
+				type: "paragraph",
+				text: "Upaya menghindarkan diri dari kesesatan menuntut ilmu agama yang benar, merujuk pada sumber-sumber yang otentik, serta menjauhi guru atau ajaran yang menyimpang. Selain itu, diperlukan keteguhan hati dan keberanian untuk tidak mengikuti mayoritas jika mayoritas itu berada dalam kekeliruan. Dengan demikian, seorang Muslim dapat menjaga kemurnian agamanya dan memastikan setiap langkah hidupnya berada di jalan yang lurus (siratal mustaqim) yang diridai Allah.",
+			},
+			{
+				type: "heading",
+				level: 4,
+				text: "5. Meningkatkan Ketaatan dan Ketakwaan kepada Allah SWT dalam Berbakti kepada Kedua Orang Tua.",
+			},
+			{
+				type: "paragraph",
+				text: "Ketaatan dan ketakwaan kepada Allah SWT tidak hanya terwujud dalam ibadah ritual, tetapi juga dalam muamalah (interaksi sosial), salah satunya adalah berbakti kepada kedua orang tua. Bakti kepada orang tua adalah salah satu amal yang paling agung dan sangat ditekankan dalam Islam, seringkali disebutkan setelah perintah untuk bertauhid kepada Allah. Ini mencakup berkata-kata yang sopan, bersikap hormat, memenuhi kebutuhan mereka, mendoakan, serta tidak pernah durhaka atau menyakiti hati mereka, meskipun dengan ucapan 'ah'",
+			},
+			{
+				type: "paragraph",
+				text: "Berbakti kepada orang tua merupakan wujud nyata dari syukur kita kepada Allah dan juga kepada mereka yang telah merawat serta mendidik kita. Pahala dari bakti kepada orang tua sangatlah besar dan keberkahannya akan terasa dalam kehidupan dunia maupun akhirat. Dengan berbakti kepada kedua orang tua, seorang Muslim tidak hanya mengamalkan ajaran agama, tetapi juga membangun fondasi masyarakat yang penuh kasih sayang dan hormat.",
+			},
+			{
+				type: "heading",
+				level: 4,
+				text: "6. Tidak Mempercayai Adanya Makhluk Gaib yang Dapat Mempengaruhi Nasib Manusia.",
+			},
+			{
+				type: "paragraph",
+				text: "Dalam Islam, keyakinan bahwa nasib manusia dapat dipengaruhi oleh makhluk gaib selain Allah SWT adalah bentuk syirik (menyekutukan Allah), yang merupakan dosa terbesar. Ini mencakup kepercayaan pada ramalan bintang, jimat, dukun, atau roh-roh tertentu yang dianggap bisa membawa keberuntungan atau kemalangan. Seorang Muslim wajib meyakini bahwa segala sesuatu, termasuk nasib baik dan buruk, sepenuhnya berada dalam kekuasaan dan ketetapan Allah SWT semata.",
+			},
+			{
+				type: "paragraph",
+				text: "Meskipun Islam mengakui keberadaan makhluk gaib seperti jin, setan, atau malaikat, namun meyakini mereka memiliki kekuatan untuk mengubah takdir atau menentukan nasib manusia adalah penyimpangan akidah. Kepercayaan tersebut dapat melemahkan tauhid seseorang dan menggantungkan harapan pada selain Allah. Oleh karena itu, seorang Muslim harus sepenuhnya berserah diri kepada Allah, memohon pertolongan hanya kepada-Nya, dan menjauhi segala bentuk praktik syirik yang dapat merusak keimanannya.",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Bahaya Penyimpangan Aqidah",
+			},
+			{
+				type: "paragraph",
+				text: "Ada beberapa penyimpangan aqidah diantaranya:",
+			},
+			{
+				type: "list_number",
+				items: [
+					"Tidak menguasainya pemahaman aqidah yang benar karena kurangnya pengertian dan perhatian. Akibatnya berpaling dan tidak jarang menyalahi bahkan menentang aqidah yang benar.",
+					"Taklid buta kepada perkataan tokoh-tokoh yang dihormati tanpa melalui seleksi yang tepat sesuai dengan argumen Al-Qur’an dan Sunnah. Sehingga apabila tokoh panutannya sesat, maka ia ikut tersesat.",
+					"Apabila anak terlepas dari bimbingan orang tua, maka anak akan dipengaruhi oleh acara/program televisi yang menyimpang, lingkungannya, dan lain sebagainya",
+				],
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Implementasi Agama dalam Kehidupan",
+			},
+			{
+				type: "list_number",
+				items: [
+					"Akidah dalam Individu: Mewujudkan enam rukun iman dalam kehidupan sehari-hari, seperti menjalankan perintah dan menjauhi larangan Allah.",
+					"Akidah dalam Keluarga: Mendorong saling menghormati dan menyayangi, contohnya shalat berjamaah yang dipimpin ayah dan berdoa bersama.",
+					"Akidah dalam Masyarakat: Menciptakan toleransi, tolong-menolong, musyawarah, dan keadilan, dengan kesadaran bahwa manusia setara di mata Allah.",
+					"Akidah dalam Bernegara: Membangun negara yang lebih baik dan sejahtera dengan SDM berkualitas, sehingga tidak perlu lagi mengirim tenaga kerja ke luar negeri.",
+					"Akidah dalam Pemerintahan: Menyelesaikan masalah pemerintahan berdasarkan Al-Qur'an dan Hadis, serta membuat keputusan bersama jika tidak ada penyelesaian pasti dalam kedua sumber tersebut.",
+				],
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Rukun Iman Sebagai Fondasi Aqidah Islam",
+			},
+			{
+				type: "paragraph",
+				text: "Iman secara bahasa berarti kepercayaan, sedangkan secara istilah, iman adalah keyakinan yang mencakup perkataan hati dan lisan, serta perbuatan hati dan anggota badan."
+			},
+			{
+				type: "paragraph",
+				text: "Iman terdiri atas tiga aspek yang saling berkaitan:",
+			},
+			{
+				type: "list_number",
+				items: [
+					"Hati: Meyakini kebenaran dengan sepenuh hati.",
+					"Lidah: Mengikrarkan keyakinan dengan ucapan, seperti kalimat syahadat.",
+					"Perbuatan: Membuktikan iman melalui amal shaleh, seperti sholat dan haji.",
+				],
+			},
+			{
+				type: "paragraph",
+				text: "Jadi, seorang mukmin yang sempurna harus memenuhi ketiga aspek ini. Apabila seseorang hanya memiliki keyakinan dalam hati tanpa diucapkan dan dibuktikan melalui perbuatan, maka keimanannya belum dianggap sempurna karena iman adalah kesatuan yang tidak dapat dipisahkan antara hati, lisan, dan tindakan."
+			},
+			{
+				type: "heading",
+				level: 4,
+				text: "1. Iman Kepada Allah SWT",
+			},
+			{
+				type: "paragraph",
+				text: "Iman kepada Allah adalah keyakinan penuh terhadap keberadaan Allah Yang Maha Esa, mencakup zat, perbuatan, dan sifat-Nya. Keimanan ini melibatkan empat hal penting:",
+			},
+			{
+				type: "list",
+				items: [
+					"Mengimani adanya Allah: Meyakini bahwa Allah benar-benar ada.",
+					"Mengimani rububiah Allah: Menyadari bahwa Allah adalah satu-satunya pencipta, penguasa, dan pengatur alam semesta",
+					"Mengimani uluhiah Allah: Meyakini bahwa hanya Allah yang berhak disembah, dan mengingkari semua bentuk penyembahan kepada selain Allah.",
+					"Mengimani nama dan sifat Allah: Memahami dan menerima semua nama serta sifat yang telah Allah tetapkan untuk diri-Nya, tanpa menyelewengkan atau menyamakan-Nya dengan makhluk lain.",
+				],
+			},
+			{
+				type: "paragraph",
+				text: "Keimanan ini harus bebas dari penyelewengan makna, pertanyaan tanpa dasar, ataupun penyamaan Allah dengan makhluk-Nya. Hal ini menjadi dasar keyakinan seorang muslim terhadap Allah Ta’ala.",
+			},
+			{
+				type: "heading",
+				level: 4,
+				text: "2. Iman Kepada Malaikat",
+			},
+			{
+				type: "paragraph",
+				text: "Iman kepada malaikat berarti yakin dan membenarkan dengan sepenuh hati bahwa sesungguhnya Allah Subhanahu Wa Ta'ala telah menciptakan malaikat dan makhluk gaib lainnya. Malaikat sebagai makhluk gaib tidak memasuki alam nyata atau alam materiil, tapi alam rohani. Dia bertugas dan berfungsi sebagai perantara dan pelaksana kehendak Allah, terutama yang berhubungan dengan alam rohani manusia. Salah satu dari pekerjaan malaikat adalah meyampaikan wahyu dan menulis segala perbuatan kita. Dari wahyu itulah kita memperoleh informasi Tuhan itu esa. Allah memiliki aturan-aturan yang harus ditaati oleh manusia (syari'ah).",
+			},
+			{
+				type: "heading",
+				level: 4,
+				text: "3. Iman Kepada Kitab-Kitab Allah",
+			},
+			{
+				type: "paragraph",
+				text: "Iman kepada kitab-kitab Allah adalah keyakinan penuh bahwa Allah telah menurunkan kitab-kitab-Nya kepada para nabi dan rasul sebagai wahyu untuk umat manusia. Seluruh kitab Allah adalah firmanNya, bukan ciptaan, karena kalam adalah sifat Allah.",
+			},
+			{
+				type: "paragraph",
+				text: "Muslim wajib mengimani bahwa Al-Qur'an adalah kitab terakhir yang menghapus hukum kitab-kitab sebelumnya. Ada empat kitab utama yang disebutkan dalam Al-Qur'an:",
+			},
+			{
+				type: "list_number",
+				items: [
+					"Taurat untuk Nabi Musa 'Alaihissalaam.",
+					"Zabur untuk Nabi Daud 'Alaihissalaam.",
+					"Kitab Injil untuk Nabi Isa 'Alaihissalaam.",
+					"Al-Qur'an untuk Nabi Muhammad Shallallahu 'Alaihi Wasallam.",
+				],
+			},
+			{
+				type: "paragraph",
+				text: "Kitab adalah wahyu Allah yang dibukukan dan berisi petunjuk lengkap, sedangkan suhuf adalah lembaran wahyu yang tidak dibukukan dan lebih ringkas. Meskipun berbeda, keduanya adalah wahyu Allah yang berfungsi sebagai pedoman hidup untuk mendekatkan manusia kepada Allah dan mengimani ajaran yang dibawa oleh rasul.",
+			},
+			{
+				type: "heading",
+				level: 4,
+				text: "4. Iman Kepada Rasul-rasul Allah",
+			},
+			{
+				type: "paragraph",
+				text: "Iman kepada rasul adalah rukun iman keempat yang wajib diyakini oleh setiap muslim. Ini berarti meyakini bahwa rasul adalah manusia pilihan Allah yang menerima wahyu untuk disampaikan kepada umat manusia sebagai pedoman hidup demi kebahagiaan dunia dan akhirat.",
+			},
+			{
+				type: "paragraph",
+				text: "Para rasul adalah laki-laki yang dipilih Allah sebagai perantara antara-Nya dan makhluk-Nya. Namun, mereka tetaplah manusia biasa yang tidak memiliki sifat atau hak ketuhanan. Oleh karena itu, menyembah nabi atau rasul dilarang. Rasul diutus oleh Allah dengan syari'at baru untuk menyeru manusia kepada jalan yang benar. Keyakinan ini merupakan bagian penting dalam keimanan seorang muslim."
+			},
+			{
+				type: "heading",
+				level: 4,
+				text: "5. Iman Kepada Hari Kiamat",
+			},
+			{
+				type: "paragraph",
+				text: "Iman kepada hari akhir adalah keyakinan bahwa kehidupan dunia ini akan berakhir dengan peristiwa besar yang disebut hari kiamat. Pada hari tersebut, seluruh makhluk akan dimatikan, dan kemudian dibangkitkan kembali untuk menerima penghitungan amal dan pembalasannya.",
+			},
+			{
+				type: "paragraph",
+				text: "Orang yang meyakini hari akhir akan berhati-hati dalam perkataan dan perbuatan. Pada hari kiamat, pengadilan Allah yang Maha Adil akan digelar, dan tidak ada satu makhluk pun yang dapat mengelak dari perhitungan tersebut. Keimanan ini mencakup",
+			},
+			{
+				type: "list_number",
+				items: [
+					"Mengimani alam barzakh: Yaitu kehidupan setelah mati, yang meliputi nikmat atau siksa kubur.",
+					"Mengimani hari kebangkitan: Ketika manusia dibangkitkan di padang mahsyar hingga menerima keputusan masuk surga atau neraka.",
+				],
+			},
+			{
+				type: "paragraph",
+				text: "Kiamat adalah peristiwa luar biasa di mana seluruh alam semesta akan hancur, bintang-bintang akan redup, gunung-gunung hancur, dan segala sesuatu akan luluh lantak. Keimanan ini mengingatkan manusia untuk senantiasa mempersiapkan amal shaleh sebagai bekal di akhirat."
+			},
+			{
+				type: "heading",
+				level: 4,
+				text: "6. Iman Kepada Qadha dan Qadar Allah",
+			},
+			{
+				type: "paragraph",
+				text: "Beriman kepada qadha dan qadar berarti meyakini bahwa segala hal yang terjadi di alam semesta berjalan sesuai dengan ketentuan Allah yang Maha Bijaksana. Keimanan ini mengajarkan manusia untuk menerima ketetapan-Nya dengan lapang hati dan bersyukur atas segala takdir yang telah digariskan. Aqidah, yang merupakan dasar keyakinan seorang muslim, menjadi landasan penting dalam keimanan, Islam, dan ihsan. Dengan iman yang kokoh, Islam yang benar, dan ihsan yang terwujud dalam amal nyata, seorang muslim dapat menghasilkan rahmatan lil 'alamin yang dirasakan oleh seluruh makhluk.",
+			},
+			{
+				type: "arabic",
+				text: "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْٓا اٰمِنُوْا بِاللّٰهِ وَرَسُوْلِهٖ وَالْكِتٰبِ الَّذِيْ نَزَّلَ عَلٰى رَسُوْلِهٖ وَالْكِتٰبِ الَّذِيْٓ اَنْزَلَ مِنْ قَبْلُۗ وَمَنْ يَّكْفُرْ بِاللّٰهِ وَمَلٰۤىِٕكَتِهٖ وَكُتُبِهٖ وَرُسُلِهٖ وَالْيَوْمِ الْاٰخِرِ فَقَدْ ضَلَّ ضَلٰلًا ۢ بَعِيْدًا",
+				translation: "Wahai orang-orang yang beriman, tetaplah beriman kepada Allah, Rasul-Nya (Nabi Muhammad), Kitab (Al-Qur’an) yang diturunkan kepada Rasul-Nya, dan kitab yang Dia turunkan sebelumnya. Siapa yang kufur kepada Allah, para malaikat-Nya, kitab-kitab-Nya, para rasul-Nya, dan hari Akhir sungguh dia telah tersesat sangat jauh. (Q.S An-Nisa:136)",
+			},
+			{
+				type: "heading",
+				level: 2,
+				text: "Ruang Lingkup Syariah Islam",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Pengertian Syariah",
+			},
+			{
+				type: "paragraph",
+				text: "Syariat adalah kumpulan ketentuan agama yang menjadi pegangan bagi manusia untuk meningkatkan kualitas hidup, demi mencapai kebahagiaan di dunia dan akhirat. Secara bahasa, syariat berarti jalan yang jelas. Dalam konteks Islam, syariat adalah ajaran yang diturunkan Allah kepada para Rasul-Nya, meliputi akidah, hukum-hukum, dan tata cara pengaturan perilaku manusia untuk mencapai keridaan Allah SWT.",
+			},
+			{
+				type: "paragraph",
+				text: "Allah telah menetapkan syariat bagi umat manusia sebagai pedoman hidup. Sebagaimana firman-Nya dalam Surat Asy-Syura ayat 13:",
+			},
+			{
+				type: "arabic",
+				text: "شَرَعَ لَكُمْ مِّنَ الدِّينِ مَا وَصَّى بِهِ نُوحًا وَالَّذِيْٓ اَوْحَيْنَآ اِلَيْكَ وَمَا وَصَّيْنَا بِهِ اِبْرٰهِيمَ وَمُوْسٰى وَعِيْسٰىٓ اَنْ اَقِيْمُوا الدِّيْنَ وَلَا تَتَفَرَّقُوْا فِيْهِۗ كَبُرَ عَلَى الْمُشْرِكِيْنَ مَا تَدْعُوْهُمْ اِلَيْهِۗ اللّٰهُ يَجْتَبِيْٓ اِلَيْهِ مَنْ يَّشَاۤءُ وَيَهْدِيْٓ اِلَيْهِ مَنْ يُّنِيْبُ",
+				transalation: "Dia telah mensyariatkan bagi kamu tentang agama yang telah diwasiatkan-Nya kepada Nuh dan apa yang telah Kami wahyukan kepadamu dan apa yang telah Kami wasiatkan kepada Ibrahim, Musa dan Isa yaitu: Tegakkanlah agama dan janganlah kamu berpecah belah tentangnya. Amat berat bagi orang-orang musyrik agama yang kamu seru mereka kepadanya. Allah menarik kepada agama itu orang yang dikehendaki-Nya dan memberi petunjuk kepada (agama)-Nya orang yang kembali (kepada-Nya)",
+			},
+			{
+				type: "paragraph",
+				text: "Syariat ini juga berfungsi sebagai peringatan keras terhadap perbuatan syirik atau menyekutukan Allah. Orang-orang yang menciptakan sesembahan lain selain Allah dan mengikuti hawa nafsu yang tidak berdasarkan petunjuk-Nya akan menghadapi azab. Allah berfirman dalam Surat Asy-Syura ayat 21:",
+			},
+			{
+				type: "arabic",
+				text: "اَمْ لَهُمْ شُرَكَاۤؤُا شَرَعُوْا لَهُمْ مِّنَ الدِّيْنِ مَا لَمْ يَأْذَنْ بِهٖ اللّٰهُ ۗ وَلَوْلَا كَلِمَةُ الْفَصْلِ لَقُضِيَ بَيْنَهُمْۗ وَاِنَّ الظّٰلِمِيْنَ لَهُمْ عَذَابٌ اَلِيْمٌ",
+				translation: "Apakah mereka mempunyai sembahan-sembahan selain Allah yang mensyariatkan untuk mereka agama yang tidak diizinkan Allah? Sekiranya tak ada ketetapan yang menentukan (dari Allah tentukanlah mereka dibinasakan). Dan sesungguhnya orang-orang yang zalim itu akan memperoleh azab yang pedih.",
+			},
+			{
+				type: "paragraph",
+				text: "Oleh karena itu, sebagai Muslim, kita diperintahkan untuk senantiasa berpegang teguh pada syariat dan tidak mengikuti hawa nafsu atau ajaran yang menyimpang. Ini adalah jalan yang telah ditetapkan Allah untuk kebaikan manusia itu sendiri. Sebagaimana dijelaskan dalam Surat Al-Jatsiyah ayat 18:",
+			},
+			{
+				type: "arabic",
+				text: "ثُمَّ جَعَلْنَاكَ عَلَى شَرِيْعَةٍ مِّنَ الْاَمْرِ فَاتَّبِعْهَا وَلَا تَتَّبِعْ اَهْوَاۤءَ الَّذِيْنَ لَا يَعْلَمُوْنَ",
+				translation: "Kemudian Kami jadikan kamu berada di atas syariat (peraturan) dari urusan (agama) itu, maka ikutilah syariat itu dan janganlah kamu ikuti hawa nafsu orang-orang yang tidak mengetahui.",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Ruang Lingkup Syariah",
+			},
+			{
+				type: "paragraph",
+				text: "Syariah Islam mencakup berbagai peraturan yang mengatur seluruh aspek kehidupan seorang Muslim, terbagi menjadi beberapa kategori utama:",
+			},
+			{
+				type: "list_number",
+				items: [
+					"Ibadah: Peraturan yang mengatur hubungan langsung individu dengan Allah SWT. Ini termasuk rukun Islam (syahadat, salat, zakat, puasa, haji), ibadah bersifat badani (seperti wudu, mandi, tayamum), dan ibadah bersifat mali (berkaitan dengan harta, seperti kurban, akikah, sedekah, wakaf).",
+					"Muamalah: Peraturan yang mengatur hubungan antarindividu dalam aspek sosial dan ekonomi. Ini mencakup jual beli, utang-piutang, sewa-menyewa, kerja sama dagang, simpanan, warisan, nafkah, hingga masalah pesan-memesan.",
+					"Munakahat: Peraturan yang mengatur hubungan individu dalam berkeluarga. Ini meliputi pernikahan, perceraian, pengaturan nafkah, penyusunan keluarga, pergaulan suami istri, dan masalah warisan dari suami yang meninggal.",
+					"Jinayat: Peraturan yang menyangkut hukum pidana dalam Islam. Ini mencakup qishash, diyat, kifat, pembunuhan, zina, minuman keras, murtad, dan kejahatan lain-lain.",
+					"Siyasah: Peraturan yang mengatur masalah kemasyarakatan atau politik. Ini meliputi ukhuwah (persaudaraan), musyawarah (persamaan), keadilan, tolong-menolong, toleransi, tanggung jawab sosial, dan kepemimpinan dalam pemerintahan.",
+					"Akhlak: Peraturan yang mengatur sikap hidup pribadi. Ini mencakup syukur, sabar, tawadu (rendah hati), pemaaf, tawakal, istiqamah (konsekuen), syaja'ah (berani), serta berbakti kepada orang tua.",
+					"Peraturan-peraturan Lainnya: Meliputi berbagai aspek kehidupan lain seperti makanan, minuman, persusuan, nazar, pembebasan kemiskinan, pemeliharaan anak yatim, dakwah, perang, dan lainnya.",
+				],
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Tujuan Ruang Lingkup Ajaran Syariah"
+			},
+			{
+				type: "paragraph",
+				text: "Maqashid syari’ah merupakan prinsip penting dalam hukum Islam yang bertujuan untuk menciptakan kebahagiaan dan kesejahteraan manusia di dunia dan akhirat. Maqashid ini mendorong hal-hal yang bermanfaat serta menghindari mudharat (kerugian). Para ulama mengidentifikasi lima aspek perlindungan utama (daruriyat al-khamsah) sebagai inti maqashid syari’ah, yaitu:"
+			},
+			{
+				type: "list_number",
+				items: [
+					"Menjaga Agama (Hifzh al-Din): Melindungi keyakinan dan kebebasan beribadah.",
+					"Memelihara Jiwa (Hifzh al-Nafs): Menghormati dan melindungi kehidupan sebagai anugerahAllah.",
+					"Memelihara Akal (Hifzh al-Aql): Memberikan pendidikan dan mencegah hal-hal yang merusak akal, seperti konsumsi alkohol.",
+					"Memelihara Keturunan dan Kehormatan (Hifzh al-Nasl): Mengatur hubungan keluarga agar terpelihara kehormatan dan keturunan.",
+					"Menjaga Harta Benda (Hifzh al-Mal): Menjamin perlindungan hak kepemilikan dan mencegah kerugian",
+				]
+			},
+			{
+				type: "paragraph",
+				text: "Dalam Islam, harta adalah amanah dari Allah yang tidak hanya sebagai hak pribadi, tetapi juga tanggung jawab sosial. Penggunaan harta untuk tujuan haram, seperti suap, riba, atau kesenangan yang melanggar syariat, dilarang karena dapat merusak moral dan harmoni masyarakat. Islam menegaskan bahwa harta harus dikelola dengan adil, bijaksana, dan bertujuan untuk kesejahteraan bersama.",
+			},
+			{
+				type: "paragraph",
+				text: "Konsep ini tercermin dalam kewajiban zakat, sedekah, dan berbagai bentuk kebajikan lainnya yang membantu mengurangi ketimpangan sosial dan memperkuat ikatan kebersamaan. Harta seharusnya digunakan untuk memajukan kehidupan manusia, seperti pendidikan, kesehatan, dan pembangunan infrastruktur, sekaligus mencegah eksploitasi dan penindasan."
+			},
+			{
+				type: "paragraph",
+				text: "Islam mengajarkan bahwa pengelolaan harta harus mencakup aspek material serta nilai spiritual dan moral, guna menciptakan keadilan sosial dan kesetaraan di masyarakat. Dengan demikian, harta menjadi sarana untuk mencapai kehidupan yang berkah dan seimbang."
+			},
+			{
+				type: "heading",
+				level: 2,
+				text: "Kesimpulan",
+			},
+			{
+				type: "paragraph",
+				text: "Islam sebagai agama yang sempurna memiliki dua aspek utama yang saling berkaitan, yaitu Aqidah dan Syariah. Aqidah merupakan dasar keimanan yang membentuk keyakinan seseorang terhadap Allah, malaikat, kitab-kitab suci, para rasul, hari akhir, serta qadha dan qadar. Keyakinan yang kuat akan membentuk sikap dan perilaku seorang Muslim dalam menjalani kehidupan sesuai dengan ajaran Islam."
+			},
+			{
+				type: "paragraph",
+				text: "Syariah, di sisi lain, adalah aturan dan hukum yang mengatur segala aspek kehidupan, baik hubungan manusia dengan Allah maupun sesama manusia. Syariah mencakup berbagai aspek seperti ibadah, muamalah, pernikahan, hukum pidana, serta sistem pemerintahan."
+			},
+			{
+				type: "paragraph",
+				text: "Penerapan Syariah bertujuan untuk menciptakan tatanan masyarakat yang adil, harmonis, dan sesuai dengan nilai-nilai Islam. Selain itu, dalam menghadapi perkembangan zaman, konsep Ijtihad sangat diperlukan untuk menyesuaikan hukum Islam dengan kebutuhan dan tantangan baru."
+			},
+			{
+				type: "paragraph",
+				text: "Meskipun hukum hukum dasar dalam Islam bersifat tetap, Ijtihad memungkinkan adanya pemahaman yang lebih relevan terhadap situasi yang terus berubah. Kesimpulannya, memahami dan mengamalkan Aqidah serta Syariah secara seimbang akan membentuk individu yang bertakwa, masyarakat yang harmonis, serta negara yang berkeadilan. Islam bukan hanya agama, tetapi juga pedoman hidup yang memberikan petunjuk dalam setiap aspek kehidupan manusia."
+			},
+		],
 	},
 	{
 		id: 7,
