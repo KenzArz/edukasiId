@@ -1704,7 +1704,7 @@ export const allBlogPosts = [
 			{
 				type: "heading",
 				level: 4,
-				text: "Istidal",
+				text: "3. Istidal",
 			},
 			{
 				type: "paragraph",
@@ -1713,7 +1713,7 @@ export const allBlogPosts = [
 			{
 				type: "heading",
 				level: 4,
-				text: "Al-Masalih Al-Mursalah",
+				text: "4. Al-Masalih Al-Mursalah",
 			},
 			{
 				type: "paragraph",
@@ -1722,7 +1722,7 @@ export const allBlogPosts = [
 			{
 				type: "heading",
 				level: 4,
-				text: "Istihsan"
+				text: "5. Istihsan"
 			},
 			{
 				type: "paragraph",
@@ -1731,7 +1731,7 @@ export const allBlogPosts = [
 			{
 				type: "heading",
 				level: 4,
-				text: "Istishab"
+				text: "6. Istishab"
 			},
 			{
 				type: "paragraph",
@@ -1740,7 +1740,7 @@ export const allBlogPosts = [
 			{
 				type: "heading",
 				level: 4,
-				text: "'Urf (Adat Istiadat)",
+				text: "7. 'Urf (Adat Istiadat)",
 			},
 			{
 				type: "paragraph",
