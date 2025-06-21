@@ -93,7 +93,7 @@ const allBlogPosts = [
 		title: "Islam Dan Kebudayaan",
 		excerpt: "Belajar dari ketabahan dan kebijaksanaan para nabi utusan Allah.",
 		author: "Tim EdukasiID",
-		date: "5 Maret 2024",
+		date: "12 Juni 2025",
 		image: "/images/blog/10.png",
 	},
 	{

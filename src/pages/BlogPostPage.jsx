@@ -126,6 +126,18 @@ const BlogPostPage = () => {
 								</ul>
 							);
 						}
+						if (item.type === "list_number") {
+							return (
+								<ol
+									key={index}
+									className="list-decimal list-inside mb-4 space-y-1 pl-2 text-foreground/90"
+								>
+									{item.items.map((li, i) => (
+										<li key={i}>{li}</li>
+									))}
+								</ol>
+							);
+						}
 						if (item.type === "arabic") {
 							return (
 								<ArabicTextCard

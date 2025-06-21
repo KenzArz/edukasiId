@@ -206,7 +206,7 @@ export default defineConfig({
 			"Cross-Origin-Embedder-Policy": "credentialless",
 		},
 		allowedHosts: true,
-		host: "192.168.1.11",
+		host: "127.0.0.1",
 	},
 	resolve: {
 		extensions: [".jsx", ".js", ".tsx", ".ts", ".json"],
