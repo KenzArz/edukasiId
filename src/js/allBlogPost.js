@@ -898,7 +898,7 @@ export const allBlogPosts = [
 			},
 			{
 				type: "paragraph",
-				text: "Empat belas abad lalu, wahyu pertama (QS. Al-Alaq 1-5) mendorong manusia untuk membaca dan menuntut ilmu selama tidak melanggar syariat. Islam sangat menghargai ilmu pengetahuan dan teknologi (IPTEK), seperti yang terlihat dari banyak ayat Al-Qur’an yang mengajak memanfaatkan nikmat Allah melalui pengembangan IPTEK."
+				text: "Empat belas abad lalu, wahyu pertama (QS. Al-Alaq 1-5) mendorong manusia untuk membaca dan menuntut ilmu selama tidak melanggar syariat. Islam sangat menghargai ilmu pengetahuan dan teknologi (IPTEK), seperti yang terlihat dari banyak ayat Al-Qur’an yang mengajak memanfaatkan nikmat Allah melalui pengembangan IPTEK.",
 			},
 			{
 				type: "paragraph",
@@ -916,22 +916,23 @@ export const allBlogPosts = [
 					"Ibn Sina (Avicenna): Tokoh besar kedokteran, penulis Al-Qanun fi al-Tibb yang jadi literatur standar selama 600 tahun. Pendekatan rasional dan sistematis dalam diagnosis dan pengobatan",
 					"Ibn al-Haytham (Alhazen): Pelopor metode ilmiah modern di optik dan fisika. Bukunya Kitab al-Manazir jelaskan cahaya dan penglihatan dengan eksperimen dan observasi.",
 					"Jabir ibn Hayyan: Bapak kimia modern, temukan teknik destilasi, kristalisasi, sublimasi. Menulis 100+ karya tentang kimia dan alkimia.",
-					"Al-Biruni : Ilmuwan multidisiplin di astronomi, geografi, dan sejarah. Menghitung diameter bumi dengan akurat."
-				]
+					"Al-Biruni : Ilmuwan multidisiplin di astronomi, geografi, dan sejarah. Menghitung diameter bumi dengan akurat.",
+				],
 			},
 			{
 				type: "heading",
 				level: 2,
-				text: "Pandangan Islam terhadap Perkembangan Ilmu Pengetahuan dan Teknologi"
+				text: "Pandangan Islam terhadap Perkembangan Ilmu Pengetahuan dan Teknologi",
 			},
 			{
 				type: "paragraph",
-				text: "Islam memberikan perhatian yang besar terhadap ilmu pengetahuan dan teknologi. Banyak ayat dalam Al-Qur’an yang mendorong umat manusia untuk berpikir, merenungi ciptaan Allah, dan mencari ilmu. Bahkan wahyu pertama yang diturunkan kepada Nabi Muhammad SAW adalah perintah untuk membaca (QS. Al-‘Alaq: 1-5). Ini menegaskan bahwa menuntut ilmu adalah suatu kewajiban yang luhur dalam Islam, sebagaimana hadis Nabi SAW:"
+				text: "Islam memberikan perhatian yang besar terhadap ilmu pengetahuan dan teknologi. Banyak ayat dalam Al-Qur’an yang mendorong umat manusia untuk berpikir, merenungi ciptaan Allah, dan mencari ilmu. Bahkan wahyu pertama yang diturunkan kepada Nabi Muhammad SAW adalah perintah untuk membaca (QS. Al-‘Alaq: 1-5). Ini menegaskan bahwa menuntut ilmu adalah suatu kewajiban yang luhur dalam Islam, sebagaimana hadis Nabi SAW:",
 			},
 			{
 				type: "arabic",
 				text: "طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ وَمُسْلِمَةٍ",
-				translation: "Menuntut ilmu itu wajib bagi setiap Muslim dan Muslimah. (HR. Ibnu Majah)",
+				translation:
+					"Menuntut ilmu itu wajib bagi setiap Muslim dan Muslimah. (HR. Ibnu Majah)",
 			},
 			{
 				type: "paragraph",
@@ -969,7 +970,8 @@ export const allBlogPosts = [
 			{
 				type: "arabic",
 				text: "أَمَّنْ هُوَ قَانِتٌ ءَانَاۤءَ ٱلَّيْلِ سَاجِدًا وَقَا۟ئِمًا يَحْذَرُ ٱلْءَاخِرَةَ وَيَرْجُوا۟ رَحْمَةَ رَبِّهِۦۗ قُلْ هَلْ يَسْتَوِى ٱلَّذِينَ يَعْلَمُونَ وَٱلَّذِينَ لَا يَعْلَمُونَۗ إِنَّمَا يَتَذَكَّرُ أُو۟لُوا۟ ٱلْأَلْبَٰبِ",
-				translation: "(Apakah kamu orang musyrik yang lebih beruntung) ataukah orang yang beribadah pada waktu malam dengan sujud dan berdiri, karena takut kepada (azab) akhirat dan mengharapkan rahmat Tuhannya? Katakanlah, “Apakah sama orang-orang yang mengetahui dengan orang-orang yang tidak mengetahui?” Sebenarnya hanya orang yang berakal sehat yang dapat menerima pelajaran. (QS. Az-Zumar: 9)",
+				translation:
+					"(Apakah kamu orang musyrik yang lebih beruntung) ataukah orang yang beribadah pada waktu malam dengan sujud dan berdiri, karena takut kepada (azab) akhirat dan mengharapkan rahmat Tuhannya? Katakanlah, “Apakah sama orang-orang yang mengetahui dengan orang-orang yang tidak mengetahui?” Sebenarnya hanya orang yang berakal sehat yang dapat menerima pelajaran. (QS. Az-Zumar: 9)",
 			},
 			{
 				type: "paragraph",
@@ -978,7 +980,8 @@ export const allBlogPosts = [
 			{
 				type: "arabic",
 				text: "اَلْعُلَمَاءُ وَرَثَةُ الْأَنْبِيَاءِ وَإِنَّ الْأَنْبِيَاءَ لَمْ يُوَرِّثُوْا دِيْنَارًا وَلَا دِرْهَامًا، وَلَكِنْ وَرَّثُوْا الْعِلْمَ، فَمَنْ أَخَذَهُ أَخَذَ بِحَظٍّ وَافِرٍ",
-				translation: "Para ulama adalah pewaris para nabi, dan para nabi tidak mewariskan dinar atau dirham, tetapi mereka mewariskan ilmu. Barang siapa mengambilnya, maka dia telah mengambil bagian yang banyak. (HR. Abu Dawud)",
+				translation:
+					"Para ulama adalah pewaris para nabi, dan para nabi tidak mewariskan dinar atau dirham, tetapi mereka mewariskan ilmu. Barang siapa mengambilnya, maka dia telah mengambil bagian yang banyak. (HR. Abu Dawud)",
 			},
 			{
 				type: "paragraph",
@@ -1014,8 +1017,8 @@ export const allBlogPosts = [
 			},
 			{
 				type: "paragraph",
-				text: "Islam menekankan pentingnya penguasaan ilmu pengetahuan dan teknologi dalam kerangka iman dan etika. Ilmu yang dikembangkan tanpa nilai moral dapat membawa kerusakan, sementara ilmu yang disertai akhlak akan menjadi berkah bagi umat manusia. Oleh karena itu, umat Islam masa kini, khususnya generasi muda, perlu mengintegrasikan nilai-nilai Al-Qur’an dan pengetahuan alam untuk menciptakan IPTEK yang beradab dan bermanfaat bagi dunia."
-			}
+				text: "Islam menekankan pentingnya penguasaan ilmu pengetahuan dan teknologi dalam kerangka iman dan etika. Ilmu yang dikembangkan tanpa nilai moral dapat membawa kerusakan, sementara ilmu yang disertai akhlak akan menjadi berkah bagi umat manusia. Oleh karena itu, umat Islam masa kini, khususnya generasi muda, perlu mengintegrasikan nilai-nilai Al-Qur’an dan pengetahuan alam untuk menciptakan IPTEK yang beradab dan bermanfaat bagi dunia.",
+			},
 		],
 	},
 	{
@@ -1033,7 +1036,7 @@ export const allBlogPosts = [
 			},
 			{
 				type: "paragraph",
-				text: "Pendidikan akidah adalah fondasi utama bagi setiap Muslim, menjadi inti dari amal ibadah yang diterima Allah SWT. Ayat-ayat Al-Qur'an yang diturunkan di Mekkah banyak berfokus pada pembinaan akidah, menunjukkan betapa sentralnya hal ini."
+				text: "Pendidikan akidah adalah fondasi utama bagi setiap Muslim, menjadi inti dari amal ibadah yang diterima Allah SWT. Ayat-ayat Al-Qur'an yang diturunkan di Mekkah banyak berfokus pada pembinaan akidah, menunjukkan betapa sentralnya hal ini.",
 			},
 			{
 				type: "paragraph",
@@ -1047,7 +1050,7 @@ export const allBlogPosts = [
 				type: "heading",
 				level: 3,
 				text: "Pengertian Aqidah",
-			}, 
+			},
 			{
 				type: "paragraph",
 				text: "Akidah, berasal dari kata 'aqada' yang berarti ikatan atau simpul, adalah pilar utama dalam Islam yang membahas keyakinan yang wajib diyakini oleh hati. Secara istilah, akidah adalah aspek kepercayaan yang terikat kuat dalam jiwa seseorang, tidak mungkin terguncang atau tercerai berai. Singkatnya, akidah adalah kebenaran yang diterima secara umum oleh manusia berdasarkan akal sehat, wahyu, dan fitrah.",
@@ -1062,7 +1065,8 @@ export const allBlogPosts = [
 			},
 			{
 				type: "arabic",
-				translation: "aqidah adalah sejumlah kebenaran yang dapat diterima secara umum (axioma) oleh manusia berdasarkan akal, wahyu dan fithrah. Yakni kesahihan dan keberadaannya (secara pasti) dan ditolak segala sesuatu yang bertentangan dengan kebenaran itu. (Al-Jazairy, 1978)",
+				translation:
+					"aqidah adalah sejumlah kebenaran yang dapat diterima secara umum (axioma) oleh manusia berdasarkan akal, wahyu dan fithrah. Yakni kesahihan dan keberadaannya (secara pasti) dan ditolak segala sesuatu yang bertentangan dengan kebenaran itu. (Al-Jazairy, 1978)",
 			},
 			{
 				type: "paragraph",
@@ -1098,11 +1102,11 @@ export const allBlogPosts = [
 			{
 				type: "heading",
 				level: 3,
-				text: "Perilaku yang Sesuai dengan Nilai-Nilai Aqidah"
+				text: "Perilaku yang Sesuai dengan Nilai-Nilai Aqidah",
 			},
 			{
 				type: "paragraph",
-				text: "Adapun perilaku yang sesuaai dengan nilai-nilai aqidah islam, yaitu antara lain:"
+				text: "Adapun perilaku yang sesuaai dengan nilai-nilai aqidah islam, yaitu antara lain:",
 			},
 			{
 				type: "heading",
@@ -1116,7 +1120,8 @@ export const allBlogPosts = [
 			{
 				type: "arabic",
 				text: "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوا اتَّقُوا اللّٰهَ وَلْتَنْظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍۚ وَاتَّقُوا اللّٰهَۗ اِنَّ اللّٰهَ خَبِيْرٌۢ بِمَا تَعْمَلُوْنَ",
-				translation: "Wahai orang-orang yang beriman, bertakwalah kepada Allah dan hendaklah setiap orang memperhatikan apa yang telah diperbuatnya untuk hari esok (akhirat). Bertakwalah kepada Allah. Sesungguhnya Allah Mahateliti terhadap apa yang kamu kerjakan.(Q.S Al-Hasyr:18)",
+				translation:
+					"Wahai orang-orang yang beriman, bertakwalah kepada Allah dan hendaklah setiap orang memperhatikan apa yang telah diperbuatnya untuk hari esok (akhirat). Bertakwalah kepada Allah. Sesungguhnya Allah Mahateliti terhadap apa yang kamu kerjakan.(Q.S Al-Hasyr:18)",
 			},
 			{
 				type: "heading",
@@ -1130,7 +1135,8 @@ export const allBlogPosts = [
 			{
 				type: "arabic",
 				text: "وَاعْبُدُوا اللّٰهَ وَلَا تُشْرِكُوْا بِهٖ شَيْـًٔا وَّبِالْوَالِدَيْنِ اِحْسَانًا وَّبِذِى الْقُرْبٰى وَالْيَتٰمٰى وَالْمَسٰكِيْنِ وَالْجَارِ ذِى الْقُرْبٰى وَالْجَارِ الْجُنُبِ وَالصَّاحِبِ بِالْجَنْۢبِ وَابْنِ السَّبِيْلِۙ وَمَا مَلَكَتْ اَيْمَانُكُمْۗ اِنَّ اللّٰهَ لَا يُحِبُّ مَنْ كَانَ مُخْتَالًا فَخُوْرًاۙ",
-				translation: "Sembahlah Allah dan janganlah kamu mempersekutukan-Nya dengan sesuatupun. Dan berbuat baiklah kepada dua orang ibu-bapa, karib kerabat, anakanak yatim, orang-orang miskin, tetangga yang dekat dan tetangga yang jauh, dan teman sejawat, ibnu sabil dan hamba sahayamu. Sesungguhnya Allah tidak menyukai orang-orang yang sombong dan membangga-banggakan diri. ( Q.S An-nisa:36)."
+				translation:
+					"Sembahlah Allah dan janganlah kamu mempersekutukan-Nya dengan sesuatupun. Dan berbuat baiklah kepada dua orang ibu-bapa, karib kerabat, anakanak yatim, orang-orang miskin, tetangga yang dekat dan tetangga yang jauh, dan teman sejawat, ibnu sabil dan hamba sahayamu. Sesungguhnya Allah tidak menyukai orang-orang yang sombong dan membangga-banggakan diri. ( Q.S An-nisa:36).",
 			},
 			{
 				type: "heading",
@@ -1223,7 +1229,7 @@ export const allBlogPosts = [
 			},
 			{
 				type: "paragraph",
-				text: "Iman secara bahasa berarti kepercayaan, sedangkan secara istilah, iman adalah keyakinan yang mencakup perkataan hati dan lisan, serta perbuatan hati dan anggota badan."
+				text: "Iman secara bahasa berarti kepercayaan, sedangkan secara istilah, iman adalah keyakinan yang mencakup perkataan hati dan lisan, serta perbuatan hati dan anggota badan.",
 			},
 			{
 				type: "paragraph",
@@ -1239,7 +1245,7 @@ export const allBlogPosts = [
 			},
 			{
 				type: "paragraph",
-				text: "Jadi, seorang mukmin yang sempurna harus memenuhi ketiga aspek ini. Apabila seseorang hanya memiliki keyakinan dalam hati tanpa diucapkan dan dibuktikan melalui perbuatan, maka keimanannya belum dianggap sempurna karena iman adalah kesatuan yang tidak dapat dipisahkan antara hati, lisan, dan tindakan."
+				text: "Jadi, seorang mukmin yang sempurna harus memenuhi ketiga aspek ini. Apabila seseorang hanya memiliki keyakinan dalam hati tanpa diucapkan dan dibuktikan melalui perbuatan, maka keimanannya belum dianggap sempurna karena iman adalah kesatuan yang tidak dapat dipisahkan antara hati, lisan, dan tindakan.",
 			},
 			{
 				type: "heading",
@@ -1309,7 +1315,7 @@ export const allBlogPosts = [
 			},
 			{
 				type: "paragraph",
-				text: "Para rasul adalah laki-laki yang dipilih Allah sebagai perantara antara-Nya dan makhluk-Nya. Namun, mereka tetaplah manusia biasa yang tidak memiliki sifat atau hak ketuhanan. Oleh karena itu, menyembah nabi atau rasul dilarang. Rasul diutus oleh Allah dengan syari'at baru untuk menyeru manusia kepada jalan yang benar. Keyakinan ini merupakan bagian penting dalam keimanan seorang muslim."
+				text: "Para rasul adalah laki-laki yang dipilih Allah sebagai perantara antara-Nya dan makhluk-Nya. Namun, mereka tetaplah manusia biasa yang tidak memiliki sifat atau hak ketuhanan. Oleh karena itu, menyembah nabi atau rasul dilarang. Rasul diutus oleh Allah dengan syari'at baru untuk menyeru manusia kepada jalan yang benar. Keyakinan ini merupakan bagian penting dalam keimanan seorang muslim.",
 			},
 			{
 				type: "heading",
@@ -1333,7 +1339,7 @@ export const allBlogPosts = [
 			},
 			{
 				type: "paragraph",
-				text: "Kiamat adalah peristiwa luar biasa di mana seluruh alam semesta akan hancur, bintang-bintang akan redup, gunung-gunung hancur, dan segala sesuatu akan luluh lantak. Keimanan ini mengingatkan manusia untuk senantiasa mempersiapkan amal shaleh sebagai bekal di akhirat."
+				text: "Kiamat adalah peristiwa luar biasa di mana seluruh alam semesta akan hancur, bintang-bintang akan redup, gunung-gunung hancur, dan segala sesuatu akan luluh lantak. Keimanan ini mengingatkan manusia untuk senantiasa mempersiapkan amal shaleh sebagai bekal di akhirat.",
 			},
 			{
 				type: "heading",
@@ -1347,7 +1353,8 @@ export const allBlogPosts = [
 			{
 				type: "arabic",
 				text: "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْٓا اٰمِنُوْا بِاللّٰهِ وَرَسُوْلِهٖ وَالْكِتٰبِ الَّذِيْ نَزَّلَ عَلٰى رَسُوْلِهٖ وَالْكِتٰبِ الَّذِيْٓ اَنْزَلَ مِنْ قَبْلُۗ وَمَنْ يَّكْفُرْ بِاللّٰهِ وَمَلٰۤىِٕكَتِهٖ وَكُتُبِهٖ وَرُسُلِهٖ وَالْيَوْمِ الْاٰخِرِ فَقَدْ ضَلَّ ضَلٰلًا ۢ بَعِيْدًا",
-				translation: "Wahai orang-orang yang beriman, tetaplah beriman kepada Allah, Rasul-Nya (Nabi Muhammad), Kitab (Al-Qur’an) yang diturunkan kepada Rasul-Nya, dan kitab yang Dia turunkan sebelumnya. Siapa yang kufur kepada Allah, para malaikat-Nya, kitab-kitab-Nya, para rasul-Nya, dan hari Akhir sungguh dia telah tersesat sangat jauh. (Q.S An-Nisa:136)",
+				translation:
+					"Wahai orang-orang yang beriman, tetaplah beriman kepada Allah, Rasul-Nya (Nabi Muhammad), Kitab (Al-Qur’an) yang diturunkan kepada Rasul-Nya, dan kitab yang Dia turunkan sebelumnya. Siapa yang kufur kepada Allah, para malaikat-Nya, kitab-kitab-Nya, para rasul-Nya, dan hari Akhir sungguh dia telah tersesat sangat jauh. (Q.S An-Nisa:136)",
 			},
 			{
 				type: "heading",
@@ -1370,7 +1377,8 @@ export const allBlogPosts = [
 			{
 				type: "arabic",
 				text: "شَرَعَ لَكُمْ مِّنَ الدِّينِ مَا وَصَّى بِهِ نُوحًا وَالَّذِيْٓ اَوْحَيْنَآ اِلَيْكَ وَمَا وَصَّيْنَا بِهِ اِبْرٰهِيمَ وَمُوْسٰى وَعِيْسٰىٓ اَنْ اَقِيْمُوا الدِّيْنَ وَلَا تَتَفَرَّقُوْا فِيْهِۗ كَبُرَ عَلَى الْمُشْرِكِيْنَ مَا تَدْعُوْهُمْ اِلَيْهِۗ اللّٰهُ يَجْتَبِيْٓ اِلَيْهِ مَنْ يَّشَاۤءُ وَيَهْدِيْٓ اِلَيْهِ مَنْ يُّنِيْبُ",
-				transalation: "Dia telah mensyariatkan bagi kamu tentang agama yang telah diwasiatkan-Nya kepada Nuh dan apa yang telah Kami wahyukan kepadamu dan apa yang telah Kami wasiatkan kepada Ibrahim, Musa dan Isa yaitu: Tegakkanlah agama dan janganlah kamu berpecah belah tentangnya. Amat berat bagi orang-orang musyrik agama yang kamu seru mereka kepadanya. Allah menarik kepada agama itu orang yang dikehendaki-Nya dan memberi petunjuk kepada (agama)-Nya orang yang kembali (kepada-Nya)",
+				transalation:
+					"Dia telah mensyariatkan bagi kamu tentang agama yang telah diwasiatkan-Nya kepada Nuh dan apa yang telah Kami wahyukan kepadamu dan apa yang telah Kami wasiatkan kepada Ibrahim, Musa dan Isa yaitu: Tegakkanlah agama dan janganlah kamu berpecah belah tentangnya. Amat berat bagi orang-orang musyrik agama yang kamu seru mereka kepadanya. Allah menarik kepada agama itu orang yang dikehendaki-Nya dan memberi petunjuk kepada (agama)-Nya orang yang kembali (kepada-Nya)",
 			},
 			{
 				type: "paragraph",
@@ -1379,7 +1387,8 @@ export const allBlogPosts = [
 			{
 				type: "arabic",
 				text: "اَمْ لَهُمْ شُرَكَاۤؤُا شَرَعُوْا لَهُمْ مِّنَ الدِّيْنِ مَا لَمْ يَأْذَنْ بِهٖ اللّٰهُ ۗ وَلَوْلَا كَلِمَةُ الْفَصْلِ لَقُضِيَ بَيْنَهُمْۗ وَاِنَّ الظّٰلِمِيْنَ لَهُمْ عَذَابٌ اَلِيْمٌ",
-				translation: "Apakah mereka mempunyai sembahan-sembahan selain Allah yang mensyariatkan untuk mereka agama yang tidak diizinkan Allah? Sekiranya tak ada ketetapan yang menentukan (dari Allah tentukanlah mereka dibinasakan). Dan sesungguhnya orang-orang yang zalim itu akan memperoleh azab yang pedih.",
+				translation:
+					"Apakah mereka mempunyai sembahan-sembahan selain Allah yang mensyariatkan untuk mereka agama yang tidak diizinkan Allah? Sekiranya tak ada ketetapan yang menentukan (dari Allah tentukanlah mereka dibinasakan). Dan sesungguhnya orang-orang yang zalim itu akan memperoleh azab yang pedih.",
 			},
 			{
 				type: "paragraph",
@@ -1388,7 +1397,8 @@ export const allBlogPosts = [
 			{
 				type: "arabic",
 				text: "ثُمَّ جَعَلْنَاكَ عَلَى شَرِيْعَةٍ مِّنَ الْاَمْرِ فَاتَّبِعْهَا وَلَا تَتَّبِعْ اَهْوَاۤءَ الَّذِيْنَ لَا يَعْلَمُوْنَ",
-				translation: "Kemudian Kami jadikan kamu berada di atas syariat (peraturan) dari urusan (agama) itu, maka ikutilah syariat itu dan janganlah kamu ikuti hawa nafsu orang-orang yang tidak mengetahui.",
+				translation:
+					"Kemudian Kami jadikan kamu berada di atas syariat (peraturan) dari urusan (agama) itu, maka ikutilah syariat itu dan janganlah kamu ikuti hawa nafsu orang-orang yang tidak mengetahui.",
 			},
 			{
 				type: "heading",
@@ -1414,11 +1424,11 @@ export const allBlogPosts = [
 			{
 				type: "heading",
 				level: 3,
-				text: "Tujuan Ruang Lingkup Ajaran Syariah"
+				text: "Tujuan Ruang Lingkup Ajaran Syariah",
 			},
 			{
 				type: "paragraph",
-				text: "Maqashid syari’ah merupakan prinsip penting dalam hukum Islam yang bertujuan untuk menciptakan kebahagiaan dan kesejahteraan manusia di dunia dan akhirat. Maqashid ini mendorong hal-hal yang bermanfaat serta menghindari mudharat (kerugian). Para ulama mengidentifikasi lima aspek perlindungan utama (daruriyat al-khamsah) sebagai inti maqashid syari’ah, yaitu:"
+				text: "Maqashid syari’ah merupakan prinsip penting dalam hukum Islam yang bertujuan untuk menciptakan kebahagiaan dan kesejahteraan manusia di dunia dan akhirat. Maqashid ini mendorong hal-hal yang bermanfaat serta menghindari mudharat (kerugian). Para ulama mengidentifikasi lima aspek perlindungan utama (daruriyat al-khamsah) sebagai inti maqashid syari’ah, yaitu:",
 			},
 			{
 				type: "list_number",
@@ -1428,7 +1438,7 @@ export const allBlogPosts = [
 					"Memelihara Akal (Hifzh al-Aql): Memberikan pendidikan dan mencegah hal-hal yang merusak akal, seperti konsumsi alkohol.",
 					"Memelihara Keturunan dan Kehormatan (Hifzh al-Nasl): Mengatur hubungan keluarga agar terpelihara kehormatan dan keturunan.",
 					"Menjaga Harta Benda (Hifzh al-Mal): Menjamin perlindungan hak kepemilikan dan mencegah kerugian",
-				]
+				],
 			},
 			{
 				type: "paragraph",
@@ -1436,11 +1446,11 @@ export const allBlogPosts = [
 			},
 			{
 				type: "paragraph",
-				text: "Konsep ini tercermin dalam kewajiban zakat, sedekah, dan berbagai bentuk kebajikan lainnya yang membantu mengurangi ketimpangan sosial dan memperkuat ikatan kebersamaan. Harta seharusnya digunakan untuk memajukan kehidupan manusia, seperti pendidikan, kesehatan, dan pembangunan infrastruktur, sekaligus mencegah eksploitasi dan penindasan."
+				text: "Konsep ini tercermin dalam kewajiban zakat, sedekah, dan berbagai bentuk kebajikan lainnya yang membantu mengurangi ketimpangan sosial dan memperkuat ikatan kebersamaan. Harta seharusnya digunakan untuk memajukan kehidupan manusia, seperti pendidikan, kesehatan, dan pembangunan infrastruktur, sekaligus mencegah eksploitasi dan penindasan.",
 			},
 			{
 				type: "paragraph",
-				text: "Islam mengajarkan bahwa pengelolaan harta harus mencakup aspek material serta nilai spiritual dan moral, guna menciptakan keadilan sosial dan kesetaraan di masyarakat. Dengan demikian, harta menjadi sarana untuk mencapai kehidupan yang berkah dan seimbang."
+				text: "Islam mengajarkan bahwa pengelolaan harta harus mencakup aspek material serta nilai spiritual dan moral, guna menciptakan keadilan sosial dan kesetaraan di masyarakat. Dengan demikian, harta menjadi sarana untuk mencapai kehidupan yang berkah dan seimbang.",
 			},
 			{
 				type: "heading",
@@ -1449,30 +1459,328 @@ export const allBlogPosts = [
 			},
 			{
 				type: "paragraph",
-				text: "Islam sebagai agama yang sempurna memiliki dua aspek utama yang saling berkaitan, yaitu Aqidah dan Syariah. Aqidah merupakan dasar keimanan yang membentuk keyakinan seseorang terhadap Allah, malaikat, kitab-kitab suci, para rasul, hari akhir, serta qadha dan qadar. Keyakinan yang kuat akan membentuk sikap dan perilaku seorang Muslim dalam menjalani kehidupan sesuai dengan ajaran Islam."
+				text: "Islam sebagai agama yang sempurna memiliki dua aspek utama yang saling berkaitan, yaitu Aqidah dan Syariah. Aqidah merupakan dasar keimanan yang membentuk keyakinan seseorang terhadap Allah, malaikat, kitab-kitab suci, para rasul, hari akhir, serta qadha dan qadar. Keyakinan yang kuat akan membentuk sikap dan perilaku seorang Muslim dalam menjalani kehidupan sesuai dengan ajaran Islam.",
 			},
 			{
 				type: "paragraph",
-				text: "Syariah, di sisi lain, adalah aturan dan hukum yang mengatur segala aspek kehidupan, baik hubungan manusia dengan Allah maupun sesama manusia. Syariah mencakup berbagai aspek seperti ibadah, muamalah, pernikahan, hukum pidana, serta sistem pemerintahan."
+				text: "Syariah, di sisi lain, adalah aturan dan hukum yang mengatur segala aspek kehidupan, baik hubungan manusia dengan Allah maupun sesama manusia. Syariah mencakup berbagai aspek seperti ibadah, muamalah, pernikahan, hukum pidana, serta sistem pemerintahan.",
 			},
 			{
 				type: "paragraph",
-				text: "Penerapan Syariah bertujuan untuk menciptakan tatanan masyarakat yang adil, harmonis, dan sesuai dengan nilai-nilai Islam. Selain itu, dalam menghadapi perkembangan zaman, konsep Ijtihad sangat diperlukan untuk menyesuaikan hukum Islam dengan kebutuhan dan tantangan baru."
+				text: "Penerapan Syariah bertujuan untuk menciptakan tatanan masyarakat yang adil, harmonis, dan sesuai dengan nilai-nilai Islam. Selain itu, dalam menghadapi perkembangan zaman, konsep Ijtihad sangat diperlukan untuk menyesuaikan hukum Islam dengan kebutuhan dan tantangan baru.",
 			},
 			{
 				type: "paragraph",
-				text: "Meskipun hukum hukum dasar dalam Islam bersifat tetap, Ijtihad memungkinkan adanya pemahaman yang lebih relevan terhadap situasi yang terus berubah. Kesimpulannya, memahami dan mengamalkan Aqidah serta Syariah secara seimbang akan membentuk individu yang bertakwa, masyarakat yang harmonis, serta negara yang berkeadilan. Islam bukan hanya agama, tetapi juga pedoman hidup yang memberikan petunjuk dalam setiap aspek kehidupan manusia."
+				text: "Meskipun hukum hukum dasar dalam Islam bersifat tetap, Ijtihad memungkinkan adanya pemahaman yang lebih relevan terhadap situasi yang terus berubah. Kesimpulannya, memahami dan mengamalkan Aqidah serta Syariah secara seimbang akan membentuk individu yang bertakwa, masyarakat yang harmonis, serta negara yang berkeadilan. Islam bukan hanya agama, tetapi juga pedoman hidup yang memberikan petunjuk dalam setiap aspek kehidupan manusia.",
 			},
 		],
 	},
 	{
 		id: 7,
-		slug: "akhlak-mulia-cerminan-iman",
+		slug: "akhlak",
 		title: "Ruang Lingkup Ajaran Islam: Akhlak",
-		author: "Dr. Hasan Abdullah",
+		author: "Tim EdukasiID",
 		date: "12 Juni 2025",
-		image: "images/blog/7.png",
-		content: [],
+		image: "/images/blog/7.png",
+		content: [
+			{
+				type: "heading",
+				level: 2,
+				text: "Definisi akhlak menurut bahasa dan istilah",
+			},
+			{
+				type: "paragraph",
+				text: "Imam Al-Ghazali menjelaskan bahwa al-khalqu merujuk pada bentuk fisik manusia, sementara al-khuluqu (akhlak) berkaitan dengan aspek batiniah seperti perangai, budi pekerti, dan tabiat. Akhlak juga diartikan sebagai sifat yang tertanam dalam jiwa, mendorong perbuatan secara spontan tanpa pertimbangan rasional, hingga menjadi kebiasaan.",
+			},
+			{
+				type: "paragraph",
+				text: "Menurut Hadhiri akhlak berasal dari kata akhlaqun, bentuk jamak, sedangkan bentuk tunggalnya adalah khuluq yang berarti perangai atau kelakuan, budi pekerti atau tabiat, kebiasaan atau tabiat.",
+			},
+			{
+				type: "heading",
+				level: 2,
+				text: "Akhlak dalam perspektif Al-Qur’an dan Hadis",
+			},
+			{
+				type: "paragraph",
+				text: "Akhlak merupakan salah satu pilar utama dalam ajaran Islam. Ia bukan hanya sekadar norma perilaku, tetapi merupakan refleksi dari keimanan seseorang. Islam memandang akhlak sebagai bagian yang tidak terpisahkan dari ibadah dan ketakwaan kepada Allah Subhanahu Wa Ta’ala. Al-Qur’an dan Hadis banyak memberikan penekanan terhadap pentingnya pembentukan akhlak yang baik dalam kehidupan seorang Muslim.",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Akhlak dalam Al-Qur’an",
+			},
+			{
+				type: "paragraph",
+				text: "Al-Qur’an sebagai pedoman hidup umat Islam memuat banyak ayat yang berbicara tentang akhlak. Salah satu bentuk pengakuan paling tinggi terhadap akhlak adalah pujian Allah kepada Nabi Muhammad SAW dalam firman-Nya:",
+			},
+			{
+				type: "arabic",
+				text: "وَإِنَّكَ لَعَلَى خُلُقٍ عَظِيمٍ",
+				translation:
+					"Dan sesungguhnya engkau (Muhammad) benar-benar berbudi pekerti yang agung. (QS. Al-Qalam: 4)",
+			},
+			{
+				type: "paragraph",
+				text: "Ayat ini menjadi bukti bahwa Rasulullah SAW memiliki akhlak yang sangat mulia dan menjadi teladan terbaik bagi seluruh umat manusia. Akhlak beliau adalah cerminan langsung dari nilai-nilai Al-Qur’an.",
+			},
+			{
+				type: "paragraph",
+				text: "Selain itu, Al-Qur’an juga memberikan perintah-perintah moral yang universal, seperti dalam surah An-Nahl ayat 90:",
+			},
+			{
+				type: "arabic",
+				text: " اِنَّ اللّٰهَ يَأْمُرُ بِالْعَدْلِ وَالْاِحْسَانِ وَاِيْتَاۤئِ ذِى الْقُرْبٰى وَيَنْهٰى عَنِ الْفَحْشَاۤءِ وَالْمُنْكَرِ وَالْبَغْيِ يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُوْنَ",
+				translation:
+					"Sesungguhnya Allah menyuruh (kamu) berlaku adil dan berbuat kebajikan, memberi kepada kaum kerabat, dan Allah melarang dari perbuatan keji, kemungkaran dan permusuhan...(QS. An-Nahl: 90)",
+			},
+			{
+				type: "paragraph",
+				text: "Ayat ini menekankan prinsip dasar akhlak dalam Islam: keadilan, kebaikan, dan menjauhi kemungkaran. Nilai-nilai ini menjadi landasan dalam membentuk masyarakat yang harmonis dan berperadaban tinggi.",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Akhlak dalam hadist",
+			},
+			{
+				type: "paragraph",
+				text: "Hadis-hadis Nabi Muhammad SAW juga banyak menekankan pentingnya akhlak dalam kehidupan seorang Muslim. Rasulullah SAW bersabda:",
+			},
+			{
+				type: "arabic",
+				text: "إِنَّمَا بُعِثْتُ لِأُتَمِّمَ مَكَارِمَ الْأَخْلَاقِ",
+				translation:
+					"Sesungguhnya aku diutus untuk menyempurnakan akhlak yang mulia. (HR. Ahmad)",
+			},
+			{
+				type: "paragraph",
+				text: "Hadis ini menjelaskan bahwa salah satu tujuan utama diutusnya Nabi adalah untuk menyempurnakan akhlak manusia. Ini menunjukkan bahwa akhlak menempati posisi yang sangat tinggi dalam Islam.\nDalam hadis lain, Rasulullah SAW bersabda:",
+			},
+			{
+				type: "arabic",
+				text: "أَكْمَلُ الْمُؤْمِنِينَ إِيمَانًا أَحْسَنُهُمْ خُلُقًا",
+				translation:
+					"Orang mukmin yang paling sempurna imannya adalah yang paling baik akhlaknya. (HR. Tirmidzi)",
+			},
+			{
+				type: "paragraph",
+				text: "Dengan demikian, kualitas akhlak seseorang menjadi indikator dari tingkat keimanannya. Seorang Muslim yang baik tidak hanya taat secara ritual, tetapi juga santun dalam tutur kata, jujur dalam perbuatan, serta adil dan sabar dalam menghadapi berbagai situasi kehidupan.",
+			},
+			{
+				type: "heading",
+				level: 2,
+				text: "Perbedaan akhlak dengan etika dan moral",
+			},
+			{
+				type: "paragraph",
+				text: "Istilah akhlak, etika, dan moral sering digunakan dalam konteks pembahasan tentang perilaku manusia. Ketiganya memang berkaitan dengan penilaian baik dan buruk, namun memiliki perbedaan dalam hal asal-usul, pendekatan, dan penerapannya. Memahami perbedaan ini penting agar kita tidak menyamakan hal-hal yang secara hakikatnya berbeda",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "akhlak",
+			},
+			{
+				type: "paragraph",
+				text: "Dalam perspektif Islam, akhlak adalah sifat batin yang tertanam dalam jiwa dan muncul dalam bentuk perilaku secara spontan tanpa dibuat-buat. Kata akhlak berasal dari bahasa Arab “khuluq” yang berarti budi pekerti atau tabiat. Akhlak dalam Islam tidak hanya berkaitan dengan hubungan antarmanusia, tetapi juga mencakup hubungan manusia dengan Allah dan makhluk lainnya.\nAkhlak bersumber dari wahyu, yaitu Al-Qur’an dan Hadis. Karena itu, nilai-nilai akhlak bersifat absolut dan tidak berubah oleh waktu atau budaya. Tujuan dari akhlak adalah untuk memperoleh keridhaan Allah dan mendekatkan diri kepada-Nya. Seseorang dikatakan berakhlak baik jika perilakunya mencerminkan nilai-nilai keislaman seperti kejujuran, kesabaran, rendah hati, dan kasih sayang, serta menjauhi sifat-sifat tercela",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Etika",
+			},
+			{
+				type: "paragraph",
+				text: "Etika berasal dari bahasa Yunani “ethos” yang berarti kebiasaan atau adat. Dalam dunia filsafat, etika didefinisikan sebagai ilmu yang mempelajari tentang apa yang baik dan buruk secara rasional dan logis. Etika bersifat teoritis, karena berusaha menjawab pertanyaan tentang dasar-dasar dari tindakan yang dianggap baik atau buruk melalui pendekatan pemikiran.\nBerbeda dengan akhlak yang bersumber dari wahyu, etika bersumber dari pemikiran manusia, sehingga sifatnya relatif dan bisa diperdebatkan. Apa yang dianggap etis dalam satu masyarakat atau sistem filsafat belum tentu dianggap etis oleh masyarakat lain. Etika juga lebih banyak digunakan dalam konteks akademis, profesi, atau analisis moral dalam situasi kompleks.",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Moral",
+			},
+			{
+				type: "paragraph",
+				text: "Moral berasal dari bahasa Latin “mos” atau “mores” yang berarti adat-istiadat atau kebiasaan. Moral merupakan sekumpulan nilai dan norma yang hidup dan berkembang dalam suatu masyarakat sebagai panduan berperilaku. Moral cenderung bersifat praktis dan berkaitan langsung dengan realitas sosial.\nNilai moral muncul dari kesepakatan bersama dalam suatu kelompok masyarakat. Oleh karena itu, moral dapat berbeda-beda tergantung pada budaya, lingkungan, dan waktu. Suatu perilaku yang dianggap bermoral di suatu tempat, bisa jadi dianggap tidak bermoral di tempat lain.",
+			},
+			{
+				type: "heading",
+				level: 2,
+				text: "Akhlak kepada Allah SWT",
+			},
+			{
+				type: "paragraph",
+				text: "Akhlak kepada Allah SWT adalah inti dari kehidupan seorang Muslim, karena akhlak ini melibatkan hubungan yang sangat erat antara seorang hamba dengan Tuhan yang Maha Esa. Dalam Islam, akhlak kepada Allah tidak hanya mencakup perbuatan lahiriah, tetapi juga niat dan sikap hati yang harus selalu dipenuhi dengan keikhlasan, cinta, dan penghambaan. Setiap tindakan yang dilakukan seorang Muslim seharusnya berlandaskan pada prinsip-prinsip yang ditetapkan oleh Allah SWT dalam Al-Qur'an dan Hadis, yang mencakup penghambaan secara total kepada-Nya.",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Tauhid sebagai Pondasi Akhlak kepada Allah",
+			},
+			{
+				type: "paragraph",
+				text: "Akhlak kepada Allah dimulai dengan tauhid, yaitu keyakinan bahwa Allah adalah Tuhan yang Maha Esa dan tidak ada sekutu bagi-Nya. Dalam ajaran Islam, tauhid adalah pokok utama yang harus diyakini dengan tulus oleh setiap Muslim. Setiap amal perbuatan seorang Muslim hendaknya didasari oleh keyakinan bahwa hanya Allah yang berhak disembah dan tidak ada yang setara dengan-Nya. Dengan meyakini tauhid, seorang Muslim menjaga kesucian dan kemurnian ibadahnya hanya untuk Allah semata.",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Ketaatan kepada Perintah Allah dan Menjauhi Larangan-Nya",
+			},
+			{
+				type: "paragraph",
+				text: "Akhlak kepada Allah juga tercermin dalam ketaatan terhadap segala perintah-Nya yang tercantum dalam Al-Qur'an dan Hadis. Seorang Muslim yang berakhlak baik akan berusaha dengan sungguh-sungguh untuk menjalankan ibadah wajib, seperti shalat, puasa, zakat, dan haji bagi yang mampu. Selain itu, ia juga berusaha untuk menjauhi segala larangan Allah, seperti berdusta, berzina, atau mengambil hak orang lain. Dalam setiap perbuatan, ia berusaha untuk menyesuaikan diri dengan ajaran-Nya tanpa merasa berat hati, karena semua perintah Allah adalah untuk kebaikan hamba-Nya di dunia dan akhirat.",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Ikhlas dalam Beribadah",
+			},
+			{
+				type: "paragraph",
+				text: "Salah satu bentuk akhlak yang paling mendalam kepada Allah adalah ikhlas dalam beribadah. Ikhlas berarti melakukan segala sesuatu semata-mata hanya untuk mendapatkan keridhaan Allah, tanpa pamrih atau niat untuk mendapatkan pujian dari manusia. Rasulullah SAW mengingatkan umat Islam untuk tidak menjadikan amalan mereka sebagai sarana untuk memperoleh penghargaan duniawi. Dalam Hadisnya, beliau bersabda, “Sesungguhnya amal itu tergantung pada niatnya, dan setiap orang akan mendapatkan sesuai dengan apa yang ia niatkan” (HR. Bukhari dan Muslim). Ikhlas juga berarti membersihkan hati dari segala bentuk riya (berbuat untuk dilihat orang lain) dan kesombongan.",
+			},
+			{
+				type: "heading",
+				level: 2,
+				text: "Akhlak kepada Sesama Manusia",
+			},
+			{
+				type: "paragraph",
+				text: "Akhlak kepada sesama manusia adalah salah satu pokok ajaran dalam Islam yang tidak hanya berkaitan dengan hubungan antarmanusia, tetapi juga sebagai bentuk penghambaan kepada Allah SWT. Islam mengajarkan umatnya untuk berinteraksi dengan sesama dengan cara yang penuh kasih sayang, penghormatan, dan keadilan. Dalam pandangan Islam, akhlak yang baik terhadap orang lain merupakan salah satu tanda keimanan seseorang.",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Menghargai dan Menyayangi Sesama",
+			},
+			{
+				type: "paragraph",
+				text: "Pada dasarnya, akhlak Islam menuntut kita untuk selalu menunjukkan rasa kasih sayang dan penghormatan kepada sesama. Rasulullah SAW mengajarkan bahwa kasih sayang itu harus diberikan kepada semua orang, tanpa memandang status sosial, usia, ataupun latar belakang mereka. Dalam sebuah hadis, Rasulullah SAW bersabda:",
+			},
+			{
+				type: "arabic",
+				text: "مَنْ لَا يَرْحَمْ لَا يُرْحَم",
+				translation:
+					"Barang siapa yang tidak menyayangi, maka ia tidak akan disayangi (HR. Bukhari dan Muslim).",
+			},
+			{
+				type: "paragraph",
+				text: "Hal ini menunjukkan bahwa kasih sayang adalah nilai utama dalam berinteraksi dengan orang lain, yang akan membawa keharmonisan dalam masyarakat.",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Berbicara dengan Lembut dan Baik",
+			},
+			{
+				type: "paragraph",
+				text: "Islam sangat menekankan pentingnya perkataan yang baik. Dalam berkomunikasi dengan sesama, seorang Muslim diharapkan untuk menghindari kata-kata kasar, menyakitkan, atau merendahkan. Allah SWT berfirman dalam Al-Qur’an,",
+			},
+			{
+				type: "arabic",
+				text: "وَقُلْ لِّعِبَادِيْ يَقُوْلُوا الَّتِيْ هِيَ اَحْسَنُۗ اِنَّ الشَّيْطٰنَ يَنْزَغُ بَيْنَهُمْۗ اِنَّ الشَّيْطٰنَ كَانَ لِلْاِنْسَانِ عَدُوًّا مُّبِيْنًا",
+				translation:
+					"Dan katakanlah kepada hamba-hamba-Ku, hendaklah mereka mengucapkan perkataan yang lebih baik. Sesungguhnya setan itu menimbulkan perpecahan di antara mereka. Sesungguhnya setan itu adalah musuh yang nyata bagi manusia. (QS. Al-Isra: 53).",
+			},
+			{
+				type: "paragraph",
+				text: "Perkataan yang baik bukan hanya berbicara dengan sopan, tetapi juga mengandung makna yang dapat mempererat hubungan, memberikan nasihat yang positif, dan menghindari kata-kata yang bisa menyinggung perasaan orang lain.",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Menolong Sesama dengan Ikhlas",
+			},
+			{
+				type: "paragraph",
+				text: "Menolong orang lain, baik dalam bentuk materi atau non-materi, adalah bagian tak terpisahkan dari akhlak mulia dalam Islam. Rasulullah SAW mengajarkan bahwa menolong sesama, bahkan dengan sesuatu yang kecil sekalipun, akan mendapatkan pahala besar di sisi Allah. Hadistnya berbunyi:",
+			},
+			{
+				type: "arabic",
+				text: "مَن يُسْرَ عَلَى مُؤْمِنٍ فِي دُنْيَا فَسَّرَ اللَّهُ عَلَيْهِ فِي دُنْيَا وَآخِرَتِهِ",
+				translation:
+					"Barang siapa yang memudahkan urusan orang lain, maka Allah akan memudahkan urusannya di dunia dan akhirat (HR. Muslim).",
+			},
+			{
+				type: "paragraph",
+				text: "Tindakan menolong tidak hanya terbatas pada memberi harta, tetapi juga bisa berupa dukungan emosional, memberikan waktu untuk mendengarkan, atau memberikan nasehat yang bermanfaat.",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Menjaga Hubungan Baik (Silaturahmi)",
+			},
+			{
+				type: "paragraph",
+				text: "Islam sangat menganjurkan umatnya untuk menjaga silaturahmi dengan sesama, baik itu dengan keluarga, tetangga, teman, atau bahkan dengan orang yang tidak kita kenal. Silaturahmi adalah cara untuk mempererat hubungan dan menjaga keharmonisan dalam masyarakat. Rasulullah SAW bersabda:",
+			},
+			{
+				type: "arabic",
+				text: "مَن كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ فَلْيُصِلْ رَحِمَه",
+				translation:
+					"Barang siapa yang beriman kepada Allah dan hari akhir, hendaklah ia menyambung silaturahmi (HR. Bukhari dan Muslim).",
+			},
+			{
+				type: "paragraph",
+				text: "Dengan menjaga hubungan baik, seseorang dapat menciptakan ikatan yang kuat dan saling mendukung antar sesama, serta mendapatkan keberkahan dari Allah.",
+			},
+			{
+				type: "heading",
+				level: 2,
+				text: "Akhlak terhadap Diri Sendiri",
+			},
+			{
+				type: "paragraph",
+				text: "Akhlak terhadap diri sendiri dalam Islam merupakan bentuk penghargaan terhadap anugerah yang diberikan oleh Allah SWT. Seorang Muslim diajarkan untuk menjaga dirinya secara fisik, mental, dan spiritual agar tetap berada dalam kondisi terbaik untuk menjalankan peran sebagai hamba Allah dan khalifah di bumi. Akhlak terhadap diri sendiri tidak hanya mencakup aspek ibadah, tetapi juga mencakup cara memperlakukan diri dengan penuh rasa hormat, menjaga keseimbangan hidup, dan senantiasa berusaha untuk menjadi pribadi yang lebih baik.",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Menjaga Kesehatan dan Kebersihan",
+			},
+			{
+				type: "paragraph",
+				text: "Islam sangat menekankan pentingnya menjaga tubuh dan kesehatan sebagai bentuk tanggung jawab terhadap diri sendiri. Rasulullah SAW bersabda",
+			},
+			{
+				type: "arabic",
+				text: "إِنَّ لِجَسَدِكَ عَلَيْكَ حَقًّا",
+				translation:
+					"Sesungguhnya tubuhmu memiliki hak atas dirimu (HR. Bukhari dan Muslim).",
+			},
+			{
+				type: "paragraph",
+				text: "Dalam ajaran Islam, menjaga kebersihan adalah bagian dari iman. Seorang Muslim diajarkan untuk menjaga kebersihan tubuh, pakaian, dan lingkungan sekitarnya, karena kebersihan adalah bagian dari agama. Selain itu, menjaga pola makan yang sehat, cukup tidur, dan berolahraga secara teratur adalah cara untuk merawat tubuh yang diberikan oleh Allah.",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Menjaga Keseimbangan Emosional dan Mental",
+			},
+			{
+				type: "paragraph",
+				text: "Akhlak terhadap diri sendiri juga mencakup pentingnya menjaga keseimbangan emosional dan mental. Islam mengajarkan untuk selalu sabar dalam menghadapi ujian hidup, namun juga memberi ruang untuk beristirahat dan merawat diri. Rasulullah SAW menekankan agar umatnya tidak membebani diri dengan beban yang terlalu berat",
+			},
+			{
+				type: "arabic",
+				text: "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا لَهَا مَا كَسَبَتْ وَعَلَيْكُم مَا اكْتَسَبْتُمْ رَبَّنَا لَا تُؤَاخِذْنَا إِن نَسِينَاؤ أوْ أَخْطَأْنَا رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا رَبَّنَا وَلا تُحَمِّلْنَا ما لا طاقة لنا به واعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا أَنتَ مَوْلانَا فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+				translation:
+					"Allah tidak membebani seseorang melainkan sesuai dengan kesanggupannya. Baginya (pahala) apa yang telah diusahakannya, dan bagimu (dosa) apa yang telah kamu usahakan. Ya Tuhan kami, janganlah Engkau hukum kami jika kami lupa atau kami bersalah. Ya Tuhan kami, dan janganlah Engkau bebankan kepada kami beban yang berat sebagaimana Engkau bebankan kepada orang-orang sebelum kami. Ya Tuhan kami, dan janganlah Engkau pikulkan kepada kami apa yang tidak sanggup kami menanggungnya. Dan maafkanlah kami, ampunilah kami, dan berilah kami rahmat. Engkaulah Pelindung kami, maka tolonglah kami terhadap kaum yang kafir. (QS. Al-Baqarah: 286).",
+			},
+			{
+				type: "paragraph",
+				text: "Dalam Islam, seseorang tidak diperbolehkan untuk menekan atau merusak dirinya dengan perasaan negatif, seperti kecemasan, depresi, atau kebencian yang berkepanjangan. Oleh karena itu, penting untuk menjaga kesehatan mental dengan berpikir positif, berdoa, dan berusaha mencari ketenangan melalui dzikir dan ibadah.",
+			},
+			{
+				type: "heading",
+				level: 2,
+				text: "Kesimpulan",
+			},
+			{
+				type: "paragraph",
+				text: "Akhlak dalam Islam merupakan fondasi utama kehidupan Muslim yang mencakup hubungan mendalam dengan Allah, sesama manusia, dan diri sendiri. Menurut Imam Al-Ghazali, al-khalqu merujuk pada bentuk fisik, sementara al-khuluqu atau akhlak berkaitan dengan sifat batiniah yang tertanam dalam jiwa, mendorong perbuatan spontan tanpa pertimbangan rasional hingga menjadi kebiasaan. Secara bahasa, akhlak berasal dari kata khuluq yang berarti perangai, budi pekerti, atau tabiat. \nAl-Qur’an menekankan pentingnya akhlak mulia, seperti dalam QS. Al-Qalam ayat 4 yang memuji akhlak Nabi Muhammad SAW sebagai teladan, serta QS. An-Nahl ayat 90 yang menyerukan keadilan, kebaikan, dan menjauhi kemungkaran. Dalam hadis, Rasulullah SAW menyatakan bahwa tujuan utama kenabian adalah menyempurnakan akhlak yang mulia (HR. Ahmad), dan kualitas iman diukur melalui kebaikan akhlak (HR. Tirmidzi). \nAkhlak dalam Islam bersumber dari wahyu (Al-Qur’an dan Hadis) yang bersifat absolut, berbeda dengan etika yang bersifat rasional-teoritis dan moral yang bersifat normatif-sosial. Akhlak kepada Allah diwujudkan melalui tauhid, ketaatan pada perintah-Nya, dan ikhlas dalam ibadah, sebagaimana sabda Nabi tentang pentingnya niat (HR. Bukhari).\nAkhlak kepada sesama manusia mencakup kasih sayang, perkataan lembut, menolong sesama, dan menjaga silaturahmi, sementara akhlak terhadap diri sendiri mencakup menjaga kesehatan, kebersihan, keseimbangan emosional, serta menghindari beban berlebihan sesuai QS. Al-Baqarah ayat 286.\nKeseluruhan prinsip ini bertujuan menciptakan masyarakat harmonis, beradab, dan beriman, dengan pendekatan yang menyeluruh dan berakar pada nilai-nilai keislaman.",
+			},
+		],
 	},
 	{
 		id: 8,
@@ -1482,7 +1790,66 @@ export const allBlogPosts = [
 		author: "Tim EdukasiID",
 		date: "12 Juni 2025",
 		image: "/images/blog/8.png",
-		content: [],
+		content: [
+			{
+				type: "heading",
+				level: 2,
+				text: "Hakikat Manusia Menurut Islam",
+			},
+			{
+				type: "paragraph",
+				text: "Dalam ajaran Islam, manusia dipandang sebagai makhluk yang istimewa dan unik. Keistimewaan ini terletak pada potensi yang diberikan oleh Allah kepada manusia, yaitu akal, qalb, dan nafsu. Ketiga potensi ini merupakan modal utama bagi manusia dalam menjalani kehidupan di dunia sekaligus mempersiapkan diri untuk kehidupan akhirat.",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Akal (intelektual)",
+			},
+			{
+				type: "paragraph",
+				text: "Akal (intelektual) adalah potensi untuk berpikir, memahami, dan menganalisis. Dengan akalnya, manusia mampu membedakan antara yang benar dan salah, baik dan buruk. Akal juga menjadi alat untuk merenungi tanda-tanda kebesaran Allah di alam semesta (tadabbur). Al-Qur’an berulang kali memerintahkan manusia untuk menggunakan akalnya, seperti dalam QS. Al-Baqarah ayat 164, yang menyatakan bahwa dalam penciptaan langit dan bumi, pergantian malam dan siang, serta keberadaan hewan dan tumbuhan, terdapat tanda-tanda (ayat) bagi orang-orang yang menggunakan akal.",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Qalb (hati spiritual)",
+			},
+			{
+				type: "paragraph",
+				text: "Qalb (hati spiritual) berfungsi sebagai pusat kesadaran moral dan spiritual. Qalb dalam Islam tidak hanya berarti hati secara biologis, tetapi mencakup makna batiniah sebagai tempat lahirnya iman, cinta kepada Tuhan, dan kepekaan terhadap kebenaran. Dalam QS. Al-Hajj ayat 46 disebutkan bahwa: “Maka apakah mereka tidak berjalan di muka bumi, lalu mereka mempunyai hati yang dengan itu mereka dapat memahami...”.",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Nafsu (dorongan emosional dan instingtif) ",
+			},
+			{
+				type: "paragraph",
+				text: "Nafsu (dorongan emosional dan instingtif) adalah potensi dasar manusia yang cenderung kepada keinginan dan kenikmatan. Nafsu memiliki berbagai tingkatan, dari yang paling rendah (ammarah bi al-su’ – selalu mengajak kepada kejahatan) hingga nafsu yang paling tinggi (nafsu muthmainnah – jiwa yang tenang). Islam tidak menolak keberadaan nafsu, namun mengajarkan agar manusia mampu mengendalikannya dan tidak diperbudak oleh hawa nafsunya (QS. Yusuf: 53).”.",
+			},
+			{
+				type: "paragraph",
+				text: "Dari sisi penciptaan, Al-Qur'an menjelaskan bahwa manusia diciptakan dari dua unsur: unsur fisik (materi) dan ruh (non-materi). Tubuh manusia berasal dari tanah, sebagaimana disebutkan dalam QS. Al-Mu’minun ayat 12-14:\nDan sungguh, Kami telah menciptakan manusia dari saripati (berasal) dari tanah. Kemudian Kami menjadikannya air mani (yang disimpan) dalam tempat yang kokoh (rahim). Kemudian, air mani itu Kami jadikan sesuatu yang melekat, lalu sesuatu yang melekat itu Kami jadikan segumpal daging, dan segumpal daging itu Kami jadikan tulang belulang, lalu tulang belulang itu Kami bungkus dengan daging. Kemudian, Kami menjadikannya makhluk yang berbentuk lain. Maha Suci Allah, Pencipta yang paling baik.\nAyat ini menunjukkan proses penciptaan manusia secara bertahap dan penuh keajaiban. Dari saripati tanah, kemudian melalui proses biologis yang berlangsung dalam rahim hingga akhirnya Allah meniupkan ruh, menjadikan manusia sebagai makhluk hidup yang sadar, berkehendak, dan bertanggung jawab.\nSelain itu, Al-Qur’an menggunakan beberapa istilah untuk menyebut manusia, masing-masing dengan makna dan fokus yang berbeda:”.",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Al-Basyar",
+			},
+			{
+				type: "paragraph",
+				text: "Merujuk pada aspek fisik dan biologis manusia. Kata ini menunjukkan bahwa manusia, seperti makhluk hidup lainnya, membutuhkan makanan, minuman, dan pasangan hidup (QS. Al-Kahfi: 110). Kata basyar juga menegaskan bahwa Rasulullah Muhammad SAW adalah manusia biasa secara fisik, namun diistimewakan karena menerima wahyu.",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Al-Basyar",
+			},
+			{
+				type: "paragraph",
+				text: "Merujuk pada aspek fisik dan biologis manusia. Kata ini menunjukkan bahwa manusia, seperti makhluk hidup lainnya, membutuhkan makanan, minuman, dan pasangan hidup (QS. Al-Kahfi: 110). Kata basyar juga menegaskan bahwa Rasulullah Muhammad SAW adalah manusia biasa secara fisik, namun diistimewakan karena menerima wahyu.",
+			},
+		],
 	},
 	{
 		id: 9,
@@ -1506,7 +1873,7 @@ export const allBlogPosts = [
 			{
 				type: "heading",
 				level: 2,
-				text: "Islam dan Kebudayaan"
+				text: "Islam dan Kebudayaan",
 			},
 			{
 				type: "heading",
@@ -1515,7 +1882,7 @@ export const allBlogPosts = [
 			},
 			{
 				type: "paragraph",
-				text: "Islam adalah agama yang diturunkan oleh Allah Swt. melalui Nabi Muhammad saw. sebagai rahmat bagi seluruh alam dan petunjuk bagi umat manusia dalam menjalani kehidupan. Istilah Islam berasal dari kata aslama-yuslimu-islaam artinya patuh atau menerima dan memeluk Islam; kata dasarnya adalah salima yang berarti selamat dan sejahtera."
+				text: "Islam adalah agama yang diturunkan oleh Allah Swt. melalui Nabi Muhammad saw. sebagai rahmat bagi seluruh alam dan petunjuk bagi umat manusia dalam menjalani kehidupan. Istilah Islam berasal dari kata aslama-yuslimu-islaam artinya patuh atau menerima dan memeluk Islam; kata dasarnya adalah salima yang berarti selamat dan sejahtera.",
 			},
 			{
 				type: "paragraph",
@@ -1526,7 +1893,7 @@ export const allBlogPosts = [
 				items: [
 					"Hubungan manusia dengan Allah Swt. (hablum minallah), yang mencakup keyakinan, ibadah, dan ketaatan kepada-Nya.",
 					"Hubungan manusia dengan sesama manusia (hablum minannas), yang mencakup etika, moral, dan interaksi sosial yang baik.",
-				]
+				],
 			},
 			{
 				type: "heading",
@@ -1570,7 +1937,7 @@ export const allBlogPosts = [
 			},
 			{
 				type: "paragraph",
-				text: "Dalam kehidupan sehari-hari dapat diambil beberapa contoh hubungan agama dankebudayaan. Pertama, ketika seseorang berpindah agama cara berfikir dan cara hidupnya dapat berubahsecara signifikan. dapat dilihat seseorang yang beragama Kristen pindah menjadi agama islammaka pandangan hidupnya akan 6 berubah pula, missal: cara pandang mareka dalam berpakaianketika mereka beragama Kristen cara berpakain mereka kurang menutup aurat tetapi ketikamereka telah beragam islam cara berpakaian mereka menutup aurat."
+				text: "Dalam kehidupan sehari-hari dapat diambil beberapa contoh hubungan agama dankebudayaan. Pertama, ketika seseorang berpindah agama cara berfikir dan cara hidupnya dapat berubahsecara signifikan. dapat dilihat seseorang yang beragama Kristen pindah menjadi agama islammaka pandangan hidupnya akan 6 berubah pula, missal: cara pandang mareka dalam berpakaianketika mereka beragama Kristen cara berpakain mereka kurang menutup aurat tetapi ketikamereka telah beragam islam cara berpakaian mereka menutup aurat.",
 			},
 			{
 				type: "paragraph",
@@ -1592,28 +1959,28 @@ export const allBlogPosts = [
 			},
 			{
 				type: "paragraph",
-				text: "Interaksi antara tradisi asli Indonesia dengan nilai-nilai Islam menciptakan dinamika yang mempercepat penyebaran Islam. Hal ini terlihat dari penerapan prinsip-prinsip Islam dalam praktik budaya lokal, mendorong masyarakat untuk lebih terbuka dalam menerimanya. Islam tidak hanya beradaptasi, tetapi juga mengalami akulturasi harmonis dengan kearifan setempat, seperti contohnya dalam tradisi Jawa melalui ritual atau perayaan besar yang diwarnai kearifan lokal. Pengaruh Islam tampak dalam berbagai ekspresi budaya, mulai dari kerajinan tangan, tarian, musik, hingga desain arsitektur, seperti batik dan arsitektur tempat ibadah."
+				text: "Interaksi antara tradisi asli Indonesia dengan nilai-nilai Islam menciptakan dinamika yang mempercepat penyebaran Islam. Hal ini terlihat dari penerapan prinsip-prinsip Islam dalam praktik budaya lokal, mendorong masyarakat untuk lebih terbuka dalam menerimanya. Islam tidak hanya beradaptasi, tetapi juga mengalami akulturasi harmonis dengan kearifan setempat, seperti contohnya dalam tradisi Jawa melalui ritual atau perayaan besar yang diwarnai kearifan lokal. Pengaruh Islam tampak dalam berbagai ekspresi budaya, mulai dari kerajinan tangan, tarian, musik, hingga desain arsitektur, seperti batik dan arsitektur tempat ibadah.",
 			},
 			{
 				type: "paragraph",
-				text: "Integrasi nilai-nilai Islam dengan kearifan lokal terbukti mampu berkolaborasi secara harmonis, menghasilkan karakteristik budaya yang khas melalui proses adaptasi timbal balik. Di tengah tantangan modernitas, komitmen untuk merawat keselarasan dalam keberagaman terus diupayakan sebagai warisan Islam dan tradisi lokal. Bangsa multikultur Indonesia menunjukkan peran sentral dalam pembentukan identitas nasional melalui akulturasi progresif, di mana spiritual Islam dan tradisi lokal menciptakan harmoni sosial-budaya."
+				text: "Integrasi nilai-nilai Islam dengan kearifan lokal terbukti mampu berkolaborasi secara harmonis, menghasilkan karakteristik budaya yang khas melalui proses adaptasi timbal balik. Di tengah tantangan modernitas, komitmen untuk merawat keselarasan dalam keberagaman terus diupayakan sebagai warisan Islam dan tradisi lokal. Bangsa multikultur Indonesia menunjukkan peran sentral dalam pembentukan identitas nasional melalui akulturasi progresif, di mana spiritual Islam dan tradisi lokal menciptakan harmoni sosial-budaya.",
 			},
 			{
 				type: "heading",
 				level: 3,
-				text: "Islam dan Pengaruhnya pada Budaya Indonesia"
+				text: "Islam dan Pengaruhnya pada Budaya Indonesia",
 			},
 			{
 				type: "paragraph",
-				text: 'Islam telah memberikan kontribusi signifikan terhadap perkembangan kebudayaan Indonesia melalui proses akulturasi yang adaptif dan harmonis. Sejak abad ke-13, masuknya Islam ke Nusantara melalui jalur perdagangan dan dakwah sufi tidak hanya menjadikan Islam sebagai sistem kepercayaan, tetapi juga berinteraksi dinamis dengan tradisi lokal. Contoh nyata terlihat pada Walisongo di Jawa, yang menggunakan pendekatan budaya dengan memadukan nilai-nilai Islam dan kearifan lokal. Unsur budaya Hindu-Buddha seperti gamelan dan wayang kulit bahkan diadaptasi sebagai media dakwah, seperti lakon "Dewa Ruci" yang sarat ajaran tasawuf.'
+				text: 'Islam telah memberikan kontribusi signifikan terhadap perkembangan kebudayaan Indonesia melalui proses akulturasi yang adaptif dan harmonis. Sejak abad ke-13, masuknya Islam ke Nusantara melalui jalur perdagangan dan dakwah sufi tidak hanya menjadikan Islam sebagai sistem kepercayaan, tetapi juga berinteraksi dinamis dengan tradisi lokal. Contoh nyata terlihat pada Walisongo di Jawa, yang menggunakan pendekatan budaya dengan memadukan nilai-nilai Islam dan kearifan lokal. Unsur budaya Hindu-Buddha seperti gamelan dan wayang kulit bahkan diadaptasi sebagai media dakwah, seperti lakon "Dewa Ruci" yang sarat ajaran tasawuf.',
 			},
 			{
 				type: "paragraph",
-				text: 'Di bidang arsitektur, pengaruh Islam tampak pada desain masjid tradisional seperti Masjid Agung Demak dan Masjid Menara Kudus, yang menggabungkan unsur Islam dengan desain lokal, seperti atap tumpang berbentuk meru dan penggunaan bahan kayu. Seni kaligrafi Arab juga diintegrasikan ke dalam motif batik dan ukiran kayu, menciptakan identitas estetika yang khas. Dalam ranah sosial, Islam memperkaya sistem nilai melalui tradisi seperti "selamatan" di Jawa, yang awalnya berakar pada budaya animisme, kemudian diisi dengan doa-doa Islam dan nilai kebersamaan.'
+				text: 'Di bidang arsitektur, pengaruh Islam tampak pada desain masjid tradisional seperti Masjid Agung Demak dan Masjid Menara Kudus, yang menggabungkan unsur Islam dengan desain lokal, seperti atap tumpang berbentuk meru dan penggunaan bahan kayu. Seni kaligrafi Arab juga diintegrasikan ke dalam motif batik dan ukiran kayu, menciptakan identitas estetika yang khas. Dalam ranah sosial, Islam memperkaya sistem nilai melalui tradisi seperti "selamatan" di Jawa, yang awalnya berakar pada budaya animisme, kemudian diisi dengan doa-doa Islam dan nilai kebersamaan.',
 			},
 			{
 				type: "paragraph",
-				text: "Lebih lanjut, pengaruh Islam terlihat dalam sistem pendidikan pesantren yang memadukan kajian keagamaan dengan pengajaran keterampilan lokal, seperti pertanian atau kesenian. Konsep musyawarah dan gotong royong dalam budaya Indonesia juga sejalan dengan prinsip syura dan ta'awun dalam Islam. Proses akulturasi ini menunjukkan bahwa Islam tidak menghapus identitas lokal, melainkan menciptakan sintesis unik, sebagaimana tercermin dalam praktik masyarakat Jawa yang memadukan ritual Islam dengan adat, seperti pernikahan atau khitanan yang dihiasi dengan prosesi budaya."
+				text: "Lebih lanjut, pengaruh Islam terlihat dalam sistem pendidikan pesantren yang memadukan kajian keagamaan dengan pengajaran keterampilan lokal, seperti pertanian atau kesenian. Konsep musyawarah dan gotong royong dalam budaya Indonesia juga sejalan dengan prinsip syura dan ta'awun dalam Islam. Proses akulturasi ini menunjukkan bahwa Islam tidak menghapus identitas lokal, melainkan menciptakan sintesis unik, sebagaimana tercermin dalam praktik masyarakat Jawa yang memadukan ritual Islam dengan adat, seperti pernikahan atau khitanan yang dihiasi dengan prosesi budaya.",
 			},
 			{
 				type: "heading",
@@ -1622,25 +1989,25 @@ export const allBlogPosts = [
 			},
 			{
 				type: "paragraph",
-				text: "Di era globalisasi yang serba cepat ini, budaya asing dengan mudah masuk ke berbagai negara, termasuk yang mayoritas penduduknya Muslim. Fenomena ini menimbulkan tantangan tersendiri, karena tidak semua budaya asing selaras dengan ajaran dan nilai-nilai Islam. Oleh karena itu, diperlukan sistem penyaringan atau filter agar budaya yang berkembang tetap sejalan dengan agama. Dalam konteks ini, Islam memiliki peran penting sebagai filter dalam menyeleksi budaya mana yang layak diterima dan dipertahankan oleh umat Muslim."
+				text: "Di era globalisasi yang serba cepat ini, budaya asing dengan mudah masuk ke berbagai negara, termasuk yang mayoritas penduduknya Muslim. Fenomena ini menimbulkan tantangan tersendiri, karena tidak semua budaya asing selaras dengan ajaran dan nilai-nilai Islam. Oleh karena itu, diperlukan sistem penyaringan atau filter agar budaya yang berkembang tetap sejalan dengan agama. Dalam konteks ini, Islam memiliki peran penting sebagai filter dalam menyeleksi budaya mana yang layak diterima dan dipertahankan oleh umat Muslim.",
 			},
 			{
 				type: "paragraph",
-				text: "Islam berperan sebagai filter dengan menyaring nilai-nilai budaya yang masuk agar sesuai dengan ajaran Al-Qur'an dan Sunnah Nabi Muhammad SAW. Islam tidak menolak budaya secara keseluruhan, melainkan memandangnya secara selektif. Budaya yang tidak bertentangan dengan prinsip-prinsip Islam, seperti keadilan, kebersihan, etika sosial, dan nilai kemanusiaan, dapat diterima dan bahkan dilestarikan. Sebaliknya, budaya yang mengandung unsur kemaksiatan, kekerasan, pornografi, individualisme berlebihan, atau hal-hal yang merusak akidah dan moral umat akan ditolak."
+				text: "Islam berperan sebagai filter dengan menyaring nilai-nilai budaya yang masuk agar sesuai dengan ajaran Al-Qur'an dan Sunnah Nabi Muhammad SAW. Islam tidak menolak budaya secara keseluruhan, melainkan memandangnya secara selektif. Budaya yang tidak bertentangan dengan prinsip-prinsip Islam, seperti keadilan, kebersihan, etika sosial, dan nilai kemanusiaan, dapat diterima dan bahkan dilestarikan. Sebaliknya, budaya yang mengandung unsur kemaksiatan, kekerasan, pornografi, individualisme berlebihan, atau hal-hal yang merusak akidah dan moral umat akan ditolak.",
 			},
 			{
 				type: "paragraph",
-				text: "Sebagai agama yang rahmatan lil 'alamin, Islam memberikan ruang untuk adaptasi budaya lokal selama tidak melanggar prinsip-prinsip syariat. Contohnya, dalam hal pakaian, Islam membolehkan berbagai model asal memenuhi standar menutup aurat. Dalam bidang kesenian, Islam menghargai ekspresi budaya selama tidak mengandung unsur syirik atau merusak moral. Dengan demikian, peran Islam sebagai filter budaya bertujuan untuk menjaga akhlak, moralitas, dan jati diri umat agar tidak terpengaruh negatif oleh arus budaya global yang liberal dan sekuler, serta mendorong umatnya untuk menjadi bagian dari perkembangan budaya dengan tetap berpegang pada nilai-nilai keislaman yang kokoh."
+				text: "Sebagai agama yang rahmatan lil 'alamin, Islam memberikan ruang untuk adaptasi budaya lokal selama tidak melanggar prinsip-prinsip syariat. Contohnya, dalam hal pakaian, Islam membolehkan berbagai model asal memenuhi standar menutup aurat. Dalam bidang kesenian, Islam menghargai ekspresi budaya selama tidak mengandung unsur syirik atau merusak moral. Dengan demikian, peran Islam sebagai filter budaya bertujuan untuk menjaga akhlak, moralitas, dan jati diri umat agar tidak terpengaruh negatif oleh arus budaya global yang liberal dan sekuler, serta mendorong umatnya untuk menjadi bagian dari perkembangan budaya dengan tetap berpegang pada nilai-nilai keislaman yang kokoh.",
 			},
 			{
 				type: "heading",
 				level: 2,
-				text: "Kesimpulan"
+				text: "Kesimpulan",
 			},
 			{
 				type: "paragraph",
-				text: "Islam dan budaya itu sebenarnya bisa jalan beriringan. Islam bukan hanya sekadar tentang ibadah, tetapi juga terkait pengaruhnya dalam mengatur cara hidup, tradisi, dan sosial masyarakat, termasuk di Indonesia. Banyak budaya setempat yang mendapat pengaruh dari ajaran islam melalui proses akulturasi seperti seni, arsitektur, tradisi dan pendidikan. Contohnya, penyebaran islam melalui dakwah Wali Songo yang menggunakan media budaya seperti wayang dan gamelan. Di lain hal, islam juga berperan sebagai filter untuk mengatur mana budaya yang baik dan sesuai dengan nilai-nilai Islam, dan mana yang harus dihindari. Generasi saat ini harus memiliki pendirian yang teguh dan bijak dalam memilah-milah budaya mana yang harus dipilih supaya tetap sejalan dengan ajaran Islam, tidak hanya mengikuti arus namun tidak paham dampak. Pada intinya Islam bukanlah penghalang bagi kebudayaan tetapi menjadi pemberi pedoman supaya kebudayaan yang ada bisa berkembang ke jalur yang lebih positif."
-			}
+				text: "Islam dan budaya itu sebenarnya bisa jalan beriringan. Islam bukan hanya sekadar tentang ibadah, tetapi juga terkait pengaruhnya dalam mengatur cara hidup, tradisi, dan sosial masyarakat, termasuk di Indonesia. Banyak budaya setempat yang mendapat pengaruh dari ajaran islam melalui proses akulturasi seperti seni, arsitektur, tradisi dan pendidikan. Contohnya, penyebaran islam melalui dakwah Wali Songo yang menggunakan media budaya seperti wayang dan gamelan. Di lain hal, islam juga berperan sebagai filter untuk mengatur mana budaya yang baik dan sesuai dengan nilai-nilai Islam, dan mana yang harus dihindari. Generasi saat ini harus memiliki pendirian yang teguh dan bijak dalam memilah-milah budaya mana yang harus dipilih supaya tetap sejalan dengan ajaran Islam, tidak hanya mengikuti arus namun tidak paham dampak. Pada intinya Islam bukanlah penghalang bagi kebudayaan tetapi menjadi pemberi pedoman supaya kebudayaan yang ada bisa berkembang ke jalur yang lebih positif.",
+			},
 		],
 	},
 	{
@@ -1659,7 +2026,7 @@ export const allBlogPosts = [
 			},
 			{
 				type: "paragraph",
-				text: "Akal pikiran manusia yang memenuhi syarat merupakan sumber hukum Islam ketiga, berperan dalam memahami kaidah-kaidah hukum fundamental dalam Al-Qur'an dan Sunnah Nabi, serta merumuskannya untuk kasus-kasus tertentu atau hal-hal yang belum diatur jelas dalam kedua sumber utama tersebut. Dalam bahasa Arab, (al-'aql) berarti pikiran, intelek, dan juga ikatan yang menghubungkan manusia dengan Tuhan. Al-Qur'an sendiri sering menggunakan kata (ya'qilun) mereka yang berakal dan (ta'qilun) kamu yang berakal, serta menyebut orang yang tidak dapat berpikir sebagai (la ya'qilun). Akal adalah kunci untuk memahami agama, ajaran, dan hukum Islam. Nabi Muhammad SAW bahkan menyatakan bahwa 'agama adalah akal, tidak ada agama bagi orang yang tidak berakal'. Akal memiliki kedudukan tinggi dalam Islam sebagai wadah akidah, syariah, dan akhlak."
+				text: "Akal pikiran manusia yang memenuhi syarat merupakan sumber hukum Islam ketiga, berperan dalam memahami kaidah-kaidah hukum fundamental dalam Al-Qur'an dan Sunnah Nabi, serta merumuskannya untuk kasus-kasus tertentu atau hal-hal yang belum diatur jelas dalam kedua sumber utama tersebut. Dalam bahasa Arab, (al-'aql) berarti pikiran, intelek, dan juga ikatan yang menghubungkan manusia dengan Tuhan. Al-Qur'an sendiri sering menggunakan kata (ya'qilun) mereka yang berakal dan (ta'qilun) kamu yang berakal, serta menyebut orang yang tidak dapat berpikir sebagai (la ya'qilun). Akal adalah kunci untuk memahami agama, ajaran, dan hukum Islam. Nabi Muhammad SAW bahkan menyatakan bahwa 'agama adalah akal, tidak ada agama bagi orang yang tidak berakal'. Akal memiliki kedudukan tinggi dalam Islam sebagai wadah akidah, syariah, dan akhlak.",
 			},
 			{
 				type: "paragraph",
@@ -1667,7 +2034,7 @@ export const allBlogPosts = [
 			},
 			{
 				type: "paragraph",
-				text: "Ijtihad secara harfiah berarti bersungguh-sungguh atau mencurahkan segala daya. Dalam konteks hukum, ijtihad adalah usaha sungguh-sungguh ahli hukum yang memenuhi syarat untuk merumuskan garis hukum yang belum jelas atau tidak ada ketentuannya dalam Al-Qur'an dan Sunnah Rasulullah. Orang yang melakukan ijtihad disebut mujtahid. Ijtihad adalah dasar dan sarana pengembangan hukum Islam, serta merupakan kewajiban bagi umat Islam yang memenuhi syarat. Nabi Muhammad SAW menyatakan bahwa mujtahid yang benar akan mendapatkan dua pahala, dan jika salah, tetap mendapat satu pahala. Objek ijtihad adalah nas atau teks yang bersifat zhanni (tidak mutlak jelas) untuk mendapatkan arti yang paling tepat dalam konteks tertentu. Sementara ayat dan hadis hukum yang bersifat qath'i (mutlak jelas) bukanlah objek ijtihad."
+				text: "Ijtihad secara harfiah berarti bersungguh-sungguh atau mencurahkan segala daya. Dalam konteks hukum, ijtihad adalah usaha sungguh-sungguh ahli hukum yang memenuhi syarat untuk merumuskan garis hukum yang belum jelas atau tidak ada ketentuannya dalam Al-Qur'an dan Sunnah Rasulullah. Orang yang melakukan ijtihad disebut mujtahid. Ijtihad adalah dasar dan sarana pengembangan hukum Islam, serta merupakan kewajiban bagi umat Islam yang memenuhi syarat. Nabi Muhammad SAW menyatakan bahwa mujtahid yang benar akan mendapatkan dua pahala, dan jika salah, tetap mendapat satu pahala. Objek ijtihad adalah nas atau teks yang bersifat zhanni (tidak mutlak jelas) untuk mendapatkan arti yang paling tepat dalam konteks tertentu. Sementara ayat dan hadis hukum yang bersifat qath'i (mutlak jelas) bukanlah objek ijtihad.",
 			},
 			{
 				type: "heading",
@@ -1681,11 +2048,11 @@ export const allBlogPosts = [
 			{
 				type: "heading",
 				level: 4,
-				text: "1.Ijmak"
+				text: "1.Ijmak",
 			},
 			{
 				type: "paragraph",
-				text: "Kesepakatan atau persetujuan para ahli mengenai suatu masalah pada suatu tempat dan waktu. Namun, saat ini sulit untuk mencapai ijmak yang hakiki karena luasnya wilayah umat Islam dan beragamnya latar belakang. Di Indonesia, contoh ijmak adalah mengenai kebolehan beristri lebih dari satu dengan syarat tertentu, seperti yang diatur dalam UU Perkawinan."
+				text: "Kesepakatan atau persetujuan para ahli mengenai suatu masalah pada suatu tempat dan waktu. Namun, saat ini sulit untuk mencapai ijmak yang hakiki karena luasnya wilayah umat Islam dan beragamnya latar belakang. Di Indonesia, contoh ijmak adalah mengenai kebolehan beristri lebih dari satu dengan syarat tertentu, seperti yang diatur dalam UU Perkawinan.",
 			},
 			{
 				type: "heading",
@@ -1694,12 +2061,13 @@ export const allBlogPosts = [
 			},
 			{
 				type: "paragraph",
-				text: "Menyamakan hukum suatu hal yang tidak ada ketentuannya dalam Al-Qur'an dan As-Sunnah dengan hal lain yang hukumnya sudah ada, karena persamaan illat (penyebab atau alasan). Contohnya adalah pelarangan semua minuman yang memabukkan, disamakan dengan khamar yang dilarang dalam Al-Qur'an surat Al-Maidah ayat 90."
+				text: "Menyamakan hukum suatu hal yang tidak ada ketentuannya dalam Al-Qur'an dan As-Sunnah dengan hal lain yang hukumnya sudah ada, karena persamaan illat (penyebab atau alasan). Contohnya adalah pelarangan semua minuman yang memabukkan, disamakan dengan khamar yang dilarang dalam Al-Qur'an surat Al-Maidah ayat 90.",
 			},
 			{
 				type: "arabic",
 				text: "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْٓا اِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالْاَنْصَابُ وَالْاَزْلَامُ رِجْسٌ مِّنْ عَمَلِ الشَّيْطٰنِ فَاجْتَنِبُوْهُ لَعَلَّكُمْ تُفْلِحُوْنَ",
-				translation: "Wahai orang-orang yang beriman, sesungguhnya minuman keras, berjudi, (berkurban untuk) berhala, dan mengundi nasib dengan anak panah adalah perbuatan keji (dan) termasuk perbuatan setan. Maka, jauhilah (perbuatan-perbuatan) itu agar kamu beruntung."
+				translation:
+					"Wahai orang-orang yang beriman, sesungguhnya minuman keras, berjudi, (berkurban untuk) berhala, dan mengundi nasib dengan anak panah adalah perbuatan keji (dan) termasuk perbuatan setan. Maka, jauhilah (perbuatan-perbuatan) itu agar kamu beruntung.",
 			},
 			{
 				type: "heading",
@@ -1708,7 +2076,7 @@ export const allBlogPosts = [
 			},
 			{
 				type: "paragraph",
-				text: "Menarik kesimpulan dari dua hal yang berbeda, seperti adat-istiadat yang tidak bertentangan dengan hukum Islam (contohnya gono-gini) dan hukum agama yang diwahyukan sebelum Islam tetapi tidak dihapuskan oleh syariat Islam."
+				text: "Menarik kesimpulan dari dua hal yang berbeda, seperti adat-istiadat yang tidak bertentangan dengan hukum Islam (contohnya gono-gini) dan hukum agama yang diwahyukan sebelum Islam tetapi tidak dihapuskan oleh syariat Islam.",
 			},
 			{
 				type: "heading",
@@ -1717,25 +2085,25 @@ export const allBlogPosts = [
 			},
 			{
 				type: "paragraph",
-				text: "Menentukan hukum berdasarkan pertimbangan kemaslahatan masyarakat atau kepentingan umum, untuk hal yang tidak ada ketentuannya dalam Al-Qur'an dan hadis. Contohnya adalah pemungutan pajak penghasilan untuk kepentingan umum."
+				text: "Menentukan hukum berdasarkan pertimbangan kemaslahatan masyarakat atau kepentingan umum, untuk hal yang tidak ada ketentuannya dalam Al-Qur'an dan hadis. Contohnya adalah pemungutan pajak penghasilan untuk kepentingan umum.",
 			},
 			{
 				type: "heading",
 				level: 4,
-				text: "5. Istihsan"
+				text: "5. Istihsan",
 			},
 			{
 				type: "paragraph",
-				text: "Menentukan hukum sesuatu hal menurut keadaan yang terjadi sebelumnya, sampai ada dalil yang mengubahnya. Ini berarti melangsungkan berlakunya hukum yang telah ada selama belum ada ketentuan lain yang membatalkannya."
+				text: "Menentukan hukum sesuatu hal menurut keadaan yang terjadi sebelumnya, sampai ada dalil yang mengubahnya. Ini berarti melangsungkan berlakunya hukum yang telah ada selama belum ada ketentuan lain yang membatalkannya.",
 			},
 			{
 				type: "heading",
 				level: 4,
-				text: "6. Istishab"
+				text: "6. Istishab",
 			},
 			{
 				type: "paragraph",
-				text: "Menentukan hukum suatu hal berdasarkan keadaan sebelumnya hingga ada dalil yang mengubahnya. Contohnya adalah status seorang istri yang ditinggal suami tanpa perceraian, statusnya tetap istri selama tidak ada bukti perceraian. Contoh lain adalah perjanjian utang-piutang yang dianggap masih berlaku selama belum ada bukti pembayaran."
+				text: "Menentukan hukum suatu hal berdasarkan keadaan sebelumnya hingga ada dalil yang mengubahnya. Contohnya adalah status seorang istri yang ditinggal suami tanpa perceraian, statusnya tetap istri selama tidak ada bukti perceraian. Contoh lain adalah perjanjian utang-piutang yang dianggap masih berlaku selama belum ada bukti pembayaran.",
 			},
 			{
 				type: "heading",
@@ -1744,20 +2112,20 @@ export const allBlogPosts = [
 			},
 			{
 				type: "paragraph",
-				text: "Adat-istiadat yang tidak bertentangan dengan hukum Islam dapat terus berlaku bagi masyarakat yang bersangkutan, terutama dalam bidang muamalah. Selama adat tersebut tidak bertentangan dengan Al-Qur'an dan As-Sunnah, serta didasarkan pada persetujuan kedua belah pihak dan tidak melanggar asas hukum perdata Islam, maka adat tersebut dapat dikukuhkan menjadi hukum, sesuai kaidah 'adat dapat dikukuhkan menjadi hukum' (al-'adatu muhakkamah)."
+				text: "Adat-istiadat yang tidak bertentangan dengan hukum Islam dapat terus berlaku bagi masyarakat yang bersangkutan, terutama dalam bidang muamalah. Selama adat tersebut tidak bertentangan dengan Al-Qur'an dan As-Sunnah, serta didasarkan pada persetujuan kedua belah pihak dan tidak melanggar asas hukum perdata Islam, maka adat tersebut dapat dikukuhkan menjadi hukum, sesuai kaidah 'adat dapat dikukuhkan menjadi hukum' (al-'adatu muhakkamah).",
 			},
 			{
 				type: "heading",
 				level: 2,
-				text: "Hukum Islam dan Perkembangan Masyarakat"
+				text: "Hukum Islam dan Perkembangan Masyarakat",
 			},
 			{
 				type: "paragraph",
-				text: "Dengan pengembangan ijtihad, tidak ada masalah yang timbul dalam masyarakat yang tidak dapat dipecahkan dan ditentukan hukumnya, termasuk masalah-masalah baru akibat perkembangan ilmu dan teknologi seperti bayi tabung atau pencangkokan kornea mata. Hukum Islam mencakup semua ciptaan Allah, ada yang jelas (tersurat), ada yang tersirat, dan ada pula yang tersembunyi. Hukum yang tersirat dan tersembunyi inilah yang harus digali melalui penalaran manusia yang memenuhi syarat."
+				text: "Dengan pengembangan ijtihad, tidak ada masalah yang timbul dalam masyarakat yang tidak dapat dipecahkan dan ditentukan hukumnya, termasuk masalah-masalah baru akibat perkembangan ilmu dan teknologi seperti bayi tabung atau pencangkokan kornea mata. Hukum Islam mencakup semua ciptaan Allah, ada yang jelas (tersurat), ada yang tersirat, dan ada pula yang tersembunyi. Hukum yang tersirat dan tersembunyi inilah yang harus digali melalui penalaran manusia yang memenuhi syarat.",
 			},
 			{
 				type: "paragraph",
-				text: "Ijtihad berperan tanpa batas dalam mengikuti dan mengarahkan perkembangan masyarakat, menentukan hukum, dan mengatasi berbagai masalah akibat perkembangan zaman, ilmu, dan teknologi. Tujuan utama Allah menetapkan hukum-Nya adalah untuk keselamatan dan kemaslahatan hidup manusia, baik berupa manfaat maupun menghindari kerugian. Hakikat tujuan hukum ilahi ini harus menjadi pedoman bagi para mujtahid dalam berijtihad. Dengan berpedoman pada kemaslahatan manusia, mujtahid dapat mengikuti perkembangan masyarakat, menemukan hukum untuk masalah baru, dan merumuskan kembali garis-garis hukum yang bersifat zhanni."
+				text: "Ijtihad berperan tanpa batas dalam mengikuti dan mengarahkan perkembangan masyarakat, menentukan hukum, dan mengatasi berbagai masalah akibat perkembangan zaman, ilmu, dan teknologi. Tujuan utama Allah menetapkan hukum-Nya adalah untuk keselamatan dan kemaslahatan hidup manusia, baik berupa manfaat maupun menghindari kerugian. Hakikat tujuan hukum ilahi ini harus menjadi pedoman bagi para mujtahid dalam berijtihad. Dengan berpedoman pada kemaslahatan manusia, mujtahid dapat mengikuti perkembangan masyarakat, menemukan hukum untuk masalah baru, dan merumuskan kembali garis-garis hukum yang bersifat zhanni.",
 			},
 			{
 				type: "heading",
@@ -1771,8 +2139,8 @@ export const allBlogPosts = [
 					"Ruang lingkup permasalahan yang boleh dijadikan lapangan ijtihad adalah mengenai hukum-hukum yang di dalamnya tidak ada nash yang qath'i.",
 					"Dasar penetapan ijtihad sebagai sumber hukum Islam adalah al-Qur’an dan al-Sunnah. Hal itu karena jika dalam berijtihad dan di dalamnya terjadi perselisihan diperintahkan kembali merujuk kepada al-Qur’an dan al-Sunnah.",
 					"Seorang faqih yang akan melakukan ijtihad harus memenuhi kriteria tertentu untuk dapat mencapai derajat mujtahid. Secara umum adalah: memahami ilmu al-Qur’an dan al-Sunnah serta nash-nash hukum di dalamnya, mengetahui metode penemuan hukum, menguasai bahasa Arab, dan beberapa syarat lainnya.",
-				]
-			}
+				],
+			},
 		],
 	},
 	{
@@ -1791,20 +2159,20 @@ export const allBlogPosts = [
 			},
 			{
 				type: "paragraph",
-				text: "Hak Asasi Manusia (HAM) secara fundamental adalah hak dasar yang melekat pada setiap individu sejak lahir, merupakan anugerah dari Tuhan Yang Maha Esa. Konsep ini tersusun dari tiga kata: 'hak' yang berarti kepemilikan atau kebenaran, 'asasi' yang merujuk pada sifat dasar atau pokok, serta 'manusia' yang mengacu pada orang atau makhluk berbudaya. Dengan demikian, HAM adalah hak fundamental yang menjadi dasar bagi setiap orang untuk hidup dan mendapatkan perlindungan yang layak, tanpa diskriminasi."
+				text: "Hak Asasi Manusia (HAM) secara fundamental adalah hak dasar yang melekat pada setiap individu sejak lahir, merupakan anugerah dari Tuhan Yang Maha Esa. Konsep ini tersusun dari tiga kata: 'hak' yang berarti kepemilikan atau kebenaran, 'asasi' yang merujuk pada sifat dasar atau pokok, serta 'manusia' yang mengacu pada orang atau makhluk berbudaya. Dengan demikian, HAM adalah hak fundamental yang menjadi dasar bagi setiap orang untuk hidup dan mendapatkan perlindungan yang layak, tanpa diskriminasi.",
 			},
 			{
 				type: "paragraph",
-				text: "Secara terminologi, HAM dipandang sebagai seperangkat hak esensial yang melekat pada eksistensi manusia. Hak-hak ini wajib dihormati, dijunjung tinggi, dan dilindungi oleh negara, hukum, pemerintah, serta seluruh masyarakat demi menjamin kehormatan dan martabat manusia. HAM bersifat universal dan hakiki, artinya berlaku untuk semua orang, tidak dapat dicabut atau dihilangkan, serta tidak dapat dirampas oleh siapapun. Ini mencakup hak untuk hidup dan dilindungi tanpa memandang ras, agama, jenis kelamin, atau status sosial lainnya."
+				text: "Secara terminologi, HAM dipandang sebagai seperangkat hak esensial yang melekat pada eksistensi manusia. Hak-hak ini wajib dihormati, dijunjung tinggi, dan dilindungi oleh negara, hukum, pemerintah, serta seluruh masyarakat demi menjamin kehormatan dan martabat manusia. HAM bersifat universal dan hakiki, artinya berlaku untuk semua orang, tidak dapat dicabut atau dihilangkan, serta tidak dapat dirampas oleh siapapun. Ini mencakup hak untuk hidup dan dilindungi tanpa memandang ras, agama, jenis kelamin, atau status sosial lainnya.",
 			},
 			{
 				type: "paragraph",
-				text: "Berbagai definisi dari para ahli juga memperkuat pemahaman ini. Mahfudz M.D. mendefinisikan HAM sebagai hak yang melekat pada martabat setiap manusia sejak lahir dan bersifat kodrati. Sementara itu, A.J. Milne menyatakan bahwa HAM adalah hak yang dimiliki oleh semua umat manusia di dunia, di segala masa, dan di segala tempat, sebagai inti dari keberadaan manusia. Konsensus ini menegaskan bahwa HAM merupakan pilar utama dalam menjamin kehormatan dan keadilan bagi setiap individu di muka bumi."
+				text: "Berbagai definisi dari para ahli juga memperkuat pemahaman ini. Mahfudz M.D. mendefinisikan HAM sebagai hak yang melekat pada martabat setiap manusia sejak lahir dan bersifat kodrati. Sementara itu, A.J. Milne menyatakan bahwa HAM adalah hak yang dimiliki oleh semua umat manusia di dunia, di segala masa, dan di segala tempat, sebagai inti dari keberadaan manusia. Konsensus ini menegaskan bahwa HAM merupakan pilar utama dalam menjamin kehormatan dan keadilan bagi setiap individu di muka bumi.",
 			},
 			{
 				type: "heading",
 				level: 2,
-				text: "Sejarah HAM"
+				text: "Sejarah HAM",
 			},
 			{
 				type: "paragraph",
@@ -1816,12 +2184,12 @@ export const allBlogPosts = [
 			},
 			{
 				type: "paragraph",
-				text: "Implementasi HAM di tingkat global, khususnya di negara-negara berkembang, seringkali dihadapkan pada tantangan yang kompleks. Adanya pandangan yang mengutamakan kepentingan nasional atau budaya lokal kadang-kadang dapat menjadi hambatan. Namun, penting untuk diingat bahwa HAM adalah nilai universal yang tidak bertentangan dengan identitas budaya, melainkan memperkaya dan melengkapi pembangunan suatu bangsa. Di Indonesia dan negara-negara ASEAN, upaya untuk mengintegrasikan nilai-nilai HAM dalam kebijakan publik terus dilakukan, sebagai bagian integral dari pembangunan berkelanjutan yang berpusat pada martabat manusia."
+				text: "Implementasi HAM di tingkat global, khususnya di negara-negara berkembang, seringkali dihadapkan pada tantangan yang kompleks. Adanya pandangan yang mengutamakan kepentingan nasional atau budaya lokal kadang-kadang dapat menjadi hambatan. Namun, penting untuk diingat bahwa HAM adalah nilai universal yang tidak bertentangan dengan identitas budaya, melainkan memperkaya dan melengkapi pembangunan suatu bangsa. Di Indonesia dan negara-negara ASEAN, upaya untuk mengintegrasikan nilai-nilai HAM dalam kebijakan publik terus dilakukan, sebagai bagian integral dari pembangunan berkelanjutan yang berpusat pada martabat manusia.",
 			},
 			{
 				type: "heading",
 				level: 2,
-				text: "HAM Dalam Islam"
+				text: "HAM Dalam Islam",
 			},
 			{
 				type: "paragraph",
@@ -1830,24 +2198,26 @@ export const allBlogPosts = [
 			{
 				type: "arabic",
 				text: "وَلَقَدْ كَرَّمْنَا بَنِيْٓ اٰدَمَ وَحَمَلْنٰهُمْ فِى الْبَرِّ وَالْبَحْرِ وَرَزَقْنٰهُمْ مِّنَ الطَّيِّبٰتِ وَفَضَّلْنٰهُمْ عَلٰى كَثِيْرٍ مِّمَّنْ خَلَقْنَا تَفْضِيْلًاࣖ",
-				translation: "Sungguh, Kami telah memuliakan anak cucu Adam dan Kami angkut mereka di darat dan di laut. Kami anugerahkan pula kepada mereka rezeki dari yang baik-baik dan Kami lebihkan mereka di atas banyak makhluk yang Kami ciptakan dengan kelebihan yang sempurna."
+				translation:
+					"Sungguh, Kami telah memuliakan anak cucu Adam dan Kami angkut mereka di darat dan di laut. Kami anugerahkan pula kepada mereka rezeki dari yang baik-baik dan Kami lebihkan mereka di atas banyak makhluk yang Kami ciptakan dengan kelebihan yang sempurna.",
 			},
 			{
 				type: "paragraph",
-				text: "Hal ini mengandung pengertian bahwa manusia secara fitrah (natural) memiliki kemulian (karamah) dan oleh karenanya kemulian ini harus dilindungi."
+				text: "Hal ini mengandung pengertian bahwa manusia secara fitrah (natural) memiliki kemulian (karamah) dan oleh karenanya kemulian ini harus dilindungi.",
 			},
 			{
 				type: "paragraph",
-				text: "Kebebasan, termasuk kebebasan beragama, merupakan nilai penting yang diakui Islam. Q.S. Al-Baqarah: 256 menegaskan bahwa tidak ada paksaan dalam beragama. Namun, dalam fiqh klasik terdapat ketentuan hukuman mati bagi murtad, yang bertentangan dengan prinsip HAM modern. Karena itu, beberapa ulama kontemporer mengusulkan reinterpretasi terhadap hadis-hadis yang mendasarinya"
+				text: "Kebebasan, termasuk kebebasan beragama, merupakan nilai penting yang diakui Islam. Q.S. Al-Baqarah: 256 menegaskan bahwa tidak ada paksaan dalam beragama. Namun, dalam fiqh klasik terdapat ketentuan hukuman mati bagi murtad, yang bertentangan dengan prinsip HAM modern. Karena itu, beberapa ulama kontemporer mengusulkan reinterpretasi terhadap hadis-hadis yang mendasarinya",
 			},
 			{
 				type: "arabic",
 				text: "لَآ اِكْرَاهَ فِى الدِّيْنِۗ قَدْ تَّبَيَّنَ الرُّشْدُ مِنَ الْغَيِّۚ فَمَنْ يَّكْفُرْ بِالطَّاغُوْتِ وَيُؤْمِنْۢ بِاللّٰهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقٰى لَا انْفِصَامَ لَهَاۗ وَاللّٰهُ سَمِيْعٌ عَلِيْمٌ ",
-				translation: "Tidak ada paksaan dalam (menganut) agama (Islam). Sungguh, telah jelas jalan yang benar dari jalan yang sesat. Siapa yang ingkar kepada tagut dan beriman kepada Allah sungguh telah berpegang teguh pada tali yang sangat kuat yang tidak akan putus. Allah Maha Mendengar lagi Maha Mengetahui."
+				translation:
+					"Tidak ada paksaan dalam (menganut) agama (Islam). Sungguh, telah jelas jalan yang benar dari jalan yang sesat. Siapa yang ingkar kepada tagut dan beriman kepada Allah sungguh telah berpegang teguh pada tali yang sangat kuat yang tidak akan putus. Allah Maha Mendengar lagi Maha Mengetahui.",
 			},
 			{
 				type: "paragraph",
-				text: "Dalam hal status non-Muslim, fiqh klasik membedakan antara dzimmî, harbî, dan musta'min. Meskipun mereka dilindungi dan memiliki kebebasan beragama, hak-hak politik mereka dibatasi, seperti larangan menjabat sebagai kepala negara. Hal ini menunjukkan perlunya penyesuaian terhadap prinsip kesetaraan dalam HAM modern, dengan tetap mempertimbangkan konteks syariat."
+				text: "Dalam hal status non-Muslim, fiqh klasik membedakan antara dzimmî, harbî, dan musta'min. Meskipun mereka dilindungi dan memiliki kebebasan beragama, hak-hak politik mereka dibatasi, seperti larangan menjabat sebagai kepala negara. Hal ini menunjukkan perlunya penyesuaian terhadap prinsip kesetaraan dalam HAM modern, dengan tetap mempertimbangkan konteks syariat.",
 			},
 			{
 				type: "heading",
@@ -1856,79 +2226,82 @@ export const allBlogPosts = [
 			},
 			{
 				type: "paragraph",
-				text: "Hak untuk hidup adalah hak dasar yang melekat pada setiap manusia. Tidak ada individu atau institusi mana pun yang berhak mencabut nyawa seseorang tanpa alasan yang sah. Dalam pandangan Islam, hak hidup merupakan anugerah Allah yang harus dijaga dan dihormati. Salah satu ayat yang menjelaskan prinsip dasar kehidupan terdapat dalam Surah al-A'rāf ayat 24:"
+				text: "Hak untuk hidup adalah hak dasar yang melekat pada setiap manusia. Tidak ada individu atau institusi mana pun yang berhak mencabut nyawa seseorang tanpa alasan yang sah. Dalam pandangan Islam, hak hidup merupakan anugerah Allah yang harus dijaga dan dihormati. Salah satu ayat yang menjelaskan prinsip dasar kehidupan terdapat dalam Surah al-A'rāf ayat 24:",
 			},
 			{
 				type: "arabic",
 				text: "قَالَ اهْبِطُوْا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّۗ وَلَكُمْ فِى الْاَرْضِ مُسْتَقَرٌّ وَّمَتَاعٌ اِلٰى حِيْنٍ",
-				translation: "Dia (Allah) berfirman, 'Turunlah kamu! Sebagian kamu menjadi musuh bagi sebagian yang lain. Di bumi itu kamu akan menetap dan menikmati kehidupan sampai waktu yang ditentukan.'"
+				translation:
+					"Dia (Allah) berfirman, 'Turunlah kamu! Sebagian kamu menjadi musuh bagi sebagian yang lain. Di bumi itu kamu akan menetap dan menikmati kehidupan sampai waktu yang ditentukan.'",
 			},
 			{
 				type: "paragraph",
-				text: "Dalam ayat ini, terdapat dua kata kunci:"
+				text: "Dalam ayat ini, terdapat dua kata kunci:",
 			},
 			{
 				type: "list",
 				items: [
 					"Mustaqarr: Tempat tinggal atau tempat menetap, yang diartikan sebagai ruang untuk hidup dan berkembang.",
 					"Matā': Kesenangan atau sarana hidup, mencakup pemanfaatan sumber daya alam untuk memenuhi kebutuhan manusia.",
-				]
+				],
 			},
 			{
 				type: "paragraph",
-				text: "Dari penafsiran para ulama seperti Syekh al-Nāwiy dan Wahbah alZuhailiy, kedua istilah ini menunjukkan bahwa Allah menyediakan bumi sebagai tempat hidup yang layak dan mendukung keberlangsungan hidup manusia."
+				text: "Dari penafsiran para ulama seperti Syekh al-Nāwiy dan Wahbah alZuhailiy, kedua istilah ini menunjukkan bahwa Allah menyediakan bumi sebagai tempat hidup yang layak dan mendukung keberlangsungan hidup manusia.",
 			},
 			{
 				type: "paragraph",
-				text: "Islam memandang nyawa manusia sebagai sesuatu yang sangat berharga. Hal ini ditegaskan dalam Surah al-Māidah ayat 32:"
+				text: "Islam memandang nyawa manusia sebagai sesuatu yang sangat berharga. Hal ini ditegaskan dalam Surah al-Māidah ayat 32:",
 			},
 			{
 				type: "arabic",
 				text: "مِنْ اَجْلِ ذٰلِكَ كَتَبْنَا عَلٰى بَنِيْٓ اِسْرَاۤءِيْلَ اَنَّهٗ مَنْ قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ اَوْ فَسَادٍ فِي الْاَرْضِ فَكَاَنَّمَا قَتَلَ النَّاسَ جَمِيْعًاۗ وَمَنْ اَحْيَاَهَا فَكَاَنَّمَآ اَحْيَا النَّاسَ جَمِيْعًاۗ",
-				translation: "Barangsiapa membunuh seseorang tanpa alasan yang dibenarkan, maka seolah-olah dia telah membunuh seluruh manusia. Dan barangsiapa memelihara kehidupan seorang manusia, maka seolah-olah dia telah memelihara kehidupan seluruh umat manusia."
+				translation:
+					"Barangsiapa membunuh seseorang tanpa alasan yang dibenarkan, maka seolah-olah dia telah membunuh seluruh manusia. Dan barangsiapa memelihara kehidupan seorang manusia, maka seolah-olah dia telah memelihara kehidupan seluruh umat manusia.",
 			},
 			{
 				type: "paragraph",
-				text: "Ayat ini mengajarkan bahwa setiap nyawa memiliki nilai yang tak terhingga, dan menjaga kehidupan orang lain merupakan tindakan mulia yang setara dengan menjaga seluruh umat manusia."
+				text: "Ayat ini mengajarkan bahwa setiap nyawa memiliki nilai yang tak terhingga, dan menjaga kehidupan orang lain merupakan tindakan mulia yang setara dengan menjaga seluruh umat manusia.",
 			},
 			{
 				type: "paragraph",
-				text: "Selain aspek fisik, hak hidup juga mencakup aspek spiritual. Dalam pemahaman Islam, manusia secara naluriah memiliki kebutuhan untuk terhubung dengan kekuatan yang lebih tinggi, yaitu Tuhan. Konsep ini dikenal dalam antropologi sebagai emosi keagamaan (religious emotion). Syekh al-Nāwiy mengaitkan kata mustaqarr dengan rentang waktu antara kelahiran dan kematian, yang menunjukkan bahwa selama manusia hidup, ia memerlukan pegangan spiritual. Karen Armstrong, dalam bukunya A History of God, juga menekankan pentingnya agama sebagai sarana dialog manusia dengan Tuhan."
+				text: "Selain aspek fisik, hak hidup juga mencakup aspek spiritual. Dalam pemahaman Islam, manusia secara naluriah memiliki kebutuhan untuk terhubung dengan kekuatan yang lebih tinggi, yaitu Tuhan. Konsep ini dikenal dalam antropologi sebagai emosi keagamaan (religious emotion). Syekh al-Nāwiy mengaitkan kata mustaqarr dengan rentang waktu antara kelahiran dan kematian, yang menunjukkan bahwa selama manusia hidup, ia memerlukan pegangan spiritual. Karen Armstrong, dalam bukunya A History of God, juga menekankan pentingnya agama sebagai sarana dialog manusia dengan Tuhan.",
 			},
 			{
 				type: "heading",
 				level: 2,
-				text: "Hak Memperoleh Kemerdekaan"
+				text: "Hak Memperoleh Kemerdekaan",
 			},
 			{
 				type: "paragraph",
-				text: "Hak kemerdekaan manusia dalam Islam berakar pada prinsip al-karāmah al-insāniyah, yaitu kemuliaan yang melekat pada setiap manusia tanpa memandang status sosial, ras, atau latar belakang lainnya. Dalil utamanya terdapat dalam Q.S. al-Isrā' (17): 70:"
+				text: "Hak kemerdekaan manusia dalam Islam berakar pada prinsip al-karāmah al-insāniyah, yaitu kemuliaan yang melekat pada setiap manusia tanpa memandang status sosial, ras, atau latar belakang lainnya. Dalil utamanya terdapat dalam Q.S. al-Isrā' (17): 70:",
 			},
 			{
 				type: "arabic",
 				text: "وَلَقَدْ كَرَّمْنَا بَنِيْٓ اٰدَمَ وَحَمَلْنٰهُمْ فِى الْبَرِّ وَالْبَحْرِ وَرَزَقْنٰهُمْ مِّنَ الطَّيِّبٰتِ وَفَضَّلْنٰهُمْ عَلٰى كَثِيْرٍ مِّمَّنْ خَلَقْنَا تَفْضِيْلًا",
-				translation: "Dan sesungguhnya telah Kami muliakan anak-anak Adam, Kami angkut mereka di daratan dan di lautan, Kami beri mereka rezeki dari yang baik-baik dan Kami lebihkan mereka dengan kelebihan yang sempurna atas kebanyakan makhluk yang telah Kami ciptakan."
+				translation:
+					"Dan sesungguhnya telah Kami muliakan anak-anak Adam, Kami angkut mereka di daratan dan di lautan, Kami beri mereka rezeki dari yang baik-baik dan Kami lebihkan mereka dengan kelebihan yang sempurna atas kebanyakan makhluk yang telah Kami ciptakan.",
 			},
 			{
 				type: "paragraph",
-				text: "Kemuliaan insani adalah hal yang sangat primordial dan sakral dalam diri manusia, karena itu, ia tidak boleh dinodai, dilecehkan apalagi dihinadinakan. Dalam dunia fikih, terdapat postulat tentang hukum muktaram atau hukum kemuliaan, bahwa setiap makhluk diakui eksistensinya. Jika seorang atau sesuatu makhluk yang terancam kelangsungan hidupnya lalu tidak ada orang lain menolongnya, maka ia melanggar hukum muktaram. Bahkan, dalam kondisi demikian wajib menunda shalat dari pada mengabaikan orang atau sesuatu tadi."
+				text: "Kemuliaan insani adalah hal yang sangat primordial dan sakral dalam diri manusia, karena itu, ia tidak boleh dinodai, dilecehkan apalagi dihinadinakan. Dalam dunia fikih, terdapat postulat tentang hukum muktaram atau hukum kemuliaan, bahwa setiap makhluk diakui eksistensinya. Jika seorang atau sesuatu makhluk yang terancam kelangsungan hidupnya lalu tidak ada orang lain menolongnya, maka ia melanggar hukum muktaram. Bahkan, dalam kondisi demikian wajib menunda shalat dari pada mengabaikan orang atau sesuatu tadi.",
 			},
 			{
 				type: "paragraph",
-				text: "Konsekuensi dari kehormatan insani, sebagaimana dalam ayat 70 dari surah al-Isrā' , manusia diberikan oleh Allah hak mencari penghidupan di darat maupun di lautan. Tentu saja, dalam mencari penghidupan harus mempertimbangkan prinsip “perikemakhlukan” , bahwa tidak seorangpun berhak merusak makhluk lain untuk kepentingannya. Berkenaan dengan itu, maka praktik perbudakan harus dilenyapkan dari permukaan bumi. Meskipun Al-quran tidak tegas menghapuskan perbudakan, tetapi banyak nash yang lain yang menunjukkan bahwa praktek perbudakan merupakan sesuatu yang dibenci oleh Allah dan naluri manusia."
+				text: "Konsekuensi dari kehormatan insani, sebagaimana dalam ayat 70 dari surah al-Isrā' , manusia diberikan oleh Allah hak mencari penghidupan di darat maupun di lautan. Tentu saja, dalam mencari penghidupan harus mempertimbangkan prinsip “perikemakhlukan” , bahwa tidak seorangpun berhak merusak makhluk lain untuk kepentingannya. Berkenaan dengan itu, maka praktik perbudakan harus dilenyapkan dari permukaan bumi. Meskipun Al-quran tidak tegas menghapuskan perbudakan, tetapi banyak nash yang lain yang menunjukkan bahwa praktek perbudakan merupakan sesuatu yang dibenci oleh Allah dan naluri manusia.",
 			},
 			{
 				type: "heading",
 				level: 2,
-				text: "HAM yang Bersifat Sosial"
+				text: "HAM yang Bersifat Sosial",
 			},
 			{
 				type: "paragraph",
-				text: "Salah satu persoalan HAM yang berimplikasi sosial adalah persamaan derajat kemanusiaan. Tema ini juga dapat ditarik ke dalam prinsip al-karāmah alinsāniyah sebagaimana pada Q.S. al-Isrā’ (17): 70. Kata karramnā yang diungkapkan dalam bentuk muta-’addiy artinya “Kami menjadikan anak cucu Adam terhormat. Kehormatan biasanya berhubungan dengan moralitas dan kharisma atau kewibawaan, bukan hubungannya dengan harta."
+				text: "Salah satu persoalan HAM yang berimplikasi sosial adalah persamaan derajat kemanusiaan. Tema ini juga dapat ditarik ke dalam prinsip al-karāmah alinsāniyah sebagaimana pada Q.S. al-Isrā’ (17): 70. Kata karramnā yang diungkapkan dalam bentuk muta-’addiy artinya “Kami menjadikan anak cucu Adam terhormat. Kehormatan biasanya berhubungan dengan moralitas dan kharisma atau kewibawaan, bukan hubungannya dengan harta.",
 			},
 			{
 				type: "paragraph",
-				text: "Hanya saja, bagian akhir dari ayat tersebut perlu mendapat penjelasan yang proporsional, sebab secara tekstual seolah bertentangan dengan prinsip persamaan derajat. Al-ZuHailiy menjelaskan bahwa al-tafÃīl hanya pada aspek fisik, sementara al-Qurtubiy memasukkan aspek fisik dan non-fisik sebagai kelebihan manusia dibanding makhluk lain. Dari aspek fisik, al-Qurtubiy memberi contoh dengan mengutip pandangan al-Tabariy bahwa kelebihan manusia karena ia makan dengan tangannya, sementara makhluk lain melalui mulutnya. Dari aspek non-fisik, ia menegaskan bahwa letak kelebihan manusia adalah akalnya sebab dengan akal manusia diberi tanggung jawab (taklīf), dapat mengetahui Tuhannya dan membenarkan misi rasul-Nya. Jika dikaitkan dengan hak persamaan derajat, kelihatannya lebih tepat jika kehormatan manusia diletakkan di atas nilai moralitas, tanpa mengaitkannya dengan kelebihan material. Nilai moralitas yang dimaksud adalah akhlak, perilaku dan keharmonisan."
+				text: "Hanya saja, bagian akhir dari ayat tersebut perlu mendapat penjelasan yang proporsional, sebab secara tekstual seolah bertentangan dengan prinsip persamaan derajat. Al-ZuHailiy menjelaskan bahwa al-tafÃīl hanya pada aspek fisik, sementara al-Qurtubiy memasukkan aspek fisik dan non-fisik sebagai kelebihan manusia dibanding makhluk lain. Dari aspek fisik, al-Qurtubiy memberi contoh dengan mengutip pandangan al-Tabariy bahwa kelebihan manusia karena ia makan dengan tangannya, sementara makhluk lain melalui mulutnya. Dari aspek non-fisik, ia menegaskan bahwa letak kelebihan manusia adalah akalnya sebab dengan akal manusia diberi tanggung jawab (taklīf), dapat mengetahui Tuhannya dan membenarkan misi rasul-Nya. Jika dikaitkan dengan hak persamaan derajat, kelihatannya lebih tepat jika kehormatan manusia diletakkan di atas nilai moralitas, tanpa mengaitkannya dengan kelebihan material. Nilai moralitas yang dimaksud adalah akhlak, perilaku dan keharmonisan.",
 			},
 			{
 				type: "heading",
@@ -1937,8 +2310,8 @@ export const allBlogPosts = [
 			},
 			{
 				type: "paragraph",
-				text: "Secara konseptual, formulasi HAM dalam hukum Islam sangat menekankan pada hak-hak individu dan komunal dalam menghargai harkat dan martabat manusia. Dalam pandangan Islam hak-hak manusia digunakan secara daulat. Namun, hak-hak tersebut diringi oleh kewajiban setiap individu maupun kelompok untuk selalu menghargai hak orang lain. Oleh sebab itu Islam melarang adanya aksi kekerasan baik dari invidu maupun kelompok. Sejalan dengan alasan tersebut, HAM dalam Al-quran diistilahkan dengan Huquq Insaniyah. Prinsip-Prinsip HAM dalam Alquran dapat dijabarkan dari tiga term, yaitu alistiqrār, yakni hak untuk hidup mendiami bumi hingga ajal menjemput. HAM dalam Alquran melahirkan gagasan bahwa hidup tidak dapat dipisahkan dengan agama atau kepercayaan dan karenanya ia juga asasi. Kemudian al-istimtā‘ , yakni hak mengeksplorasi daya dukung terhadap kehidupan. Jadi, term ini juga sangat terkait dengan hak hidup. Berikutnya adalah al-karāmah. Term ini mengandung makna kehormatan yang identik dengan setiap individu tetapi berimplikasi sosial, karena kehormatan diri hanya bisa berjalan jika ada orang lain yang menghormati martabat kemanusiaan seseorang, maka pengertian ini melahirkan hak persamaan derajat. Dari al-karāmah juga menurunkan hak kemerdekaan, di mana filsafat kosmopolitan menegaskan bahwa tidak seorangpun berhak merendahkan martabat orang lain."
-			}
+				text: "Secara konseptual, formulasi HAM dalam hukum Islam sangat menekankan pada hak-hak individu dan komunal dalam menghargai harkat dan martabat manusia. Dalam pandangan Islam hak-hak manusia digunakan secara daulat. Namun, hak-hak tersebut diringi oleh kewajiban setiap individu maupun kelompok untuk selalu menghargai hak orang lain. Oleh sebab itu Islam melarang adanya aksi kekerasan baik dari invidu maupun kelompok. Sejalan dengan alasan tersebut, HAM dalam Al-quran diistilahkan dengan Huquq Insaniyah. Prinsip-Prinsip HAM dalam Alquran dapat dijabarkan dari tiga term, yaitu alistiqrār, yakni hak untuk hidup mendiami bumi hingga ajal menjemput. HAM dalam Alquran melahirkan gagasan bahwa hidup tidak dapat dipisahkan dengan agama atau kepercayaan dan karenanya ia juga asasi. Kemudian al-istimtā‘ , yakni hak mengeksplorasi daya dukung terhadap kehidupan. Jadi, term ini juga sangat terkait dengan hak hidup. Berikutnya adalah al-karāmah. Term ini mengandung makna kehormatan yang identik dengan setiap individu tetapi berimplikasi sosial, karena kehormatan diri hanya bisa berjalan jika ada orang lain yang menghormati martabat kemanusiaan seseorang, maka pengertian ini melahirkan hak persamaan derajat. Dari al-karāmah juga menurunkan hak kemerdekaan, di mana filsafat kosmopolitan menegaskan bahwa tidak seorangpun berhak merendahkan martabat orang lain.",
+			},
 		],
 	},
 ];

@@ -14,13 +14,14 @@ import {
 	Eye,
 	ChevronLeft,
 } from "lucide-react";
-import { motion, AnimatePresence } from "framer-motion";
+import { motion } from "framer-motion";
 
 const blogPostsData = [
 	{
 		id: 1,
 		title: "Peranan Agama Dalam Kehidupan",
-		excerpt: "Penjelasan mendalam mengenai enam rukun iman dalam Islam.",
+		excerpt:
+			"Penjelasan mendalam mengenai peranan agama bagi kehidupan manusia",
 		author: "Tim EdukasiID",
 		date: "20 Juni 2025",
 		readTime: "5 min",
@@ -31,8 +32,7 @@ const blogPostsData = [
 	{
 		id: 2,
 		title: "Sumber Ajaran Islam: Al-Quran",
-		excerpt:
-			"Mengapa shalat menjadi tiang agama dan bagaimana melaksanakannya dengan khusyuk.",
+		excerpt: "Makna dan hikmah Al-Quran sebagai pedoman hidup",
 		author: "Tim EdukasiID",
 		date: "12 Juni 2025",
 		readTime: "7 min",
@@ -43,7 +43,7 @@ const blogPostsData = [
 	{
 		id: 3,
 		title: "Kedudukan As-sunnah Atau Al-hadist",
-		excerpt: "Makna dan hikmah di balik ibadah puasa di bulan Ramadhan.",
+		excerpt: "peranan As-sunnad atau Al-hadist sebagai sumber ajaran islam",
 		author: "Tim EdukasiID",
 		date: "12 Juni 2025",
 		readTime: "6 min",
@@ -54,7 +54,7 @@ const blogPostsData = [
 	{
 		id: 4,
 		title: "Ruang Lingkup Ajaran Islam: Aqidah Dan Syariah",
-		excerpt: "Kewajiban zakat dan dampaknya bagi individu dan masyarakat.",
+		excerpt: "Memahami aqidah dan syariah untuk keberlangsungan hidup manusia",
 		author: "Tim EdukasiID",
 		date: "12 Juni 2025",
 		readTime: "8 min",
@@ -64,8 +64,8 @@ const blogPostsData = [
 	},
 	{
 		id: 5,
-		title: "Al-ijtihad",
-		excerpt: "Sumber Ajaran Islam: Al-ijtihad.",
+		title: "Sumber Ajaran Islam: Al-ijtihad.",
+		excerpt: "Petunjuk hukum dalam perumusan hukum islam",
 		author: "Tim EdukasiID",
 		date: "12 Juni 2025",
 		readTime: "10 min",
@@ -76,7 +76,7 @@ const blogPostsData = [
 	{
 		id: 6,
 		title: "Hakikat Ibadah Dan Urgensinya",
-		excerpt: "Belajar dari ketabahan dan kebijaksanaan para nabi utusan Allah.",
+		excerpt: "Pentingnya beribadah bagi umat islam dan alasannya",
 		author: "Tim EdukasiID",
 		date: "12 Juni 2025",
 		readTime: "12 min",
@@ -127,14 +127,6 @@ const CARDS_TO_SHOW_DESKTOP = 4;
 const CARD_WIDTH_PERCENTAGE = 100 / CARDS_TO_SHOW_DESKTOP;
 
 const HomePage = () => {
-	const showToast = message => {
-		toast({
-			description:
-				message ||
-				"🚧 Fitur ini belum diimplementasikan—tapi jangan khawatir! Anda bisa memintanya di prompt berikutnya! 🚀",
-		});
-	};
-
 	const [currentIndex, setCurrentIndex] = useState(0);
 	const [isMobile, setIsMobile] = useState(false);
 	const scrollContainerRef = useRef(null);
@@ -162,6 +154,10 @@ const HomePage = () => {
 	};
 
 	useEffect(() => {
+		currentIndexRef.current = currentIndex; // Perbarui ref saat currentIndex berubah
+	}, [currentIndex]);
+
+	useEffect(() => {
 		const autoScroll = () => {
 			setCurrentIndex(prevIndex => {
 				if (prevIndex >= maxIndex) return 0;
@@ -178,7 +174,7 @@ const HomePage = () => {
 
 	const cardVariants = {
 		enter: direction => ({
-			x: direction > 0 ? 300 : -300,
+			x: direction > 0 ? 100 : -100,
 			opacity: 0,
 		}),
 		center: {
@@ -188,7 +184,7 @@ const HomePage = () => {
 		},
 		exit: direction => ({
 			zIndex: 0,
-			x: direction < 0 ? 300 : -300,
+			x: direction < 0 ? 100 : -100,
 			opacity: 0,
 		}),
 	};
@@ -290,7 +286,7 @@ const HomePage = () => {
 								}}
 								transition={{
 									type: "spring",
-									stiffness: isMobile ? 200 : 300,
+									stiffness: isMobile ? 200 : 100,
 									damping: isMobile ? 20 : 30,
 								}}
 							>

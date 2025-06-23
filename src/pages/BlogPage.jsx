@@ -1,5 +1,4 @@
-import React from "react";
-import { Link } from "react-router-dom";
+import { Link, useSearchParams } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { Calendar, User, ChevronLeft, ChevronRight } from "lucide-react";
 import { motion } from "framer-motion";
@@ -9,7 +8,8 @@ const allBlogPosts = [
 		id: 1,
 		slug: "peranan-agama-dalam-kehidupan",
 		title: "Peranan Agama Dalam Kehidupan",
-		excerpt: "Penjelasan mendalam mengenai enam rukun iman dalam Islam.",
+		excerpt:
+			"Penjelasan mendalam mengenai peranan agama bagi kehidupan manusia",
 		author: "Tim EdukasiID",
 		date: "12 Juni 2025",
 		image: "/images/blog/1.png",
@@ -18,8 +18,7 @@ const allBlogPosts = [
 		id: 2,
 		slug: "arti-sesungguhnya-jihad",
 		title: "Ajaran Islam Dan Arti Sesungguhnya Jihad ",
-		excerpt:
-			"Mengapa shalat menjadi tiang agama dan bagaimana melaksanakannya dengan khusyuk.",
+		excerpt: "Memahami arti jihad dan membedakannya dengan aksi terorisme",
 		author: "Tim EdukasiID",
 		date: "12 Juni 2025",
 		image: "/images/blog/2.png",
@@ -28,7 +27,7 @@ const allBlogPosts = [
 		id: 3,
 		slug: "al-quran",
 		title: "Sumber Ajaran Islam: Al-Quran",
-		excerpt: "Makna dan hikmah di balik ibadah puasa di bulan Ramadhan.",
+		excerpt: "Makna dan hikmah Al-Quran sebagai pedoman hidup",
 		author: "Tim EdukasiID",
 		date: "12 Juni 2025",
 		image: "/images/blog/3.png",
@@ -37,7 +36,7 @@ const allBlogPosts = [
 		id: 4,
 		slug: "as-sunnah-atau-al-hadist",
 		title: "Kedudukan As-sunnah Atau Al-hadist",
-		excerpt: "Kewajiban zakat dan dampaknya bagi individu dan masyarakat.",
+		excerpt: "peranan As-sunnad atau Al-hadist sebagai sumber ajaran islam",
 		author: "Tim EdukasiID",
 		date: "12 Juni 2025",
 		image: "/images/blog/4.png",
@@ -46,7 +45,8 @@ const allBlogPosts = [
 		id: 5,
 		slug: "ilmu-pengetahuan-dan-teknologi",
 		title: "Islam, Ilmu Pengetahuan Dan Teknologi",
-		excerpt: "Rukun, wajib, dan sunnah haji serta persiapan yang diperlukan.",
+		excerpt:
+			"Perkembangan ilmu pengetahuan dan teknologi dalam peradaban islam",
 		author: "Tim EdukasiID",
 		date: "12 Juni 2025",
 		image: "/images/blog/5.png",
@@ -55,16 +55,16 @@ const allBlogPosts = [
 		id: 6,
 		slug: "aqidah-dan-syariah",
 		title: "Ruang Lingkup Ajaran Islam: Aqidah Dan Syariah",
-		excerpt: "Belajar dari ketabahan dan kebijaksanaan para nabi utusan Allah.",
+		excerpt: "Memahami aqidah dan syariah untuk keberlangsungan hidup manusia",
 		author: "Tim EdukasiID",
 		date: "12 Juni 2025",
 		image: "/images/blog/6.png",
 	},
 	{
 		id: 7,
-		slug: "akhlak-mulia-cerminan-iman",
+		slug: "akhlak",
 		title: "Ruang Lingkup Ajaran Islam: Akhlak",
-		excerpt: "Pentingnya berakhlak mulia dalam Islam dan contoh-contohnya.",
+		excerpt: "Pentingnya berakhlak mulia dalam Islam.",
 		author: "Tim EdukasiID",
 		date: "1 Juni 2025",
 		image: "images/blog/7.png",
@@ -73,7 +73,7 @@ const allBlogPosts = [
 		id: 8,
 		slug: "manusia-dan-agama",
 		title: "Manusia Dan Agama",
-		excerpt: "Belajar dari ketabahan dan kebijaksanaan para nabi utusan Allah.",
+		excerpt: "Hubungan antara manusia dengan agama.",
 		author: "Tim EdukasiID",
 		date: "12 Juni 2025",
 		image: "/images/blog/8.png",
@@ -82,7 +82,7 @@ const allBlogPosts = [
 		id: 9,
 		slug: "ibadah-dan-urgensinya",
 		title: "Hakikat Ibadah Dan Urgensinya",
-		excerpt: "Belajar dari ketabahan dan kebijaksanaan para nabi utusan Allah.",
+		excerpt: "Pentingnya beribadah bagi umat islam",
 		author: "Tim EdukasiID",
 		date: "12 Juni 2025",
 		image: "/images/blog/9.png",
@@ -91,7 +91,7 @@ const allBlogPosts = [
 		id: 10,
 		slug: "kisah-para-nabi",
 		title: "Islam Dan Kebudayaan",
-		excerpt: "Belajar dari ketabahan dan kebijaksanaan para nabi utusan Allah.",
+		excerpt: "Kebudayaan yang terjalin dengan adanya islam",
 		author: "Tim EdukasiID",
 		date: "12 Juni 2025",
 		image: "/images/blog/10.png",
@@ -100,7 +100,7 @@ const allBlogPosts = [
 		id: 11,
 		slug: "al-ijtihad",
 		title: "Sumber Ajaran Islam: Al-ijtihad",
-		excerpt: "Belajar dari ketabahan dan kebijaksanaan para nabi utusan Allah.",
+		excerpt: "Petunjuk hukum dalam perumusan hukum islam",
 		author: "Tim EdukasiID",
 		date: "12 Juni 2025",
 		image: "/images/blog/11.png",
@@ -109,7 +109,7 @@ const allBlogPosts = [
 		id: 12,
 		slug: "islam-dan-toleransi",
 		title: "Sumber Ajaran Islam: Islam Dan Toleransi",
-		excerpt: "Belajar dari ketabahan dan kebijaksanaan para nabi utusan Allah.",
+		excerpt: "Indahnya bertoleransi antar agama",
 		author: "Tim EdukasiID",
 		date: "12 Juni 2025",
 		image: "/images/blog/12.png",
@@ -119,7 +119,8 @@ const allBlogPosts = [
 const POSTS_PER_PAGE = 5;
 
 const BlogPage = () => {
-	const [currentPage, setCurrentPage] = React.useState(1);
+	const [searchParams, setSearchParams] = useSearchParams();
+	const currentPage = parseInt(searchParams.get("page")) || 1;
 
 	const totalPages = Math.ceil(allBlogPosts.length / POSTS_PER_PAGE);
 	const startIndex = (currentPage - 1) * POSTS_PER_PAGE;
@@ -129,7 +130,7 @@ const BlogPage = () => {
 	);
 
 	const handlePageChange = page => {
-		setCurrentPage(page);
+		setSearchParams({ page });
 		window.scrollTo(0, 0);
 	};
 

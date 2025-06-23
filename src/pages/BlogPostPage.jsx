@@ -26,6 +26,7 @@ const ArabicTextCard = ({ text, translation }) => (
 const BlogPostPage = () => {
 	const { id: slug } = useParams();
 	const post = allBlogPosts.find(p => p.slug === slug);
+	const endPost = post.id % 5 == 0 ? 0 : 1;
 
 	if (!post) {
 		return (
@@ -58,7 +59,7 @@ const BlogPostPage = () => {
 					transition={{ delay: 0.1 }}
 				>
 					<Link
-						to="/blog"
+						to={`/blog?page=${Math.floor(post.id / 5) + endPost}`}
 						className="inline-flex items-center text-primary hover:underline mb-6"
 					>
 						<ChevronLeft className="mr-1 h-4 w-4" /> Kembali ke Semua Artikel

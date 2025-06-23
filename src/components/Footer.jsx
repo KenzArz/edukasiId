@@ -16,7 +16,7 @@ const Footer = () => {
 
 	const navItems = [
 		{ to: "/", label: "Home" },
-		{ to: "/blog", label: "Blog" },
+		{ to: "/blog?page=1", label: "Blog" },
 		{ to: "/about", label: "About" },
 	];
 

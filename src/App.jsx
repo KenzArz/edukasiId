@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { Routes, Route, useLocation } from "react-router-dom";
 import { Toaster } from "@/components/ui/toaster";
 import Header from "@/components/Header";
@@ -10,13 +10,24 @@ import AboutPage from "@/pages/AboutPage";
 import { AnimatePresence } from "framer-motion";
 
 function App() {
-	const [isDark, setIsDark] = React.useState(false);
+	const [isDark, setIsDark] = useState(false);
 	const location = useLocation();
 
 	const toggleTheme = () => {
-		setIsDark(!isDark);
-		document.documentElement.classList.toggle("dark");
+		setIsDark(prev => !prev);
 	};
+
+	useEffect(() => {
+		const darkTheme = localStorage.getItem("isDark");
+		if (darkTheme == "true") {
+			setIsDark(true);
+		}
+	}, []);
+
+	useEffect(() => {
+		document.documentElement.classList.toggle("dark");
+		localStorage.setItem("isDark", isDark);
+	}, [isDark]);
 
 	return (
 		<div className={`min-h-screen ${isDark ? "dark" : ""}`}>
