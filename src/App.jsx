@@ -25,7 +25,6 @@ function App() {
 	}, []);
 
 	useEffect(() => {
-		document.documentElement.classList.toggle("dark");
 		localStorage.setItem("isDark", isDark);
 	}, [isDark]);
 
