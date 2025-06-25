@@ -1859,7 +1859,156 @@ export const allBlogPosts = [
 		author: "Tim EdukasiID",
 		date: "12 Juni 2025",
 		image: "/images/blog/9.png",
-		content: [],
+		content: [
+			{
+				type: "heading",
+				level: 2,
+				text: "Hakikat Ibadah Dalam Islam",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Pengertian Ibadah",
+			},
+			{
+				type: "paragraph",
+				text: 'Secara etimologi, ibadah berasal dari kata "‘abada" yang berarti merendahkan diri, tunduk, dan taat. Dalam istilah syariat, ibadah mencakup segala sesuatu yang dicintai dan diridhai Allah SWT.',
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Dasar Hukum Ibadah",
+			},
+			{
+				type: "paragraph",
+				text: "Ibadah memiliki landasan kuat dalam Al-Qur’an dan Sunnah. Beberapa dalil penting antara lain:",
+			},
+			{
+				type: "heading",
+				level: 4,
+				text: "1. Al-Qur’an",
+			},
+			{
+				type: "arabic",
+				text: "وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ",
+				translation:
+					"Dan Aku tidak menciptakan jin dan manusia melainkan supaya mereka menyembah-Ku. (QS. Adz-Dzariyat: 56)",
+			},
+			{
+				type: "heading",
+				level: 4,
+				text: "2. Hadis Nabi",
+			},
+			{
+				type: "arabic",
+				text: "بُنِيَ الْإِسْلَامُ عَلَى خَمْسٍ شَهَادَةِ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ وَإِقَامِ الصَّلَاةِ وَإِيتَاءِ الزَّكَاةِ وَالْحَجِّ وَصَوْمِ رَمَضَانَ",
+				translation:
+					"Islam dibangun di atas lima perkara: bersyahadat bahwa tidak ada tuhan selain Allah dan Muhammad adalah utusan Allah, menegakkan shalat, menunaikan zakat, berpuasa di bulan Ramadhan, dan berhaji ke Baitullah. (HR. Bukhari dan Muslim)",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Ruang Lingkup dan Jenis-Jenis Ibadah",
+			},
+			{
+				type: "paragraph",
+				text: "Ibadah dalam Islam mencakup dua dimensi besar:",
+			},
+			{
+				type: "list_number",
+				items: [
+					"Ibadah Mahdhah (murni): Shalat, puasa, zakat, haji, dan amalan ritual lainnya.",
+					"Ibadah Ghairu Mahdhah (umum): Semua aktivitas duniawi yang dilakukan karena Allah, seperti belajar, bekerja, atau bahkan tidur, jika diniatkan untuk kebaikan dan dilakukan sesuai syariat.",
+				],
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Tujuan dan Nilai Ibadah",
+			},
+			{
+				type: "paragraph",
+				text: "Tujuan ibadah meliputi:",
+			},
+			{
+				type: "list_number",
+				items: [
+					"Penghambaan sejati: Menunjukkan ketundukan total kepada Allah.",
+					"Penyucian jiwa: Membersihkan hati dari penyakit batin seperti riya', sombong, dan dengki.",
+					"Pembentukan akhlak mulia: Ibadah membentuk pribadi disiplin, jujur, dan sabar.",
+				],
+			},
+			{
+				type: "heading",
+				level: 2,
+				text: "Urgensi Ibadah Dalam Kehidupan",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Ibadah sebagai Tujuan Penciptaan",
+			},
+			{
+				type: "paragraph",
+				text: "Seperti disebutkan dalam QS. Adz-Dzariyat: 56, tujuan utama penciptaan manusia adalah untuk beribadah kepada Allah SWT. Maka dari itu, orientasi utama seorang Muslim adalah menjadikan kehidupannya bernilai ibadah.",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Ibadah sebagai Sarana Tazkiyah (Penyucian Jiwa)",
+			},
+			{
+				type: "paragraph",
+				text: "Ibadah tidak hanya berdampak lahiriah tetapi juga batiniah. Shalat, misalnya, bukan hanya aktivitas gerakan, tetapi sarana untuk menyucikan hati dan mendekatkan diri kepada Allah.",
+			},
+			{
+				type: "arabic",
+				text: "اُتْلُ مَآ اُوْحِيَ اِلَيْكَ مِنَ الْكِتٰبِ وَاَقِمِ الصَّلٰوةَۗ اِنَّ الصَّلٰوةَ تَنْهٰى عَنِ الْفَحْشَاۤءِ وَالْمُنْكَرِۗ وَلَذِكْرُ اللّٰهِ اَكْبَرُۗ وَاللّٰهُ يَعْلَمُ مَا تَصْنَعُوْنَ",
+				translation:
+					"Bacalah Kitab (Al-Qur'an) yang telah diwahyukan kepadamu (Muhammad) dan laksanakanlah shalat. Sesungguhnya shalat itu mencegah dari (perbuatan) keji dan mungkar. Dan (ketahuilah) mengingat Allah (shalat) itu lebih besar (keutamaannya dari ibadah yang lain). Allah mengetahui apa yang kamu kerjakan. (QS. Al-‘Ankabut: 45)",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Ibadah dan Keseimbangan Hidup",
+			},
+			{
+				type: "paragraph",
+				text: "Ibadah menyeimbangkan antara kebutuhan spiritual dan jasmani. Dalam Islam, tidak ada dikotomi antara dunia dan akhirat. Keduanya saling melengkapi",
+			},
+			{
+				type: "arabic",
+				text: "وَابْتَغِ فِيْمَآ اٰتٰىكَ اللّٰهُ الدَّارَ الْاٰخِرَةَ وَلَا تَنْسَ نَصِيْبَكَ مِنَ الدُّنْيَا وَاَحْسِنْ كَمَآ اَحْسَنَ اللّٰهُ اِلَيْكَ وَلَا تَبْغِ الْفَسَادَ فِى الْاَرْضِۗ اِنَّ اللّٰهَ لَا يُحِبُّ الْمُفْسِدِيْنَ",
+				translation:
+					"Dan, carilah pada apa yang telah dianugerahkan Allah kepadamu (pahala) negeri akhirat, tetapi janganlah kamu lupakan bagianmu di dunia. Berbuat baiklah (kepada orang lain) sebagaimana Allah telah berbuat baik kepadamu dan janganlah kamu berbuat kerusakan di bumi. Sesungguhnya Allah tidak menyukai orang-orang yang berbuat kerusakan. (QS. Al-Qashash: 77)",
+			},
+			{
+				type: "heading",
+				level: 3,
+				text: "Ibadah dalam Membangun Masyarakat",
+			},
+			{
+				type: "paragraph",
+				text: "Ibadah juga memiliki dimensi sosial:",
+			},
+			{
+				type: "list_number",
+				items: [
+					"Zakat mensucikan harta dan menumbuhkan solidaritas sosial",
+					"Shalat berjamaah membangun persatuan dan ukhuwah.",
+					"Haji mempersatukan umat Islam dari berbagai bangsa.",
+				],
+			},
+			{
+				type: "heading",
+				level: 2,
+				text: "Kesimpulan",
+			},
+			{
+				type: "paragraph",
+				text: "Ibadah dalam Islam memiliki makna yang luas, tidak terbatas pada ritual (ibadah mahdhah seperti salat dan puasa) tetapi mencakup seluruh aktivitas hidup (ibadah ghairu mahdhah seperti bekerja dan belajar) yang diniatkan karena Allah dan sesuai syariat. Tujuannya adalah membentuk pribadi yang bertakwa, berakhlak mulia, membersihkan jiwa, serta membangun masyarakat yang harmonis dan adil. Dengan pemahaman holistik ini, seorang Muslim dapat menyeimbangkan urusan dunia dan akhirat, menciptakan kehidupan yang sempurna secara spiritual, sosial, dan moral, serta menjadi individu yang bermanfaat.",
+			},
+		],
 	},
 	{
 		id: 10,

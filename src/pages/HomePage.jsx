@@ -479,10 +479,12 @@ const HomePage = () => {
 									</div>
 
 									<p className="text-muted-foreground mb-6 leading-relaxed">
-										"Pendidikan Islam bukan hanya tentang menghafal, tetapi
-										memahami dan mengamalkan. Saya berkomitmen untuk membimbing
-										setiap mahasiswa menemukan makna sejati dalam setiap
-										pembelajaran."
+										Dr. Khalid Ramdhani, S.Pd.I., M.Pd.I merupakan salah satu
+										tenaga pendidik di Universitas Singaperbangsa Karawang
+										(UNSIKA). Beliau memiliki keahlian lintas disiplin, mengajar
+										di Fakultas Agama Islam dan juga berkontribusi dalam
+										pengajaran di program studi Informatika, Fakultas Ilmu
+										Komputer UNSIKA.
 									</p>
 								</div>
 							</div>
